@@ -1,0 +1,798 @@
+﻿WATU Customer Complaints Management Process  
+Document No: PR-BM-CS-01
+Version V.1.0
+Date: Date
+________________
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WATU Customer Complaints Management Process
+Watu Process Description
+Document No: PR-BM-CS-01
+Version V.1.0
+Publication date: Date
+
+
+
+
+Table of Contents
+1 Overview        3
+1.1 Purpose and Goal        3
+1.2 Scope        3
+1.3 Main Inputs and Outputs        3
+1.3.1 Input        4
+1.3.2 Output        4
+1.4 Roles and Responsibilities        4
+1.5 Systems and Templates        6
+2 Process Lifecycle        7
+2.1 Process Description        8
+2.2 Case Escalation        9
+2.3 Case Resolution Scenarios        10
+3 RACI matrix        13
+4 Process Key Performance Indicators & Metrics        14
+5 Related Documents        14
+6 Terms and Abbreviation        14
+7 Version History and Document Approval        14
+
+
+
+
+________________
+
+
+1. Overview[a]
+This Document defines and regulates the WATU Customer Complaints Management Process within Watu.
+This process is intended to provide a structured and effective framework for managing and addressing Customer issues that cannot be resolved at the initial point of contact.
+   1. Purpose and Goal
+The purpose of the WATU Customer Complaints Management Process is to establish a systematic and transparent framework for addressing Customer grievances and resolving complex or challenging issues that require the involvement of higher-level authorities or specialised teams ensuring that issues are resolved promptly, fairly, and to the satisfaction of the Customer. 
+The goal of the WATU Customer Complaints Management Process is to ensure Customer satisfaction, foster loyalty, and contribute to the long-term success of the business. 
+   2. Scope
+This document describes only high-level principles and the procedure of the WATU Customer Complaints Management Process. Detailed instructions and further information can be found in the work instructions and related documents listed in the 'Related Documents' section, which are maintained by the Process Owner and Process Manager..
+The scope of the WATU Customer Complaints Management Process includes the framework and guidelines for managing and resolving Customer complaints and issues that cannot be resolved at the initial point of contact. This ensures a systematic and effective approach to handling escalated situations.
+The Company-financed assets and provided services.
+Out of scope of the WATU Customer Complaints Management Process specifically excludes the following:
+* Matters not directly related to the Company's products or services, such as personal grievances or unrelated external factors.
+* Cases involving clear evidence of fraudulent activities, which require separate handling by legal or security teams.
+* Situations where Customer expectations are deemed unreasonable or beyond the Company's capabilities.
+* Instances of abusive or threatening behavior towards employees, which are handled through separate workplace harassment or security protocols.
+* Persistent violations of the terms of service or abuse of Company policies, which may involve legal or compliance teams.
+* Complaints that have already been resolved through the standard process and are resubmitted without new information.
+* Complaints arising from the misuse of products or services, or unauthorized modifications by the Customer.
+* Matters falling outside the scope of the Company's contractual obligations to the Customer.
+   1. Main Inputs and Outputs
+The inputs and outputs of the WATU Customer Complaints Management Process define upstream and downstream activities of the process.
+INPUT
+	PROCESS
+	OUTPUT
+	Customer Complaint
+	WATU Customer Complaints Management Process Process
+	Continuous Improvement Process
+	Customer Care Interactions
+	Internal Investigation Trigger
+	
+
+	Service Portfolio Adjustments
+	      1. Input
+* Customer Complaint: A formal complaint or feedback submitted by a Customer through various channels (e.g., phone, branch visit, online form) to the Company.
+* Customer Care Interactions: Information or issues identified during routine Customer Care activities, such as Customer outreach or follow-ups, which may lead to a formal complaint being logged.
+      1. Output
+* Continuous Improvement Process: Identification and initiation of a process improvement project based on insights gained from handling Customer complaints.
+* Internal Investigation Trigger: Commencement of an internal investigation if a potential compliance breach or policy violation is suspected during complaint resolution.
+* Service Portfolio Adjustments: Recommendations or changes to existing service offerings or business processes based on recurring complaint themes or identified service gaps.
+   1. Roles and Responsibilities
+The following roles are involved in the process execution:
+Role
+	Customer
+	Role purpose
+	* To formally submit complaints, feedback, or issues related to ongoing or closed cases, services, or products provided by Watu. This includes providing details about the problem, any relevant documentation, and desired outcomes.
+	Authorities (A)
+	* To receive timely and accurate information regarding the status, investigation, and resolution of their submitted complaints or issues. 
+* To request clarification or further details about the resolution process and decisions.
+	Responsibilities (R)
+	* To provide complete, accurate, and truthful information regarding the complaint or issue. 
+* To take any necessary corrective actions that are within their control and as agreed upon during the resolution process.
+	Role Assignment
+	* Any individual that is a Watu Customer
+	
+
+Role
+	Watu Representative
+	Role purpose
+	* To receive, document, and accurately report Customer-submitted complaints, feedback, or issues. 
+* To provide initial assistance and information to the Customer when possible.
+	Authorities (A)
+	* To request and gather all necessary details and supporting information from the Customer regarding their complaint or issue.
+* To provide general information about Watu's processes and services.
+	Responsibilities (R)
+	* To ensure complete, accurate, and timely documentation of Customer complaints and feedback in the designated system. 
+* To escalate unresolved issues or complex complaints to the Case Distributor or appropriate department as per the established escalation process. 
+* To maintain a professional and Customer-focused approach when interacting with Customers.
+	Role Assignment
+	* Any employee of Watu who interacts with Customers and may receive complaints or feedback as part of their role.
+	
+
+Role
+	Case Distributor
+	Role purpose
+	* To receive, triage, and accurately distribute incoming Customer complaints, feedback, or issues to the appropriate department or employee based on established company standards and routing procedures.
+* To ensure timely and efficient handling of all complaints and feedback.
+	Authorities (A)
+	* To access and review Customer complaints, feedback, or issues received through various channels (e.g., phone, email, online forms). 
+* To determine the appropriate department or employee responsible for handling each complaint based on its nature, subject, and complexity. 
+* To assign case numbers and track the progress of complaints and feedback.
+	Responsibilities (R)
+	* To accurately distribute complaints and feedback to the designated department or employee within established timeframes. 
+* To maintain accurate records of case assignments and communication with Customers. 
+* To escalate any issues or complex complaints requiring higher-level attention. 
+* To adhere to company policies and procedures regarding complaint handling.
+	Role Assignment
+	* Employees within the Watu Call Centers [b][c][d]specifically designated as Case Distributors.
+	
+
+Role
+	Case Officer
+	Role purpose
+	* To investigate assigned Customer complaints, feedback, or issues thoroughly and objectively to determine the cause and appropriate resolution.
+* To gather and analyze relevant information, including Customer communications, product documentation, and internal records, as needed.
+* To communicate with Customers throughout the investigation process, keeping them informed about progress and seeking additional details or clarification when necessary.
+	Authorities (A)
+	* To request additional information and documentation from Customers or other stakeholders related to the complaint or issue. 
+* To consult with internal departments or subject matter experts for guidance or clarification as needed.
+* To make decisions regarding the resolution of the complaint within the scope of their authority and in accordance with established company policies.
+	Responsibilities (R)
+	* To provide a timely and accurate resolution to the complaint or issue, taking into account Customer expectations and applicable regulations.
+* To document the investigation process and resolution findings clearly and concisely in the case management system.
+* To communicate the resolution to the Customer in a clear, concise, and professional manner. 
+* To follow up with Customers after resolution to ensure their satisfaction and address any outstanding concerns.
+	Role Assignment
+	* Employees within Watu who are designated as Case Officers based on their training, experience, and expertise in hand[e][f]ling Customer complaints and issues.
+	
+
+Role
+	Responsible Department
+	Role purpose
+	* To directly address and resolve Customer complaints, feedback, or issues that fall within the department's area of expertise and responsibility. 
+* To provide effective solutions and ensure Customer satisfaction by resolving issues related to their specific functions (e.g., Asset Ownership Transfer Department for asset ownership issues, Collections Department for repayment queries, etc.).
+	Authorities (A)
+	* To request and obtain all necessary information, documentation, and resources required to resolve the Customer's issue effectively.
+* To collaborate with other departments or stakeholders as needed to facilitate issue resolution. 
+* To make decisions and take actions within their departmental authority to address and resolve the complaint.
+	Responsibilities (R)
+	* To conduct a thorough investigation of the Customer's complaint or issue to identify the root cause. 
+* To analyze the situation and develop an appropriate solution or course of action to resolve the issue.
+* To implement the solution promptly and effectively, ensuring it addresses the Customer's concerns. 
+* To communicate with the Customer regarding the progress and resolution of their issue, providing clear and timely updates. 
+* To document the resolution process and actions taken in the case management system. 
+* To implement corrective and preventive actions to prevent similar issues from recurring in the future.
+	Role Assignment
+	* Any department or team within Watu that possesses the expertise and resources to address and resolve specific Customer complaints or issues related to their area of responsibility.
+	
+
+Role
+	Process Manager
+	Role purpose
+	* To ensure a proper follow-through and the operational management of the WATU Customer Complaints Management Process 
+	Authorities (A)
+	* Request additional information to ensure proper process implementation
+* Conduct process review and suggest improvements to the Process Owner
+	Responsibilities (R)
+	* Plan and coordinate all activities related to process implementation, execution, communication, monitoring, and reporting. 
+* Suggest process improvements and communicate changes with all involved stakeholders
+	Role Assignment
+	* Customer Insights Manager (Kenya)
+[g][h][i]	
+
+
+Role
+	Process Owner
+	Role purpose
+	* To ensure the WATU Customer Complaints Management Process is Fit for Purpose
+	Authorities (A)
+	* Ensure proper change management process is followed for suggested process changes
+* To approve and/or reject proposed process changes
+	Responsibilities (R)
+	* Review all proposed process changes,
+* Ensure all Stakeholders and/or Process Managers have been consulted and informed
+* Ensure process reviews are conducted as per Continuous Improvement Process
+	Role Assignment
+	* Chief Operating Officer
+	   2. Systems and Templates
+The below table shows the various systems and templates used in WATU Customer Complaints Management Process.
+System or Template ID
+	Direct reference
+	Details
+	Personal Data Processing
+	S1 - Customer Feedback Module
+	Customer Feedback Module
+	The report shows detailed analysis on escalated, resolved and pending cases from different teams.
+	N/A
+	S2 - Customer Insights Module
+	Customer Insights Module
+	The report shows detailed analysis on escalated, resolved and pending cases from different teams.
+	N/A
+	S3 - Customer Feedback Management Module - KE
+	Customer Feedback Management Module - KE
+	The report provides a comprehensive analysis of escalated, resolved, and pending cases across various teams. It displays information about the assigned officer, detailing the actions taken.
+	Customer name, Customer ID,  Customer phone number, Number Plate, Loan ID
+	T1 -Kenya
+	Customer Complaints Escalation Ticket - Watu Kenya
+	The ticket used by Customer facing teams to escalate Customer complaints in Kenya.
+	Customer name; Customer ID; Customer phone number; Number Plate
+	T1 -Uganda
+	Customer Complaints Escalation Ticket - Watu Uganda
+	The ticket used by Customer facing teams to escalate Customer complaints in Uganda.
+	Customer name; Customer ID; Customer phone number; Number Plate
+	T1 - Tanzania
+	Customers Complaints & Feedback - Tanzania (Responses)
+	The ticket used by Customer facing teams to escalate Customer complaints in Tanzania.
+	Customer name; Customer ID; Customer phone number; Number Plate
+	T2 - Marketing team feedback Ticket
+	Marketing team feedback
+	This ticket is exclusively  used by the Field marketing department. It's shorter, more precise, and less detailed than the previous.
+	Customer name
+Customer ID
+Customer phone number
+Number Plate
+	________________
+
+
+2. Process Lifecycle
+Throughout the loan servicing period, Customers may reach out to Watu for various reasons, including providing feedback, reporting issues, or submitting complaints.
+* Feedback: General comments, suggestions, or opinions about Watu's products, services, or processes.
+* Issues: Problems or matters that Customers encounter and require assistance to resolve. These may include technical difficulties, account discrepancies, or service interruptions.
+* Complaints: Formal expressions of dissatisfaction with Watu's products, services, or employee conduct.
+This section outlines the key steps of the Customer communication handling process, which focuses on addressing complaints and issues. The process is designed to ensure that Customer feedback, issues, and complaints are effectively received, thoroughly investigated, and used to develop appropriate corrective and preventive action plans.
+  
+
+Customers can submit their communications through multiple channels, including:
+* Calling Watu's provided phone numbers.
+* Visiting a Watu Branch office in person.
+* Interacting with the Sales team.
+When a Customer contacts Watu, the initial interaction aims to address their feedback, resolve their issue, or handle their complaint during the call/interaction. If the matter can be resolved immediately by providing information, clarification, or taking simple actions, the interaction will be concluded. However, if the issue or complaint is technical, complex, or requires further investigation, it will be forwarded to the responsible team or department that handles the process for addressing such matters.
+The most common types of Customer complaints and issues include, but are not limited to:
+* Loan Repayment: Queries or issues related to making payments, payments to incorrect accounts, missing payment confirmations, phone number changes, deceased Customer cases, and other related matters.
+* Asset Ownership Transfer: Inquiries and issues related to logbooks and number plates.
+* Mechanical Issues: Problems with asset repairs, GPS tracker malfunctions or replacements.
+* Asset Recovery: Complaints regarding returned, repossessed, or recovered assets.
+* Accident and Theft: Cases involving assets under police custody, insurance claims, or missing rider gear (helmets, reflective jackets).
+* Vandalism: Instances of vandalism occurring externally or on Watu premises.
+* Fraud and Customer-Rider Issues: Cases involving fraud or disputes between Customers and riders.
+* General Customer Feedback: Feedback regarding products, processes, or employee conduct.
+   1. Process Description
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A), consulted (C) and informed (I) in regard to a task.
+The role abbreviations in the RACI matrix are used as follows: Customer (C), Watu Representative (WR), Case Distributor (CD), Case Officer (CO), Responsible Department (RD).
+Step
+	Description
+	C
+	WR
+	CD
+	CO
+	RD
+	1 Report an issue/ complaint
+	Customers can report complaints through various channels, including contacting a Watu Representative (WR) directly or in response to contact initiated by Watu (e.g., regarding a missing payment). Customers may also seek clarification and consult with a WR regarding their situation.
+	RA
+	CI
+	
+
+	
+
+	
+
+	2 Submit a ticket T1 or T2[j][k]
+	Watu Representatives (WRs) should first attempt to resolve the Customer's issue by providing the necessary information. If the WR lacks the required knowledge or authority, they must submit an Escalation Ticket. 
+To ensure comprehensive information, WRs should consult with the Customer. All Customer-facing teams are required to use the T1 - Customer Complaints Escalation Ticket, except for the Field Marketing team, which uses the T2 - Marketing Team Feedback ticket for escalations.
+	C
+	RA
+	
+
+	
+
+	
+
+	3 Categorise and assign the case 
+	Issues are categorized according to feedback and query types and then assigned to Case Officers. The Case Distributor may also assign cases to themselves and act as a Case Officer.
+	
+
+	
+
+	RA
+	I
+	
+
+	4 Validation call
+	The Case Officer will initiate the first contact with the Customer within two (2) business days of receiving the ticket. This initial contact will be made to:
+* Validate the escalated case and/or issues.
+* Collect further information regarding the complaint.
+* Resolve the complaint during the call, if feasible.
+* Initiate an investigation and escalate the case as necessary.
+	C
+	
+
+	
+
+	RA
+	
+
+	5 Case valid?
+	The Case Officer determines whether the case is valid. For example, if a Customer requests a logbook transfer for a loan that is not yet closed, the case would be deemed invalid. 
+If the case is deemed invalid, proceed to Step 6. If the case is deemed valid, proceed to Step 7.
+	
+
+	
+
+	
+
+	RA
+	
+
+	6 Explain the reasons and close the case
+	If the Case Officer determines that the complaint is invalid, they will explain the reason to the Customer during the call and close the case in the system.
+	I
+	
+
+	
+
+	RA
+	
+
+	7 On-call resolution?
+	If the case is determined to be valid, the Case Officer will continue gathering information during the call to assess whether the issue can be resolved immediately. 
+If the issue can be resolved during the call, proceed to Step 8. If the issue cannot be resolved during the call, proceed to Step 9.
+	
+
+	
+
+	
+
+	RA
+	
+
+	8 Resolve the issue and close the case
+	During the call, the Case Officer will provide the necessary support to the Customer, resolve the complaint, and close the case within the system.
+	I
+	
+
+	
+
+	RA
+	
+
+	9 Escalate to the Responsible Department
+	If the issue cannot be resolved during the initial call, the Case Officer must escalate the case to the appropriate department or team. During this escalation, the Case Officer will:
+* Notify all relevant stakeholders.
+* Assign a priority level to the case.
+* Request status updates on any previously escalated cases.
+	I
+	
+
+	
+
+	RA
+	I
+	10 Take corrective and preventive actions
+	The Responsible Department will conduct a thorough investigation to resolve the case. If needed, they will initiate further communication with the Customer to facilitate a resolution. 
+Depending on the nature of the issue, this may trigger additional processes. The Responsible Department is also responsible for implementing preventive actions to minimize the recurrence of similar issues.
+	CI
+	
+
+	
+
+	
+
+	RA
+	11 Follow-up with the responsible department
+	The time required for case closure varies based on the complexity of the issue. The Case Officer is responsible for adhering to the standard case closure Service Level Agreements (SLAs) and will proactively request progress updates on issue resolution. 
+These updates will be obtained through weekly or bi-weekly calls or SMS messages, depending on the specific feedback category..
+	
+
+	
+
+	
+
+	RA
+	C
+	12 Case closed?
+	Upon case closure, proceed to Step 13. 
+If the case remains unresolved after a scheduled follow-up, return to Step 11, and the Case Officer will conduct the subsequent follow-up as planned.
+	
+
+	
+
+	
+
+	RA
+	C
+	13 Resolution call to the Customer
+	Following the resolution of the case, the Case Officer will conduct a final call with the Customer to confirm the issue has been fully resolved. During this call, the Case Officer will also reiterate Watu's commitment to providing further assistance if required.
+	CI
+	
+
+	
+
+	RA
+	
+
+	14 Issue resolved?
+	If the Customer confirms the case is resolved to their satisfaction, proceed to Step 15. 
+However, if the Customer reports any remaining issues or dissatisfaction with the case closure, return to Step 9 to re-escalate the issue to the Responsible Department..
+	I
+	
+
+	
+
+	RA
+	
+
+	15 Close the case
+	Upon receiving confirmation of resolution satisfaction from the Customer, the Case Officer will formally close the case within the designated system.
+	
+
+	
+
+	
+
+	RA
+	
+
+	   2. Case Escalation
+The below steps describe the escalation process for case resolution.
+
+
+1. Initial Review and Resolution Attempt: The Case Officer will review the complaint and attempt to resolve it using existing company policies and procedures. The Customer will be informed that their complaint has been received and provided with the following information:
+   1. The assigned case number (if applicable).
+   2. Confirmation of the complaint details with the Customer.
+   3. Customer Care contact information.
+   4. If the complaint can be resolved using current policies and procedures, it will be closed. Otherwise, the complaint will be escalated.
+2. Escalation to Relevant Department and Follow-up Process: If the Case Officer cannot resolve the complaint using existing policies and procedures, it will be escalated via email to the relevant Department Head(s) or assigned person. The following follow-up process will be implemented:
+   1. Follow-up Process 1 (within 24 hours): A response is expected from the Department Head or assigned person within 24 hours. The Case Officer will review the response and provide feedback to the Customer. If a conclusive answer is not provided, the complaint will be escalated further.
+   2. Follow-up Process 2 (Manager involvement): The Manager of the Case Officer will follow up, investigate the case, and discuss it with the relevant Department Head or assigned person. The Case Officer will review the response and provide feedback to the Customer. If a conclusive answer is not provided, the complaint will be escalated further.
+   3. Follow-up Process 3 (Head of Department involvement): The Case Officer’s Head of Department will follow up, investigate the case, and discuss it with the relevant Department Head or assigned person. The Case Officer will review the response and provide feedback to the Customer. If a conclusive answer is not provided, the complaint will be escalated further.
+   4. Follow-up Process 4 (Country Manager involvement): The Country Manager will follow up, investigate the case, and discuss it with the relevant Department Head or assigned person. The Customer Insights Team will review the response and provide feedback to the Customer. If a conclusive answer is not provided, the complaint will be escalated further.
+   3. Case Resolution Scenarios
+Feedback Category
+	Resolution 
+	Accident Complaints (Mobility Assets)
+	1. Asset Repair and Loan Adjustment (Rescheduling or Restructuring): When the asset has been successfully repaired through Watu-funded repairs under the 30/70 rule, Customer self-repairs, warranty repairs, or insurance repairs, the loan will be either rescheduled (delaying the next due payment) or restructured (modifying loan terms) as appropriate, and the asset will be returned to the Customer. 
+2. Irreparable Asset Write-Off: If the asset is deemed irreparable, the following actions will be taken:
+   1. Ineligible for Replacement: If the Customer has a poor repayment history, the loan will be closed, and the Customer will be deemed ineligible for a replacement asset. They will be notified accordingly.
+   2. Approved for Replacement: If the Customer is eligible, they will be approved for a replacement asset and notified of the approval and process. 
+3. Fatality Due to Accident: In the unfortunate event that a Customer succumbs to injuries from an accident involving the Watu-financed asset, the following options will be considered in consultation with the Next of Kin (NOK):
+   1. NOK Surrenders Asset: The Next of Kin (NOK) may surrender the asset.
+   2. Asset Transferred to NOK: The asset may be transferred to the Next of Kin (NOK), provided they meet Watu's loan eligibility requirements for a Loan Transfer.
+   3. Loan Write-Off and Asset Given to NOK: In specific circumstances and with appropriate approvals, the loan may be written off, and the asset given to the NOK.
+	Asset Under Police Custody
+(Mobility Assets)
+	1. Asset Bailed Out and Returned to Office: When the asset has been bailed out and returned to the office: 
+   1. The asset is returned to the Customer, and the loan is rescheduled. 
+   2. The asset is put on sale if the Customer is not interested in it. 
+   3. If Watu determines not to return the asset to the Customer due to underlying issues. 
+2. Customer Bails Out Asset Individually: When the Customer has bailed out the asset independently, and the loan is rescheduled.
+	Customer Rider Issues
+(Mobility Assets)
+	1. Asset Recovered and Customer Contacted: When the asset has been recovered and taken to the office, and the Customer is contacted for collection (with the loan rescheduled where necessary).
+2. Asset Recovered, Not Returned to Customer: When the asset is recovered, Watu determines not to return the asset to the Customer due to underlying issues, and the Customer is notified.
+	Collections - Loan Officer Conduct
+	1. Case Reported and Officer Changed: When the case has been reported to the collections supervisor, and the Customer is assigned a different officer and notified of the change. 
+2. No Misconduct Found: When it is determined that the loan officer had no misconduct while engaging the Customer, and the Customer acknowledges this and agrees to retain the current officer.
+	Collections - Loan Repayment Queries
+	1. Repayment Plan Agreed: When the Customer has been connected to the collections officer, and they confirm they have had a conversation and agreed on a repayment plan.
+	Customer Feedback - Product or Process Feedback
+	1. Customer Education and Confirmation: When the Customer has been fully educated on the subject, and they confirm understanding.
+2. Feedback Acknowledged and Forwarded: After acknowledging receipt of the feedback and forwarding it to the relevant department(s). 
+3. Unreachable Customer: If the Customer and Mifos contact are continuously unreachable for a period exceeding 7 days.
+	Stolen/Theft of Asset        
+	1. Asset Recovered and Returned: When the asset has been recovered and brought back to the office, the loan is rescheduled, and the asset is issued back to the Customer. 
+2. Asset Recovered, Not Returned: The asset is recovered and returned to the office, but Watu determines not to return it to the Customer due to underlying issues, and the Customer is notified. 
+3. Asset Declared Lost, Insurance Claim Initiated: When the asset has been declared lost, the case has been reported to Insurance, and the claim process has been initiated pending the claim outcome (Payout/Write-off). 
+4. Asset Declared Lost, Replacement Asset Approved: When the asset has been declared lost, the case has been reported to Insurance, the claim process has been initiated, and the Customer is approved for a repo-project replacement asset and is notified.
+	Fraud Cases
+	1. Asset Repossessed for Investigation: When the asset has been repossessed and taken to the office for investigations:
+   1. The loan is rescheduled and issued back to the Customer if they are exonerated.
+   2. If the Customer is implicated and has managed to pay the Outstanding Loan Balance (OLB), the asset is returned to the Customer after the receipt of the payment..
+   3. If the Customer is implicated and is unable to pay the OLB within the stipulated time frame, the Customer is notified of the sale decision.
+	Insurance Complaints
+	1. Refer to Related Categories: Refer to the "Stolen/Theft of Asset," "Accident," and "Vandalism" feedback categories, as those are the scenarios where insurance is involved.
+	Logbook Complaints
+	1. Logbook Ready for Collection: When the Logbook (LB) is ready for collection at the branch:
+   1. The client has been notified to collect it. 
+   2. The client and all Mifos contacts are unreachable for a period exceeding 30 days. 
+2. Logbook Already Issued: If the LB was already issued to the client, they are educated on LB collection from NTSA offices. 
+3. Loan Still Active: If the loan is still active, the LB request is invalid. 
+4. Client Lacks NTSA TIMS Account: 
+   1. Attempts to register one online have been futile. The client is advised to visit the branch office for physical assistance. 
+   2. The client and all Mifos contacts are unreachable for a period exceeding 14 days.
+	Missing Rider Gears (Helmet, Reflector Jacket)        
+	1. Gears Issued: When the client has been issued with the riding gears. 
+2. Gears Previously Issued: When it is confirmed that the client had previously been issued with the riding gears. 
+3. Secondary Sale: If the asset was a secondary sale, the client is notified to acquire the riding gears independently.
+	Number Plate Cases        
+	1. Number Plate Ready for Collection: When the Number Plate is ready for collection at the branch: - 
+   1. The client has been notified to collect it. 
+   2. The client and all Mifos contacts are unreachable for a period exceeding 30 days. 
+2. Number Plate Availability: When the client has been informed about the availability of the Number Plate at our branch pending collection. 
+3. Asset Repossessed and On Sale: The asset was repossessed and has been on sale for a period exceeding 1 month, making the client ineligible for the plate, and they have been notified. An email is sent to the relevant team to follow up on the plate.
+	Payment SMS Notification Not Received        
+	1. Client Whitelisted: When the client has been successfully whitelisted and is able to receive payment notifications. 
+2. Incorrect Number Used: When the client is not using the Mifos registered number and has been educated on the SMS receipt protocol. 
+3. Not a Mifos Client: When the complainant is not our Mifos client. 
+4. Unreachable Client: If the client and Mifos contact are continuously unreachable for a period exceeding the SLA of 7 days
+	Payment to Wrong Account
+	1. Payment Corrected and Customer Notified: The payment has been successfully credited to the correct account, the transaction has been updated in Mifos, and the Customer has been notified of the correction.
+2. Unable to Contact Customer After 7 Days: If the Customer and all Mifos-registered contacts are continuously unreachable for a period exceeding the 7-day Service Level Agreement (SLA), the case will be closed with a note of the failed contact attempts.
+	Phone Number Change
+	1. Change Approved and Updated in Mifos: The phone number change request has been approved, the update has been made in the Mifos system, and the Customer has been notified of the change.
+2. Change Declined and Alternative Channels Provided: If the phone number change request is declined, the Customer will be notified of the decline and provided with information about alternative communication channels.
+	Repairs - Mechanical Issue with the Asset
+	1. Asset Repaired and Loan Adjusted: When the asset has been successfully repaired through one of the following methods, the loan is restructured/rescheduled, and the asset is returned to the Customer:
+   1. Watu-funded repairs under the 30/70 rule
+   2. Customer self-repairs
+   3. Warranty repairs
+   4. Insurance repairs
+2. Asset Replacement: The Customer receives a replacement asset in the following situations:
+   1. The original asset cannot be repaired under warranty.
+   2. A replacement asset is provided for a repossessed asset with a faulty engine within 7 days of disbursement.
+   3. It is determined to be more cost-effective to provide a replacement asset than to repair the original asset.
+3. Asset Surrender: When the Customer is unwilling to proceed with repairs, has lost interest in the asset, and signs a surrender document, the asset is considered surrendered.
+	Recovery - Repossessed Asset Complaints
+	1. Asset Put on Sale Due to Non-Payment: If the Customer fails to pay the agreed arrears amount, the asset will be put on sale, and the Customer will be notified accordingly.
+2. Erroneous Repossession Correction: If it is determined that the repossession was in error, the necessary internal corrections will be made, and the asset will be released back to the Customer.
+3. Asset Release After Arrears Payment: When the agreed arrears amount has been paid:
+   1. The loan will be rescheduled (if applicable), and the asset will be released to the Customer.
+   2. If, during asset collection, the Customer raises concerns about the asset's condition while in Watu's custody, a new ticket will be created under the "Internal Vandalism" category.
+	External Vandalism Cases
+	Following the recovery of the asset and completion of the investigation:
+1. Customer Implicated, Outstanding Loan Balance (OLB) Paid: If the investigation implicates the Customer and they have paid the Outstanding Loan Balance (OLB), the asset will be returned to them.
+2. Customer Implicated, Unable to Pay OLB, Asset Put on Sale: If the investigation implicates the Customer and they are unable to pay the Outstanding Loan Balance (OLB) within the stipulated timeframe, the Customer will be notified that the asset will be put on sale.
+3. Customer Exonerated, Loan Rescheduled, Asset Released: If the investigation exonerates the Customer, the loan will be rescheduled as necessary, and the asset will be released back to them.
+	Internal Vandalism
+	1. Claim Authenticated, Asset Repaired or Replaced: If the internal vandalism claim is authenticated, Watu will repair or replace the removed/changed parts, the loan will be rescheduled as necessary, and the asset will be released back to the Customer.
+2. Claim Deauthenticated, Customer Notified: If the internal vandalism claim is deauthenticated, the Customer will be notified of the rejection and the reason for it.
+3. Customer Chooses Self-Repair, Loan Rescheduled: If the Customer chooses to perform self-repairs instead of following the standard internal vandalism process, once the repairs are completed, the loan will be rescheduled according to the agreed timeframe.
+	USSD* Access Issues
+*Unstructured Supplementary Service Data (USSD), a protocol for sending information via mobile networks
+	1. USSD Access Guidance Provided: The Customer has been successfully guided on how to access and use the USSD service.
+2. USSD Access Blocked Due to Airtime Debt: If a Customer is unable to access the USSD service due to an outstanding airtime debt for a period exceeding the 7-day Service Level Agreement (SLA), the issue will be documented.
+3. Customer Unwilling to Receive USSD Guidance: If the Customer is unwilling to receive guidance on how to access and use the USSD service for a period exceeding the 7-day Service Level Agreement (SLA), the issue will be documented.
+4. Customer Unreachable After 7 Days: If the Customer and all Mifos-registered contacts are continuously unreachable for a period exceeding the 7-day Service Level Agreement (SLA), the issue will be documented.
+	Death of Customer
+	1. Death Resulting from an Accident: For cases of death resulting from an accident involving the Watu asset, please refer to the "Accident Complaints" category for resolution procedures.
+2. Death from Other Causes (Not Asset-Related): For cases of death resulting from causes other than an accident involving the Watu asset, the following procedures apply:
+   1. Next of Kin (NOK) Wishes to Assume Loan: If the Next of Kin (NOK) wishes to assume the loan and ownership of the asset, they must provide a certified copy of the Death Certificate (COD), and the loan will be transferred to their name.
+   2. Next of Kin (NOK) Does Not Wish to Assume Loan: If the Next of Kin (NOK) does not wish to assume the loan and ownership of the asset, they must sign a formal surrender form, and the asset will be put up for sale.
+	3. RACI matrix
+To clearly indicate who will be responsible (R), accountable (A), consulted (C) and informed (I) in regards to a task inside the service delivery, Watu is using what commonly is referred to as a RACI Matrix.
+The role abbreviations in the RACI matrix are used as follows: Customer (C), Watu Representative (WR), Case Distributor (CD), Case Officer (CO), Responsible Department (RD).
+Activity
+	C
+	WR
+	CD
+	CO
+	RD
+	Report an issue, complaint or provide feedback
+	RA
+	I
+	
+
+	
+
+	
+
+	Request information regarding the case
+	CI
+	RA
+	
+
+	
+
+	
+
+	Send an escalation ticket
+	
+
+	RA
+	I
+	
+
+	
+
+	Categorise and assign the case
+	
+
+	
+
+	RA
+	I
+	
+
+	Conduct the first call the Customer to review the case
+	I
+	
+
+	
+
+	RA
+	
+
+	Provide additional information and any clarifications regarding the case
+	RA
+	
+
+	
+
+	I
+	
+
+	Seek to resolve the case while on the first call with the Customer
+	CI
+	
+
+	
+
+	RA
+	
+
+	Escalate the case further to the Responsible Department if on-call resolution not possible
+	I
+	
+
+	
+
+	RA
+	I
+	Investigate and implement corrective and preventive actions
+	CI
+	
+
+	
+
+	I
+	RA
+	Conduct regular follow-up as per case category
+	
+
+	
+
+	
+
+	RA
+	C
+	Conduct a final call to inform and confirm with the Customer that the issue has been completely resolved. 
+	CI
+	
+
+	
+
+	RA
+	
+
+	Close or re-escalate the case, depending on Customer feedback
+	I
+	
+
+	
+
+	RA
+	I
+	4. Process Key Performance Indicators & Metrics
+WATU Customer Complaints Management Process KPIs are defined in the table below, measured based on set periods, and reported to Top Management.
+KPI
+	Metric
+	Target
+	Description
+	Complaint acknowledgement and validation
+	%
+	85%
+	Issue validation and acknowledgement by a Watu officer within SLA (24-48 Hrs) 
+	Quality Assessment
+	%
+	90%
+	Quality Assurance evaluation of Customer interactions.
+	Regular Customer Updates (DSLC)
+	%
+	100%
+	Completed regular updates of case status, feedback and responses
+	Process Adherence Score
+	%
+	90%
+	6 Day SLA for cases handled internally and  not escalated to other departments
+	5. Related Documents
+* PO-BM-OP-01 WATU Commercial and Lending Policy
+* PO-BM-CS-02 WATU Customer Service Policy
+* PO-BM-CS-03 WATU Customer Complaints, Grievances, and Redress Handling Policy 
+* GL-BT-OP-01 Late Payment Fee Calculation Guideline
+* T3 PR BP Service Portfolio (Business) Processes
+6. Terms and Abbreviation
+Abbr.
+	Term
+	Explanation
+	
+
+	Customer
+	The Customer of a service provider is a person or a group who defines and agrees the service level targets
+	KPI 
+	Key performance indicator 
+	A metric that is used to help manage a service, process, plan, project or other activity.
+	RACI 
+	Responsibility assignment matrix
+	A model used to help define roles and responsibilities. RACI stands for responsible, accountable, consulted and informed.
+	SLA
+	Service Level Agreement
+	An agreement between Watu and a Customer or between different Watu organisational units. A service level agreement describes the service, service level targets, and specifies the responsibilities of engaged parties.
+	
+
+	Service
+	A means of delivering value to Customers by facilitating outcomes Customers want to achieve without the ownership of specific costs and risks.
+	
+
+	Stakeholder
+	All people who have an interest in an organisation, project, service etc. Stakeholders may be interested in the activities, targets, resources, or deliverables. Stakeholders may include Customers, partners, employees, shareholders, owners, etc.
+	
+
+	Watu
+	The term used to describe Watu organisation as a whole, including all and any of Watu owned legal entities engaged in delivering services to Customers.
+	7. Version History and Document Approval
+Process documentation must be created, approved and reviewed in accordance with the Documents and Records Management Process. As part of a continuous improvement approach, this Process shall be reviewed and updated annually or more often, as per business needs. The document version history is available electronically under the document draft through a tab File->Version History->See Version History. 
+Sensitivity: Internal                                                                                Page  of  {"HashCode":403594638,"Height":841.0,"Width":595.0,"Placement":"Footer","Index":"Primary","Section":1,"Top":0.0,"Left":0.0} 
+[a]@asupstiks@watuafrica.com @rshikonyi@watuafrica.co.tz @ekinuma@watuafrica.com @plumumba@watuafrica.com @aowa@watuafrica.ng @schalobah@watuafrica.sl 
+
+
+Hi All. With the help of Omar and Maureen, we're putting together the Customer Complaints Management process. Please review (or assign the responsible person to review) in relation to your countries. The specific issue resolution would be described separately as there are many variations. We're starting to work on that document as well and I will share that soon. This one is specific to the steps we go through when handling complaint/feedback
+[b]Need the actual role names in all countries
+[c]Customer Care Officer, Complaints Handling for Tanzania @ihertela@watuafrica.com
+[d]Complaints management officer - for Uganda
+[e]Need the actual role names in all countries
+[f]Customer Care Officer, Complaints Handling for Tanzania @ihertela@watuafrica.com
+[g]HOD of the department handling customer complaints
+[h]Deputy Country Manager, Commercial for Tanzania @ihertela@watuafrica.com
+[i]Head of customer Experience- Uganda
+[j]This is for Kenya. I need comments from other countries related to how you get the cases to you. Do you have your own google forms or is it another way of communication?
+[k]Ticket for Uganda and Tanzania added. What about other countries?

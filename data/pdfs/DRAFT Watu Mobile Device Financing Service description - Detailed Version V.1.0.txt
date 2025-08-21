@@ -1,0 +1,1073 @@
+﻿Mobile Device Financing
+Version V.1.0
+Date:Date
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Device Financing
+Watu Service Description - Detailed Version
+Version V.1.0
+Publication date: Date 
+________________
+
+
+Table of Contents
+1 Introduction to the Service        3
+1.1 Overview        3
+1.2 Value and benefits        3
+2 Service Details        3
+2.1 Core service        3
+2.2 Additional services        3
+2.3 Local Exceptions        3
+3 Service Delivery        4
+3.1 Service delivery process        4
+3.2 Additional service delivery process        4
+3.3 Tools used in service delivery        4
+3.4 Service availability        5
+3.5 Risks and risk mitigation        6
+3.6 Service Performance Measurement        6
+3.7 Reporting        6
+4 Responsibilities        6
+4.1 Responsibility assignment matrix        6
+4.2 Additional customer responsibilities        6
+5 Related documents        6
+6 Terms and abbreviation        7
+7 Version History        7
+
+
+
+
+________________
+
+
+1. Introduction to the Service
+   1. Overview
+Watu (hereinafter Watu or Company) is a non-bank financing company that offers various asset financing services to its Customers across multiple African countries. The Mobile Device Financing refers to 
+This document is prepared based on Watu Commercial Policy to provide additional details about the specific business line. It is intended to be used by Watu employees as well as can be provided to external auditors, investors and other stakeholders.
+   2. Value and benefits
+Through the Mobile Device Financing Watu delivers the following benefits to its Customers:
+* Drive the local economy by empowering the Customers to develop their own businesses.
+* Provide sustainable finance by making sure the Customers have the means to repay the loans.
+* World-class support and service through Customer engagement throughout the whole service delivery process.
+2. Service Details
+Due to the complexity of the service, the service description separates the value chain into the Core Services and Additional Services. The main difference between Core and Additional Services is that the Core Services form the base for service delivery and can’t be removed without impacting the whole business model. Additional Services are support services which improve Customer experience, reduce business risk or improve compliance. There are some Additional Services that over time may become redundant and could be removed.
+
+
+   3. Core service
+      1. Core service description
+  
+
+The business in Kenya, Tanzania, Uganda, Sierra Leone, Nigeria, DRC is organised as follows[a][b]:
+* The Dealers buy their assets from Importers (Distributors, Wholesalers)
+* The Customers buy the assets from the Dealers on loan conditions from Watu. Customer provides the necessary documents and information checked by Watu, makes Downpayment, signs the loan agreement and gets the Device. The loan is repaid to Watu using the Pay As You Go Payment model.
+* Watu pays the dealership the full asset price according to the agreed payment schedule after the sale.
+
+
+Economic model of Simu business for Watu and Dealerships can be described with the following formulas:
+Retail price - Wholesale price = Dealer's Gross profit
+(Retail price - Down Payment) * Interest Rate = Watu's Gross profit
+Pay as you go (PAYG)[c] - model of loan repayment when customer pays for the days of asset usage. Unlike the classical model, a customer can unlock the asset for X days in future if pays X days instalments amount, without covering his past arrears first.
+      2. Service delivery locations
+The service is delivered in the following countries:
+* Location 1
+* Location 2
+* Location 3
+   1. Additional services
+   2. Local Exceptions
+[There are no local exceptions for the service delivery.]
+[There are the following exceptions for service delivery in “Country”:
+* Exception 1
+* Exception 2
+3. Service Delivery
+   1. Service delivery process
+Diagram will be drawn properly
+  
+
+The above diagram shows the architecture of the core service delivery of Watu Mobile device financing.
+Before the service is delivered to the customer Service preparation processes take place.
+The Customer journey can take different paths through the whole service delivery chain but in most cases it will go through all Three phases:
+* Pre-Onboarding
+* Onboarding
+* Loan Servicing
+      1. Trade terms
+Watu Simu has the following Trade terms with the Dealers:
+Trade term
+	Definition
+	Downpayment
+	Amount customer pays at the moment of onboarding in order to get the loan. Defined by Watu depending on the Device model.
+	Cash flow / Payment model
+	Schedule of payments from Watu to Dealer for the devices disbursed on loans. Watu pays 100% of Retail Resale Price to Dealer as per agreed schedule. Types of schedule: Weekly, bi-weekly, instant.
+[d][e]	
+Price cap[f]
+	Maximum allowed resale price of devices for dealers to disburse on Watu loans. Defined by Watu to ensure balance of Dealer’s and Customer’s interests.
+	Model Range
+	Device Models allowed to be disbursed on Watu loans.
+	Sales Limits
+	Maximum amount of value dealer is allowed to sell per week on Watu financed loans. [g][h]Sales limit is a tool to stimulate dealers onboard reliable customers, control and positively influence metrics of loan portfolio quality.
+	No unethical behaviour (DP subsidising, Client misleading)
+	Watu has 0 tolerance to unethical or fraudulent activities conducted by the Dealer, such as:
+Client misleading on terms of loan
+Down Payment or instalment subsidising
+	
+
+      2. Watu SIMU Main KPIs
+Watu Simu has the following Main KPIs to evaluate business performance:
+KPIs
+	Description
+	Never paid
+	Shows the % of loans, where the customer didn’t pay any instalment after loan disbursal.
+First calculated on Day 9 after loan disbursal, since the first repayment is scheduled for Day 7 and Day 8 is the first overdue day when the Device is locked and the Customer is reminded to pay.[i][j]
+	Offline rate
+	Shows the % of loans, where the customer was offline for XX consecutive days (phone was blocked by Knox due to no repayment).
+First calculated on Day XX+8 after loan disbursal, since customers can go offline only starting from Day 8.
+Default value is 7 consecutive days offline. 
+	Sales targets
+	Expected number of devices disbursed on loan in a period of time.
+	Fraud Rate
+	Metric compiled of Knox last seen 2 or less days after disbursal, and never paid calculated after first scheduled repayment date (Day 9 or after).
+	Onboarding time
+	Time between the start of customer onboarding by the front officer to actual release of the device to the client. Target time is 20 minutes. 
+Onboarding is the process of getting and checking necessary information about the customer, about the asset, [k][l]making the customer aware of a payment plan, processing downpayment, signing the loan agreement and releasing the device to the client.
+	
+
+      3. Product management
+Market sensing
+Market sensing is a weekly exercise of gathering and analysis of the following information:
+1. Product/Stock availability (official 24 month African warranty stock). If no African warrant stock is available, Go-to-market manager or Sales Manager reach out to OEM to find product sourcing solutions.
+2. Price comparison in retail (Telco and established retail shops). Ceiling price for Watu is benchmarked on Telco price. Retail Price monitoring (RRP) is made weekly on a Dealership level by the Sales Team and reported in a specific template, comparing Cash price and Watu loan price.
+3. Competition changes sensing: a) down payments b) daily payments c) monthly payments d) loan terms/period e) Total cost of ownership. Competition sensing is made by the Sales Team, feedback shared on the Whatsapp group of Watu Sales team.
+Product line definition and pricing strategy
+Product line available on a Watu loan:
+* 0-300 $ - Entry level devices
+* 300 - 750 $ - Middle level devices
+* 750+ $ - Flagship devices
+During the Pilot and Growth stage of the new market launch, only entry level devices are financed. On a Stage 3 and market demand, middle level devices are introduced. On stage 4-5 flagship devices can be introduced.
+  
+
+Pricing/Down Payment/Interest rate per device model is established based on Price comparison made on market sensing stage. Pricing is reviewed every month depending on monthly market price monitoring by Go-to-Market manager.[m]
+Watu has different price caps for 2 types of partner profile: Open market and Telco operators. Telco operators have higher ceiling price due to a different pricing structure of these partners, and Watu's attempt to ensure fair competition in the market.
+Watu product competitive advantages
+For dealer:
+1. Gross profit to dealers instead of commission;
+2. Broad product line; Logo, company name
+
+Description automatically generated 
+3. Flexibility of forecasting and selling on cash or credit since dealers trade their own stock;
+4. Timely payments to dealers;
+For customer:[n][o]
+   1. Affordability for the customers, who can’t purchase the device on cash;
+   2. Pay as you go - flexible payment plan, instead of payments covering the past arrears
+   3. Weekly payment plan
+   4. High quality aspirational products
+   5. Broad product line available on a loan
+   6. Product availability in different markets and regions within a market
+   7. Fast onboarding with minimal requirements
+Model performance control
+For new dealers in Kenya entry and middle segment devices are available. Criteria to qualify for flagship devices: portfolio quality has to be below the target rate for Offline rate and Never paid rate. Total portfolio quality and Flagship portfolio quality is evaluated monthly and dealers can be suspended from selling Flagship level devices if Offline and Never paid rate go past the target levels.[p]
+Sales Manager[q][r], Sales Executives and Sales Representatives depending on the responsibility for the business in particular region or with particular dealer, are responsible for weekly monitoring of Offline and Never paid rate, officially warn dealers via email of high rates, and recommend to suspend the dealer from selling Flagship devices if Portfolio quality doesn't improve within a 3 weeks time[s]. 
+Sales Manager is responsible to check on Model performance on a market level and recommend suspending a model from Watu portfolio if there is sign of model security vulnerability, or customer payment issues with particular model.
+Competition sensing
+A google form which is given to all Sales representatives and executives to monitor competition activities in the region. Reports are being sent once the SE or SR sees any change or activation on the ground. 
+The form includes sensing on:
+   1. Brands - Samsung, Transsion group, Xiaomi, Oppo, Nokia, MKOPA, Easy Buy, Onfone, Aspira, Lipa Later etc
+   2. Type of promotion - EIP (Easy instalment plan) push, price drop, downpayments changes, on ground activations
+   3. Social media campaigns - promotions ongoing on social sites[t]
+   4. Impact of promotion on Watu Simu sales
+   5. Images when and if possible
+   1. Original Equipment Manufacturer (OEM) management
+This is a process of strategic and tactical alignment of joint efforts to increase connectivity in a market between Watu and OEM (currently Samsung). 
+Product line-up 
+Watu as a loan financing partner of Samsung will receive non-confidential information from Samsung and Distributors in order to align with the future portfolio changes:
+   * Samsung shares a product line up and route to market ETA at the beginning of the quarter (for any releases)
+   * Samsung shares Recommended Retail Price (RRP) with Watu for Open Market and Safaricom
+   * Watu receives Recommended Distribution price (RDP) from Mitsumi and other wholesalers[u]
+   * Watu maps out ceiling prices for different profiles (Open Market or Operators)
+   * Watu checks on the Interest Rate and Down payment based on the pricing of the devices[v][w] and market practice
+   * Onboarding System is updated with the new device and its DP, IR 
+   * Communication of new devices and their respective DPs, IRs are shared with the dealers
+
+
+Knox testing
+To be added - Ken
+Forecasting and stock availability
+Watu provides Samsung with the forecast of sales bi-weekly for the next 16 weeks (internal Samsung forecasting policy), then Samsung compiles forecasts they got from all the partners. Samsung East Africa office submits the forecast to the Global Samsung supply chain and gets response to this forecast. The possible outcome may be: full fulfilment of the forecast, or partial fulfilment depending on the supply capacity and global Samsung priorities. Once goods are issued by the global Samsung supply chain, there is a minimum lead-time of 4 weeks to market. The stock goes from Samsung factories to Samsung distribution hub in Dubai. 
+   2. Distributor management
+Samsung has 2 stock-fulfilment methods: 1. Through the official distributors (e.g. Mitsumi, Redington) handing over cargo to the wholesalers and dealers in Dubai for onward shipping; 2. Distributors shipping the cargo themselves to the market, and the sale to the dealers will happen in the market.
+Connecting partners to the official OEM distribution channels
+Watu Sales team will introduce the dealer to the official Distributors and Wholesalers of Samsung, from which dealers can buy official East Africa warranty stock. After this Dealers enter negotiations with Distributors and Wholesalers on Stock Availability, Pricing, Credit terms (limits and periods). Watu is not involved in these negotiations.
+Recommended Distributor price (RDP) negotiations
+Watu Go-to-market manager regularly reviews the market RDP based on the price-list received from Distributors and Wholesalers. It is used as an input for setting or changing the Watu price cap. RDP can be influenced by the changes of OEM market priorities/market positioning, currency fluctuations, distributor/wholesaler price competition. Watu does not influence Distributor/Wholesaler RDP decisions.
+Classic RDP structure: Samsung List Price + Shipping and logistic costs + Duties and Taxes + Margin.
+   3. Sales Channels
+Watu Simu has the following Sales Channels to service Clients through:
+General Classification
+	Channels:
+	Description
+	Example in Kenya
+	Telco
+	Telco
+	Telecommunication companies that have their stores selling mobile devices
+	Safaricom
+	Open Market
+	Big Chains
+	Chain stores selling different electronic devices including mobile devices
+	PhoneXpress
+	Small Shops
+	Shops selling different assortment (e.g. groceries, gas) and interested in selling mobile devices
+	Moms&Pops, gas stations etc
+	Hybrid
+	Shops selling mobile devices in-store and having sales agents selling devices in the fields
+	
+
+	Agent Model
+	Dealers that sell mobile devices mainly through the network of sales agents 
+	Ethany
+	Digital/E-com
+	Dealers that sell mobile devices mainly through the online platform
+	
+
+	
+
+   4. Sales team roles and responsibilities
+Classic Sales Team roles in Watu Simu are: Sales Representative, Sales Executive, Sales Manager[x][y].
+Key responsibilities of each role are described but not limited to below.
+Sales Representative:
+   *  Visit the Dealerships within the assigned route plan on a weekly/bi-weekly/monthly basis according to the rules of visiting;
+   *  Analyse the Dealer’s/Store’s/Front Officer’s/Device model performance data including Sales, Never paid and Offline rates, deliver this information to Dealership owner/Store Manager/Front officer during the field visit, identifying gaps in performance and executing the corrective actions (Retraining of staff on KYC and onboarding, asking dealer to follow-up with defaulting customers) following the Portfolio Health management cycle;
+   *  Ensure the consistency of performance review by capturing agreed actions and checking results on the next visit;
+   *  Escalate the outcomes of performance reviews to the Sales Manager and Sales Executive and propose the change of Sales Limits/Model offering (if dealer improved the quality to set standards - increase the limit, if dealer is consistently below the set standards - decrease the limit);
+   *  Monitor and timely escalate the Dealership expansion (opening new stores or hiring more Sales agents) in order to adjust the Sales Limit accordingly;
+   *  Ensure the Dealers has all the necessary trainings, tools (OBS4 access, loan calculator) and updated information (Models available for Watu financing, Down Payments, Interest rates, Loan Qualification requirements);
+   *  Handle customer inquiries and complaints escalating to the relevant internal stakeholders;
+   *  Identify dealership challenges and needs and provide resolution in a timely and effective manner;
+   *  Conduct Market Sensing (price monitoring, competitive activity analysis) and monitor stock capacity of the dealer/store;
+   *  Negotiate and execute Prime/Front placement for Watu Simu and POS material placement with store owners/managers;
+   *  Responsible for the Sales target and Portfolio Quality within assigned region;
+   *  Report outcomes of each store visit;
+
+
+Sales Executive:
+   *  Supervise, appraise, train & support the Team of direct reports (Sales Representatives) ensuring efficient delivery of set responsibilities;
+   *  Evaluating & recruitment of new dealers / point of sales within region according to dealership onboarding process
+   *  Ensure accurate pricing, promotion effectiveness of all products and offerings across the designated region
+   *  Analyse the Dealer’s/Store’s/Front Officer’s/Device Model performance data including Sales, Never paid and Offline rates, deliver this information to Dealership owner/Store Manager/Front officer during the field visit, identifying gaps in performance and executing the corrective actions together with Sales Representative following the Portfolio Health management cycle;
+   *  Ensure the consistency of performance review executed by Sales Executive or his team by capturing agreed actions and checking results on the next visit;
+   *  Escalate the outcomes of performance reviews to the Sales Manager and propose the change of Sales Limits/Model offering (if dealer improved the quality to set standards - increase the limit, if dealer is consistently below the set standards - decrease the limit);
+   *  Monitor and timely escalate the Dealership expansion (opening new stores or hiring more Sales agents) in order to adjust the Sales Limit accordingly;
+   *  Ensure the Dealers has all the necessary trainings, tools (OBS4 access, loan calculator) and updated information (Models available for Watu financing, Down Payments, Interest rates);
+   *  Identify dealership challenges and needs and provide resolution in a timely and effective manner;
+   *  Conduct Market Sensing (price monitoring, competitive activity analysis) and monitor stock capacity of the dealer/store;
+   *  Negotiate and execute Prime/Front placement for Watu Simu and POS material placement with store owners/managers;
+   *  Responsible for the Sales target and Portfolio Quality within assigned region;
+   *  Ensure the team Reporting outcomes of each store visit;
+
+
+Sales Manager:
+   * Supervise, appraise, train & support the Team of direct reports (Sales Executives) ensuring efficient delivery of set responsibilities;
+   * Sales forecasting on a monthly basis and developing sales strategies to achieve the forecasted amounts i.e. Activations & promotions as per Sales forecasting process
+   * Direct Management of the biggest Key accounts
+   * Efficient Territory management and development of Market penetration strategy for the potential regions, which includes stimulation of expansion of existing Watu dealers or recruiting new local dealers together with Sales Executives;
+   * Analyse the Dealer’s/Store’s/Front Officer’s/Device Model performance data including Sales, Never paid and Offline rates, deliver this information to Dealership owner during the field visit or meeting, identifying gaps in performance and executing the corrective actions together with Sales Executive and Sales Representative following the Portfolio Health management cycle;
+   * Analyse outcomes of performance reviews done by the team or himself and propose the change of Sales Limits/Model offering (if dealer improved the quality to set standards - increase the limit, if dealer is consistently below the set standards - decrease the limit);
+   * Monitor and timely react to the Dealership expansion (opening new stores or hiring more Sales agents) in order to adjust the Sales Limit accordingly;
+   * Dealership mapping per: region, branch, Sales Executive, Sales Representative levels. Mapping is reviewed daily depending on the changes: new dealerships and POS, team changes etc.
+   * Performance reviews with the Sales Team - WoW & MoM to ensure team productivity across all regions
+   * Monitoring of market trends & making recommendations for competitive edge - Pricing, Product, Promotions
+   * Monitoring & evaluation of the sales budget vs ROI, management of Sales Team operational expenses
+   * Responsible for the Sales target and Portfolio Quality within the entire market;
+
+
+
+
+
+
+Go-to-market process
+This is not a full launch plan, to add - Chandni
+The process of preparation in order to launch the business in a new market, which involves the following steps:
+1. Vendor relationship
+- Agreeing with the OEM on new products and availability within the market
+- Understanding the official in-country stock vs. parallel import channel stock. Even if there is only a parallel channel stock, Watu can still go to market, but align with EOM on the next steps for stock sourcing;
+- mapping out with the OEM on device variation (memory etc)
+2. Pricing strategy
+- understanding market and smartphone penetration to identify size of opportunity
+- mapping against competition - checking DP and Total cost of ownership to the customer
+- communications sent to OEM and dealers on pricing
+- revise pricing based on market trends (competition) and offline / never paid rates
+3. Dealerships
+- mapping out the dealers by channel (Open Market or Telco) to understand ROI and align priorities based on the performance by channel
+- introduce dealerships to authorised distributors and wholesalers
+- monitor performance throughout the sales team and pick up any erratic / unethical practices based on Sell-out and never paid / offline rates
+- align with OEM on new dealerships for product training and data capture
+4. Marketing & Comms
+- work with the brand team on visibility elements to have a "one voice" approach towards brand alliance
+- work with partners on joint campaigns
+- work with brand team on social media calendars and content calendars
+   5. Territory management
+Territory penetration
+Territory penetration is the process of analysis of regional market potential and increasing the capacity of Watu Simu business in the prioritised regions:
+   1. Sales manager assess the market regional penetration and potential based on: Historical Watu sales, Population of the regions, Economical statistics (disposable income), Competitive position and activities;
+   2. Sales Team (Manager, SE, SR) are doing field visit to the region to find potential entrepreneurs and recruit as Watu Simu dealers;
+   3. Sales Manager is negotiating with Top existing dealers to expand their operations to the underdeveloped region using the available information about potential business size in certain region;
+   4. Watu offers immediate support of the new dealers in order to quickly start operations: trainings for the new staff, system support, merchandising, POSM, distributor relationships;
+Forecasting process
+Forecasting is the process of setting the targets and predicting sales results on different levels: market, region, territory, dealership, month considering various factors.
+   1. Company annual sales target provided by Watu Executive Leadership;
+   2. Annual target is splitted into monthly targets by Sales Manager based on historical sales, seasonality, forecasted marketing activities;
+   3. Monthly target is splitted into regional level based on the regional contribution (sales share of the region in the last 6 months);
+   4. Regional target is splitted to Sales Representative based on territory contribution to regional performance (sales share of territory within the region in the last 6 months);
+In the current modus operandi, Dealerships do not have sales targets set up by Watu except for weekly sales limits.
+   6. Marketing campaigns
+ Co-sponsored campaigns
+Co-sponsored campaign - BTL field-focused campaign driven by a dealer with the help of Watu. For example: Dj and tent activation, road shows.
+Cost allocation: 50% of cost Watu, 50% dealer.
+   1. The dealer reaches out with a proposal of the campaign hosting, targets and share of costs
+   2. Watu evaluates the requests and costs and submits the request to HOD, CM for approval
+   3. Targets are monitored through the campaign and support given (SR, merchandise, POSM)
+   4. Follow up report on campaign success done by Sales Executive or Sales Manager. Based on the results, the decision on replicating the campaign is done.
+Watu-driven campaigns
+Watu owned campaigns of a trade exhibition type such as Tujenge Msinigi, gathering the community in one place and offering them information about Watu and Dealers, product variations as well as supportive training or activities. These events are usually done for the Boda community.
+Support given by a Simu team:
+   1. Merchandise, POSM & retail elements
+   2. Partnered with a local dealership to onboard on site
+Brand campaigns
+BTL field-focused campaign driven by Samsung with the help of Watu. For example: Dj and tent activation, road shows.
+   1. Samsung shares an activation plan with the Watu team
+   2. Costs are borne by Samsung
+   3. Targets are aligned based on store location and run rate
+   4. Watu supports with POSM and merchandise
+   5. Watu Sales Executive monitors activation reports
+   6. Follow up report on campaign success done by Sales Executive, Sales Manager or Go-to-Market manager. Based on the results, the decision on replicating the campaign is done.
+Promo calendar
+Promo calendar is a tracker of Watu-driven, co-sponsored or Brand campaigns owned by Go-to-Market manager. The calendar includes: Social media posting (any media buy), POSM, Merchandise and any Samsung co-branded ATL campaigns. Live document that is constantly updated and changed based on:
+   1. Seasonality
+   2. Back to school trends
+   3. Product launches
+   4. In country holidays
+   5. Campaigns that are driven by Samsung teams
+   6. Proposals of campaigns from dealers
+   1. Dealership onboarding
+Finding the potential dealer
+Watu Simu service is provided to customers through the dealer which owns the stock of devices and sells it to customers on Watu Loan.
+Finding a potential dealer for Watu Simu can happen:
+   * using existing Samsung universe;
+   * using existing Telco dealers universe;
+   * shop-to-shop field search; physical driving around in the specific areas;
+   * referrals through existing dealers and agents, or professional network;
+After finding a potential dealer, Watu Sales Team delivers the Watu Simu core business model presentation / value offer to the dealer to inform potential cooperation. Presentation explains:
+   * Business model with Watu: Retail Resell Price (RRP), Retail Distributor price (RDP), dealer's margin, payment model (cash-flow), inventory responsibility of the dealer (on the contrary of M-Kopa), Pay As You Go repayment model;
+   * Possible distributor-dealer relationships: credit line[z][aa], credit limit, sourcing of stock;
+Due Diligence[ab]
+After uncovering the interest of the Dealer in Watu Simu business, Watu will conduct a due diligence procedure to ensure reliability of the potential partner.
+Due Diligence - Process of gathering documents and information about the potential dealer. Process has the following steps:
+   1. Watu Sales team sends the standard email to Dealer asking to fill a KYC google-form;
+   2. Standard form KYC requires the following information:
+   1. Name of dealer
+   2. Scanned Certificate of incorporation
+   3. Scanned tax compliance certificate
+   4. Scanned 1st and 10th page of standard partnership agreement
+   5. Repayment account(s)  details
+   6. Owner details
+   7. 2nd contact details
+   3. Upon receiving the information, verification of provided data will be conducted by the Watu Sales Administrator.
+   4. If documents are incorrect or there is any sign of suspicious information, Sales Admin returns the request to the Sales Team Member, responsible for a certain dealer in order to get proper documentation.
+   5. If the documents are valid, Sales Admin confirms the application and creates Dealer an account in Mifos, allowing the next step of the process.
+Partnership agreement
+Once Due diligence is successfully completed, Parties will sign a Partnership agreement which governs the future collaboration. The process will have the following steps:
+   1. Sending the standard Agreement template to dealer by Watu Sales Executive/Sales Manager;
+   2. Getting the signed copy from dealer;
+   3. Verification of the details in the signed Agreement by Watu Sales Administrator;
+   4. Watu Country manager signs the Agreement;
+   5. Scan and keep record on Dealer KYC form tracker. Keep hard copies in the fire-proof locker in HQ
+Front Officer KYC
+Front officer is the employee of the dealer, who will execute the onboarding (loan application) of the customer using the Watu onboarding form on behalf of Watu.
+Before granting the access to Watu systems, Front officer onboarding will take place with the following steps:
+   1. KYC google-Form submission. Watu Sales Executive sends the link to the dealer and dealer instructs the FOs to fill in the form;
+   2. Data verification done by Watu Sales Admin/Operations officer as per Verification process flow.
+   3. Active Front officer can only be assigned to one dealer;
+   4. Account creation in Mifos by Operations officer;
+   5. Blocking unethical agents based on existing record in Watu system or feedback from the dealership;
+System set-up
+Mifos setup:
+   1. Creating mother dealership account in Mifos by Operations Officer
+   2. Creating POS account in Mifos by Operations Officer and attach to mother dealership account
+   3. Creating Front officers accounts in Mifos by Operations Officer
+Dealership trainings
+Before the start of operations Watu Sales Team will provide a training to the entire dealership staff involved in the Watu Simu business:
+- Customer onboarding - Onboarding System v.4 training for Shop manager and Front officers done by Sales Executive and Sales Representative, using the demo video and manual. Training is done shop by shop. In case of changes to OBS, Watu's sales shall be trained, and Sales Executive/Sales Representative have to retrain the Dealer's staff.
+- Dashboards - training for Top-management of the dealer done by Sales Manager or HOD;
+- Price caps (Price ceilings) - Watu sales team sticks to existing shelf prices in specific dealerships without communicating ceiling prices during the training session, not to encourage dealers to claim the full possible amount. This is done to protect customer's interest of getting the best possible price;
+- Service related queries / After sales support. Watu sales team will deliver the following information to the Dealer for solving potential queries from the customers: Contact number of Watu Customer Care, Location of Watu offices, Location of Samsung Authorised service centres, Warranty offerings, Conditions of repair, returns and replacement, Samsung Care+ program. 
+- Sales Representatives/Executives should do weekly refreshers for Dealership staff on recent changes or to refresh knowledge, depending on a route plan of Sales Representatives.
+Watu Value offer for a dealership
+   1. Retail price - Distributor price = Dealer's Margin;
+   2. High Sales Volumes driven by affordable Watu loan conditions;
+   3. Watu offers Net profit to dealers instead of commission;
+   4.  Weekly repayment for sold devices from Watu[ac][ad] to Dealership;
+   5.  Watu finances a broad product line;
+   6. Flexibility of forecasting and selling on cash or credit since dealers trade their own stock;
+   7. High quality aspirational products for the customers
+   1. Customer onboarding[ae]
+Loan application, Device data, Client Main data, Client other data - Front office
+Once the customer decides to get a Watu loan, the Front officer will proceed to OBS 4 using his own credentials, will put or confirm his phone number and a Dealership he works for. After this, the Loan application phase will begin, where the Front officer will capture the details of the device selected by customer and process Client main data. This stage has the following steps below.
+Device data
+   1. Select the device’s make (Currently only Samsung)
+   2. Scan IMEI number with the camera. The system will automatically extract the IMEI number from the photo
+   3. Select the device’s model
+   4. Enter the device’s retail price. The price is a system defined value and there will be a range of acceptable price based on the device’s model.
+Client Main data
+   1. Upload client’s photo. Upload the selfie photo of Client and Front Officer.
+   2. Enter the client’s date, month and year of birth. (The age limit is set to 18 years). Select the client’s gender.
+   3. Upload client’s ID front page and back page (if applicable). Enter the client’s ID number
+   4. Enter the client’s primary phone number
+   5. Select the client’s primary language and secondary language
+Client Other data
+   1. Add additional phone number of client (not mandatory)
+   2. Enter the client’s occupation
+   3. Enter the client’s gross weekly income
+   4. Select if the client is a politically exposed person or not.
+   5. Enter Next of Kin's first name, middle name, last name
+   6. Enter NOK's phone number
+   7. Enter NOK's relationship to borrower
+   8. Add additional contact (not mandatory)
+   9. Some other client general information
+At this stage Front officers should await back-office approval on the client. As FO awaits back-office approval, it is advised to proceed to create a new application or proceed with other pending applications.
+Device Data Check - Back office
+The Back officer will start processing the loan by checking the Device data filled in by a Front officer. Back officer should follow the steps:
+   1. Confirm the model on the system (from Asset's entry) is the same as the photo uploaded.
+   2. Confirm the IMEI against the box uploaded. Should read IMEI 1
+   3. Using Samsung warranty Checker, confirm if the phone has a kenyan, TZ or SL warranty. If not, ask the FO to change the device.
+   4. Copy the SKU e.g SM-A042FZCDAFB on the warranty slot. Also, attach a screenshot of the warranty.
+   5. Confirm The Price of the Phone on the system.
+   6. If the information provided is not correct, reject and return the application to FO with a comment.
+At this point a Back officer can proceed to Verification of Client Main data stage.
+Client Main Data verification - Back office
+Once the Back Officer checks the device data, he will proceed to checking Client Main Data provided by a Client to Front officer. At this stage Back Officer will follow the steps:
+   1. ID number - ID number must Match the ID uploaded as a photo. Confirm the ID number on a call later on.
+   2. Original Identification card Image - The ID photo should be original. Check the edges and confirm if it's a copy.
+   3. Correct Names - Type the correct name as per ID. If the ID has three names, input three names accordingly.
+   4. Client Photo - Photo uploaded should match the photo on the ID
+   5. Client with FO Photo - Ensure the FO takes a selfie with the client and confirm that the front officer picture matches the one in our records.
+   6. Date of Birth - Date of Birth on the system should match the one on the ID
+   7. Gender - Gender entry on the system should match the one on the ID
+   8. Phone Number - Cross check client’s phone number using the Mpesa account. Always confirm if the name on the Mpesa account matches the name on the ID. Confirm the number by calling the client.[af]
+   9. Language - Confirm by calling the client[ag]
+   10. Sanctions screen done & no match found
+   11. If there are any corrections, return to front officer with a comment
+At this point a Front officer can proceed to the Client Other data verification stage.
+Client Other Data verification - Back office[ah]
+Once the Back Officer checks the Client main data, he will proceed to checking Client Other Data provided by a Client to Front officer. At this stage Back Officer will follow the steps:
+   1. Confirm the additional phone number of Client and NOK on the Mpesa account.
+   2. Call the Next of Kin. Confirm the relationship between the borrower and the NOK (next of kin).
+   3. Confirm names as per ID.
+   4. Confirm if NOK is aware of the loan and seek their consent.
+   5. If there are any corrections, return to front officer with a comment
+At this point if All the data is correct, Loan application can proceed to a payment data stage.
+Calling data verification - Back office
+Watu Back officers are calling the client and the NOK during the verification stage and will check and confirm the information that was provided.
+Client:
+   * Confirm the telephone number
+   * Confirm the ID number
+   * Preferable Language of the client
+NOK:
+   * Confirm the relationship between the borrower and the NOK (next of kin).
+   * Confirm names as per ID.
+   * Confirm if NOK is aware of the loan and seek their consent.
+Payment Data - Front office
+Once the Back office finishes verification, the application will be pushed to “payment data” state. On this stage Client's onboarding will be continued by a Front officer following the next steps:
+   1. Enter the loan term in months (There’s a maximum and minimum loan term limit set in the system, currently 12 months for all models[ai])
+   2. Enter the down payment amount paid by the client (There’s a minimum downpayment set depending on the model chosen by the client and with some models, there’s a maximum down payment amount set). Down Payment information is sent to the dealer by Watu's Go-to-market manager and Emphasised by a Sales team.
+   3. Client makes a downpayment to a specified Watu's MPESA paybill;
+   4. Link transaction to add the client’s downpayment to the loan. Front officer will search transaction in the OBS4 by the client’s phone or the M-Pesa transaction code
+   5. In case the client chooses another asset than the one selected, the Front officer can still change the Device, this will push the application to a "Device Data" stage.
+Agreement signing and ETR data - Front office
+After the down payment is made, the Front officer will issue a digital Loan agreement and ask the Client to read, understand and sign it.
+   1. Front officer will download an automatically generated client’s agreement
+   2. Client should read and agree to the terms of the agreement
+   3. Client will sign the agreement electronically on the screen of Front officer
+   4. Front officer will sign the agreement from dealership side
+   5. If the client is not satisfied with the agreement, there is still a possibility to change the device
+   6. Front officer should upload an ETR document photo.
+After this step the loan application will go to a Back office officer for further validation.
+ETR data check - Back office
+The final step of Back office verification is to check the ETR details:
+   * Dealership name on the system should match the one on the ETR receipt.
+   * Input the ETR number
+   * ETR date should match the one on the ETR image.
+   * Confirm the ETR amount (The price of the device Front officer put on the Device Data stage) against the amount on the ETR image.
+   * Confirm the Down Payment; the phone number, amount and the payment reference (Client’s ID or Phone number)[aj]
+Once above is confirmed, BO approves the ETR and FO can then release the asset to the customer after initialising Knox, firmware update and Watu App installation.
+Knox initialization[ak]
+To be added - Ken
+Firmware update
+To be added - Ken
+Watu app installation
+To be added - Ken
+Asset Release
+After the asset is released, the client and loan are created in Mifos system. Upon this successful creation, the client should receive an SMS with a link to access the loan agreement and schedule.
+Samsung Care+ registration
+To be added - Ken
+Back office Onboarding Working days and hours
+Kenya:
+Weekdays and Saturday 8 AM - 10 PM
+Sunday and Bank holidays 9 AM - 6 PM
+Turnaround time
+Turnaround time is the total time spent on onboarding. 
+Back officer TAT KPIs target is 20 minutes. Each Back officer has a weekly check-in review on TAT performance, TAT performance is the subject for ongoing improvement.
+At times, Dealers reach out to the Sales Executives and Sales Representatives over a delay in the verification, if they think that there is a delay from Watu back office side. Escalation process:
+   1. SE / SR reach out to Operations team using the application number
+   2. Operations team checks on delay with Back office / Calling officer team
+   3. Feedback is provided back to the dealers on TAT
+When it comes to Front officers TAT performance, it should be monitored by a Sales manager/Executive/Officer responsible for a shop/dealership and in case of poor TAT score, feedback should be given to the FO, management of the dealer and FO should be retrained on the onboarding process.
+Dashboard to monitor TAT by loan, by FO, by BO.
+   2. Dealership management
+Repayment strategy
+Standard payment for all dealers starts at a weekly payment plan from Watu to the dealer.
+The dealer can get a bi-weekly payment plan based on the Portfolio Quality performance.
+In exceptional cases like Safaricom in Kenya, payment plan is instant due to requirements from the dealer. 
+Any exception from the above is to be escalated by the Sales Manager or HOD and approved by the COO.
+Performance control: dealer, agent and device model levels
+- Performance visibility dashboards specific to a dealer are accessible to apx. 100 top dealers for Dealer’s daily performance reviews;
+- Dealership performance is assessed based on benchmark of Market average and Targets on Offline and Never paid KPIs. If performance is below the target/market average, the Sales Manager or Executive in charge will notify a dealer about it in a written form. Dealers from their side based on IMEIs of non-performing customers can call the customers to find out the reason of defaulting and reach agreement on continuation of loan repayment.
+- If dealership performance / portfolio health is not improving during the commencing week/3 weeks, the Sales Manager is to recommend to decrease the sales limit, which is approved by COO.
+- Based on Sales Agents performance calculated on Offline rate and Never paid rate, Watu Sales Manager/Executive/Officer can recommend/demand dealer management to suspend the Front officer and block his account in Mifos.
+- Sales targets are defined by a sales limit of a specific dealer, Sales team is working on encouraging the dealer to reach sales capacity defined by the limit maintaining the expected portfolio health KPIs.
+- Watu Sales Team monitors productivity of Sales Agents based on their daily run-rate (sales) and can recommend the dealer to optimise their agents' staff structure.
+- Watu Sales Team monitors performance of device models based on Offline and Never paid rate, and should recommend to suspend a dealer from Selling a particular model if Portfolio health criterias are not met.
+Sales limit management
+Dealership performance is reviewed on a weekly/monthly basis. The performance is determined by comparing dealership's results against benchmark for most important portfolio quality metrics. Currently the metrics reviewed are offline rate and never paid rate. Benchmark for never paid rate is constant at around 2.5% unless there are specific market conditions that require for it to be adjusted. Benchmark for offline rate is set at the average in the market for the specific time period.
+Based on never paid and offline rate, several levels of action are defined starting by issuing a warning to the dealership, setting a weekly sales limit or blocking the dealership.
+If a sales limit is set, it should be reviewed on a regular basis and if the performance is improving, the sales limit can be increased.
+Portfolio quality management cycle 
+Loan Portfolio quality management is an ongoing process between Watu and the Dealership and has the following steps: 
+   1. Dealers disburse loans after diligent client KYC process;
+   2. Watu Sales team assesses the portfolio based on Quality metrics: Never Paid, Offline and Fraud rates and delivers this information to the Dealership via: Performance visibility dashboards available for the Dealer and During the field visits done by Sales Representatives, Sales Executives and Sales Manager;
+   3. Dealers should work with the loans that have Never paid or Offline status by contacting the client, finding out the reasons for not repaying the loan, resolving the issues themselves or directing the client to Watu contact points (Customer Care, Branches, Godowns), explaining the consequences of no repayment (Blocking the phone, Potential prosecution, Blocking the Telco line) and trying to convince the client to repay the loan as per signed loan agreement.
+If Watu or Dealer sees the gaps in performance of a particular Front Officer (Agent) or the whole team, Watu Sales Representative can do a refreshment training on KYC and the onboarding process. If portfolio quality doesn’t improve, this may lead to blocking the Agent or/and the Dealer.
+   4. Based on the portfolio quality of the Dealer, Watu can assign a Weekly Sales Limit.
+After this last step, the Portfolio quality management cycle continues from step 1.
+  
+
+Sales agents management
+- Watu Sales team is not involved in recruitment of Dealer's sales agents, it remains the full responsibility of the dealer. Watu Sales Team can give referrals for potential candidates, but doesn't interfere into the further process.
+- Watu Sales team is not involved in compensation for the Agents, it remains the full responsibility of the dealer. Watu can recommend the Dealer best practices of incentivising Sales agents based on market knowledge.
+- Watu Sales representatives/Executives are providing trainings to Agents: OBS 4, product knowledge, loan calculation, compliance rules, checking KYC documents, red flags of potential fraudulent customers, basic sales skills in collaboration with Samsung sales trainers;
+- Dealer's Sales agents are given the targets and incentives by the dealer, which the Watu Sales Team doesn't determine.
+- Watu Sales representatives/Executives are doing Sales Agents performance review with Dealers Management and with Sales Agents themselves, using the Performance Visibility Dashboard and based on the Sales and Portfolio Health metrics (Never paid and Offline rate).
+Shop management
+Watu sales team has a weekly route plan to visit shops across the market:
+   * Shops with limits of 5 mil Ksh and w/o a limit are visited on a weekly basis;
+   * Shops with limits between a 1 mil and 4 mil Ksh are visited 2 times a month;
+   * The rest are visited once in a month;
+List of Actions for Sales Representative for each visit:
+   * Training of Front officers and Shop Managers (OBS 4, performance dashboards, new devices, change in prices, down payments, general information about Watu Simu service etc)
+   * Deployment of POSM
+   * Market sensing (Competition activity, changes to competition prices, DPs etc)
+   * Issues resolution (e.g. system logging issues) and relationship management
+   * Performance addressing (Sales, Never Paid, offline rates) using the dashboards with FOs, Sales Agents, Store Manager and Dealer owner
+Price monitoring
+Price monitoring is done by Sales Executive/Representatives on a weekly basis with a standard form of reporting on a single shop level. Subject of monitoring is comparison of Cash price and Watu loan price for the same device. This information is being used for Price cap definition and control.
+Unethical behaviour control
+Unethical behaviour can be prevented reactively and proactively:
+Proactively: via regular trainings on compliance rules and explaining the consequences of unethical behaviour;
+Reactively:
+- via assessing the portfolio quality of Dealership or Agent, further investigation and possible suspension;
+- via getting whistleblower complaints from Customers or other Dealers, further investigation and possible suspension;
+Performance Visibility dashboard 
+Performance Visibility dashboard is a data report compiled by Watu, which shows the performance of the loans disbursed by the Dealer and has granularity to a Shop, Agent, Model, IMEI, specific date level. The dealer is able to see Loan portfolio amount, Price and Repayment progress of the specific loan (RP - number of weekly instalments paid vs total number of instalments), Never paid rate (% of loans, where the customer didn’t pay any instalment after loan disbursal).
+Such reports with the specific Dealer’s data are provided to all major dealers.
+Communication practices
+   1. Each Point of sale of dealers has the What's App chat group, created during first training for this shop.
+   1. Members of the group: Watu - Sales Manager, SE, SR, Operations officer, HOD; Dealer - Front Officers, Supervisors, Shop Manager, Dealer owner.
+   2. Communication made in such group:
+   1. Watu communicates changes in Down Payments, Device Software, Model offering, scheduled trainings etc;
+   2. Dealer communicates issues with Onboarding and receipts after each sale, any other inquiries;
+   2. Email communication to Dealer owners:
+   1. Onboarding offer and KYC
+   2. Contracts
+   3. Payment issues on Watu side
+   4. Suspension of a dealer
+   5. Changes in Sales Limits
+   6. Changes in Down Payments, Device Software, Model offering
+Dealership data mapping
+Watu Sales Manager maps dealership per: region, branch, Sales Executive, Sales Representative levels. Mapping is reviewed daily depending on the changes: new dealerships and POS, team changes etc.
+
+
+   3. Loan adjustments
+Loan transfer to a new customer
+To be added
+Loan Rescheduling
+Rescheduling of the loan is the extension of the loan period, factoring in the period during which the asset was not functioning. For this period arrears will be cleared and the client will be able to continue with the loan. Rescheduling doesn't require any agreement or document changes.
+In case if a customer experiences the issues with the device: it is not functioning, undergoing repairs, was reported stolen and then recovered, phone was shipped to HQ for factory reset and returned back to client, or the client was unwell and can provide an evident document, Watu can reschedule the loan. For this customer will contact the Customer care line or Watu branch. Customer care officer or Retail officer will fill in the ticket stating the reason for rescheduling, loan ID and other necessary information. Responses from the ticket will come to the Simu BO support Tracker owned by the Back office.
+Once the client made a request for rescheduling:
+   1. Front officer / Customer care officer provides the information from customer about days the phone was not functioning;
+   2. Back officer will confirm with Simu Operations officer whether the phone was not functioning on the claimed days based on information from Knox;
+   3. If it is confirmed, the loan will be rescheduled within 24 hours.
+Loan Restructuring
+Restructuring of the loan is changing the loan terms - period and weekly instalments. It is made if a customer wants to extend or shorten the period of the loan or additional costs incurred to the loan.
+In Watu Simu there are 2 types of restructuring possible:
+   * Changing the terms of the loan;
+   * Changing the terms of the loan and factoring additional costs in case of Device Repairs 30/70.
+Terms Change is done when a customer would like to change repayment period or asset price was wrongly approved during onboarding. The loan MUST have 0 arrears to qualify for restructuring.
+In case of Repairs funded by Watu, the amount of repairs in full will be added to the principal of the loan. The Client must pay 30% of the full price of repairs to Watu to qualify for the 30/70 scheme. 
+30/70 repair policy is applicable to clients with arrears of at most three (3) weeks.
+For restructuring, customers will contact the Customer care line or Watu branch. Customer care officer or Retail officer will fill in the ticket stating the reason for restructuring, loan ID and other necessary information. Responses from the ticket will come to the Simu BO support Tracker owned by the Back office.
+   * Back officer will execute the changes in restructuring module in Mifos;
+   * Front officer has to print a new loan agreement from Mifos and sign it with the client and send it to Back office. This agreement should be uploaded to Mifos account.
+   1. Repairs
+Samsung repair categories:
+   1. In-Warranty: occur due to manufacturer defects, mainly Software issues (e.g. Network issues, Phone hanging bug, Not detected sim card etc). The cost is handled by Samsung.
+   2. Out-Warranty: occur due to user or physical damage (e.g broken screen, liquid damage, dented sim tray etc). The cost is handled by the Client.
+There are types of repairs done by Watu (out-warranty):
+   1. Self-repair:
+   1. Client opts to take the device to their own technician (not recommended);
+   2. Client opts to pay the whole quoted amount by the authorised Samsung service centre;
+   2. Watu 30/70 repairs - the client is issued a quotation from a Service centre and requests to be assisted with payments. The Client will pay 30% of the quoted amount to qualify for the service and 100% of the quoted amount is added to the loan principal. Watu finance will pay 100% to the Service centre.
+   3. 100% repair financing by Watu could be offered in exceptional cases when client has 0 arrears and unable to pay 30% at the moment;
+The process of incidents processing and repairs:
+   1. Client visits the Branch, Godown, Authorised Samsung service centres, Dealerships or call Customer Care and reports the issue;
+   2. Client will explain the device defect and the Retail Officer/Service centre technician will fill in the service order request ticket. RO will print 2 Watu job cards, 1 is to wrap the device and dispatch to the service centre or HQ (if the branch is not mapped with a nearest Service centre) and 2 issued to the client. If the client comes to Dealership or calls Customer care, they will advise to visit the nearest Watu office or Authorised Samsung service centre.
+Exception: only for broken screen cases, if client agrees to 30/70 scheme, and after explaining the potential loan restructuring process, 30% of the screen repair price should be paid before dispatching the device to the Service centre.
+   3. Service centre receives the device, books it in their System and technician will diagnose the device, then issue the Samsung job card number based on the Warranty category (in or out-warranty). If it is in-warranty they will repair it and dispatch it back to the client or Watu branch. Usually in-warranty repairs take 3 days according to Samsung's policy, unless there are exceptional cases.
+If it is out-warranty, a quotation is issued to the Client or Watu Retail officer for facilitation of payment. Retail officer will call the client, explaining the quoted amount, possible type of financing the repair (Self, 70/30, 100%), and the potential loan restructuring process.
+   4. When the client agrees to 70/30, the Retail officer will instruct him to pay 30% and Issue an Amendment to the Loan Agreement and Schedules to confirm his agreement for the loan restructuring.
+When the client qualifies for 100%, the Retail officer will instruct him to sign an Amendment to the Loan Agreement and Schedules to confirm his agreement for the loan restructuring.
+When the client agrees to Self-repairs, the client pays the whole quoted amount to the service centre.
+         5. After completing repairs the Device will be dispatched directly to the Client or Watu office.
+   2. Returns
+Receiving devices at branches and downpayment return
+If the customer is unable to pay or the device is damaged, the device can be taken to the Watu branch or Watu Godown. Retail officer is doing the assessment of the device based on the check-list. Retail officer will fill in the ticket stating the results of the assessment. Based on the information from the ticket Simu Product officer will define the device qualification for down payment return.
+   * If a device is in a fair condition, Watu will return the Down Payment with deduction of 500 KShs
+   * If a device is damaged, Watu will not return a downpayment
+   * If the accessories of the device are lost, but the device is in a fair condition, Watu will deduct 500 KShs for each of the missing accessories and return the rest of the Down Payment.
+Once the device is returned, the Simu product officer will request IT to change the Legal Status to On Sale (if device is in fair condition) and Returned (if device is damaged).
+Returns stock management
+Once the device is returned, it will be sent from the Watu branch or Godown to the HQ. Simu product officer will:
+   1. Assess the device second time
+   2. Hard reset of the device
+   3. Unlock the device on Knox
+   4. Assign to the client which requested the replacement phone based on the “first in” principle.
+   5. Dispatch the device to the respective Watu branch to be disbursed to the customer on a new loan.
+   1. Credit management
+Simu Engagement Programme (SEP)
+A call centre operation to engage, understand and support Simu clients that have been offline for 21-76 days.
+This has the ultimate goal of bringing more clients back online by empathising with their situations and providing relevant information that they may be missing. E.g their daily payment amount, the Watu paybill number etc.
+Watu also assists clients whose Devices are broken, stolen, or facing any number of other issues.
+   2. Customer care
+Unlocking with passkey (w/o Internet)
+In cases when the client paid, but the client's phones failed to connect to the Internet due to software bugs, the client will call the customer care or dealers to help them to unblock the phone.
+   * Dealer will escalate to Sales team member, who will then escalate to Simu Product support officer.
+   * Customer care will troubleshoot the issue themselves.
+Troubleshooting steps:
+   1. Check if the client paid the correct amount of at least a daily instalment;
+   2. Check on the knox last date of connection to the internet;
+   3. If the date of the last connection to the Internet is an older date than the date of payment, then client is advised to connect to the Internet (Wi-Fi or to insert the sim-card with the data bundles);
+   4. If this doesn't help, then client is asked to give a passkey from the lock-screen and he will be given the pin for 24-hours unlock generated by Knox;
+   5. Once the phone is unlocked Customer Care/Simu product support officer will try to understand the reason why the phone was not unlocked automatically;
+   6. Main issues to check: reset the network settings and restart the phone, reset all phone settings, software update to the latest available, factory settings reset, if nothing helps the phone should be sent to the HQ for further investigation. The process of investigation and troubleshooting at HQ may take up to 3 days. If Simu Product support officer at HQ is not able to fix the phone, it will be handed over to Samsung Service centre for the motherboard replacement. In this case a client can be offered a loan rescheduling.
+Service query follow-up
+To be added
+Escalation process of technical product and operations queries
+Clients' inquiries can come through Watu branch offices, Dealerships or Customer care line. The point of contact who accepts the inquiry will fill in the ticket.
+Watu branch:
+   1. The retail officer will fill in the Simu Branch Support ticket or Simu CC reporting ticket. Branch support ticket is for phone unlocking, while the Simu CC reporting ticket is for: IMEI number mix-up during the onboarding, Client's Mifos account is not yet created, Loans that were written off but client wishes to restore the account, Devices sold on Cash but were registered in Knox as a Watu device, Dealer-Client price miscommunication.
+   2. Branch support ticket goes to Customer Care, while the Simu CC reporting ticket goes to Simu product support officer who might need the assistance of Customer Care, Back office or Simu sales team depending on the nature of an issue.
+Dealership:
+   1. The front officer will capture the inquiry and pass it to the Simu Sales Representative or Executive, who will fill the Simu Operations issues escalation tracker ticket.
+   2. The most common issues escalated via this tickets are: Down Payment Reversals, OBS Application/Loan Cancelation, Down Payment Linking Issue, Dealership Account Issue (e.g. Dealer Limits, Payments), Front Office User Account Issue, Pending Applications Issue, Sub Processes Support (theft, returns, replacements, recovery, fraud), POS Knox Support, Repairs Support, KYC Corrections Submission, Dealer Payments.
+   3. These requests are then picked up by a respective staff within the Simu Product or Operations team.
+Customer care line:
+   1. In case if inquiry is about phone unlocking, Customer care can troubleshoot immediately;
+   2. In case of other inquiries, CC to fill in the Simu CC reporting ticket.
+   3. Simu CC reporting ticket goes to Simu product support officer who might need the assistance of Customer Care, Back office or Simu sales team depending on the nature of an issue.
+General service related queries
+General service related queries are the issues that are not covered by any existing tickets and are not common. Being resolved by a Simu product support officer. List of general service queries:
+   1. Factory data reset phones
+   2. Flashed phones from the accounts not captured in a CFC campaign and came to attention accidentally
+   3. Completed loans cases where devices are still being locked
+   4. Knox guard not activating
+   5. Network settings issues on the phone
+Watu App
+To be added - Proud
+
+
+   3. Cash-flow Management
+Reconciliation of dealership sales statements and payment tp dealerships
+For all the dealers on weekly and bi-weekly bank payment plan the process is the following:
+   1. The dealer sends the sales statement in a standard template with the following information: IMEI, Model, RRP based on ETR, quantities. Dealer sends it weekly (or depending on a payment schedule) to a special email: dspayments@watuafrica.com owned by the Back office.
+   2. Back office cash flow team compares the Dealership statement vs internal cash flow file driven by Mifos data.
+   3. In case of mistakes:
+   1. Wrong IMEI - Cash flow team will inform the dealer of the mistake and ask to fix and send the statement again;
+   2. Price difference between Mifos data and ETR/statement:
+   1. If ETR price is outside of Watu's allowed price range - Cashflow team will inform the dealer of a wrong ETR price and ask to fix and send the statement again;
+   2. If ETR price is inside allowed price range - Cashflow team will reconfirm with the dealer if ETR/statement price is correct; If it is incorrect, Dealer should send a correct ETR and statement file; If it is correct, Dealer should call back client for reonboarding to recalculate the loan with the correct price.
+   4. In case the statement is correct according to Mifos data, the Cash flow team will confirm to the Dealer that the amount outlined in the Statement will be paid in the next scheduled payment day.
+   5. Cash flow team will copy the statement to Simu Payment File;
+   6. Actual balance of the dealer will be outlined in Simu Payment Module, which is linked to Simu Payment File and having accumulated actual balances of the dealers.
+   7. Cash flow team prepares the final payment file for a payment period and sends to Finance for approval;
+   8. Cash flow team uploads the final payment data to an I&M or DTP online banking system in csv format;
+   9. Finance releases the payment through the I&M or DTP online banking system.
+
+
+For the dealers on instant payment scheme (Safaricom) the process is the following:
+   1. After the client signed the loan agreement payment is triggered from the Watu's Mpesa account to the dealer;
+   2. Cash flow team reconciles all payments within the day every 2 hours against Mpesa account payouts;
+   3. In case payout fails due to Mpesa downtime, Cash flow team advises the dealer to proceed with asset release and the payout will be done as soon as Mpesa issues are resolved.
+   4. All the transactions are recorded in Simu Instant payment tracker.
+Watu's payment days:
+   * Monday for weekly payment plan
+   * Monday and Thursday for bi-weekly payment plan
+   * Everyday for instant payment plan
+   1. Theft
+Receiving incidents of theft
+Once a device gets stolen, the client has to obtain a police abstract and take it to the Watu branch or Watu Godown. Retail officer will fill in the specific ticket, capturing the necessary incident information. This information is automatically populated to the Incident tracker owned by the Simu Product officer. Simu product officer will:
+   1. Send request to IT for the legal status to be changed to Stolen;
+   2. Once the LS is changed Nexus will disable itself, this prevents device from unlocking if someone will pay for it;
+   3. The client might qualify for a replacement phone and start a new loan. Qualification requirement is 10 weekly payments:
+   1. If customer doesn't qualify at the moment of theft, he will be informed by the Retail officer of the 10 weekly payments rule and instructed to continue payments until qualification;
+   2. If customer qualifies, Watu can close the current loan, disburse a new loan for the replacement device;
+   4. If a customer doesn't qualify or doesn't want to have a replacement phone loan, the current loan will be eventually closed and written-off.
+   5. If the customer happens to recover back the device reported stolen, then he should go to the Branch. Retail officer will fill in the ticket and the Simu product officer will request IT to remove the LS and reactivate Nexus.
+Device Replacement
+Once the client qualifies for a replacement Device Watu can disburse a new loan for a replacement Device. Replacement is a second-hand device which was previously returned to Watu by the customer.
+Replacement is on a first come first serve basis after making payment. A customer is allowed to take the same device, upgrade or downgrade. Repair devices cases with quotation above kshs 15000 - beyond repair case (previous device should be ticketed and returned if customer has the device).
+Replacement devices Downpayments:
+   * A03's - 2000/=
+   * A04 to A24 - 3000/=
+   * A33 to A54 - 4000/=
+Above the mentioned - NO REPLACEMENT but can downgrade.
+   1. If the client wants to get a replacement device, he should go to the Watu branch or Watu Godown. Retail officer will fill in the specific ticket, capturing the Selected Model, Customer Name and ID, and the Mpesa Down Payment transaction code. Whenever a Retail officer will start working on the ticket, he will ask the Simu Product officer about the availability of the devices. Selected devices might not be available in Watu Returns stock, therefore customer might be advised to wait until the device is available.
+   2. Simu Product officer will send the device to the respective Watu Branch or Godown;
+   3. Replacement ticket will be filled by the Retail Officer, attaching the Delivery note for the device and filled in and signed New Loan agreement with the client.
+   4. Back office will disburse a new loan to the customer based on the information provided in the ticket.
+   1. Fraud Prevention
+Counter Flash Campaign (CFC) - Calling the customers suspected in fraud
+This is a call centre campaign, calling MSISDNs of those believed to be in possession of flashed devices with the following objectives:
+   1. Send a strong message into the community that Watu knows who is flashing and that this is illegal.
+   2. Gather information by calling and arresting device users, dealers and flashers.
+   3. Recuperate some of the losses incurred by taking payments or demanding the return of the flashed Devices.
+Asset Risk dealerships/customers investigation and prosecution
+The AR and Security team is assigned cases by the CFC call centre team, with a view to arresting and / or gathering more information about the case. It is not the primary goal to arrest device users, who sometimes may have been sold the phone without even knowing it had been flashed - in such cases, we record statements to build cases against fraudulent dealers and flashers.
+Suspension of fraudulent dealerships and front officers
+   * When a dealer's offline rate or fraud percentage increases, they receive a warning from the Simu Team regarding poor performance in their portfolio.
+   * If the offline rate issue is attributed to one Front Officer, that Front Officer's account is locked, preventing them from making sales in any dealership within the Simu universe.
+   * If the increase in fraud is caused by multiple Front Officers, the dealer's limit is reduced as a punitive measure.
+   * Sales performance is closely monitored after these actions.
+   * If the portfolio's performance deteriorates further, the dealer receives an official communication from the Simu team.
+   * Subsequently, the dealership is blocked on Mifos, the platform used for managing these operations.
+Blocking IMEIs with Telco
+Following CFC call centre activities, for those flashed device users who do not pay for or return the device - we are sending the list of IMEIs of the flashed devices to Safaricom and Airtel, so that these devices will be blocked at the network level, and essentially become useless. This is a huge disincentive to anyone who is considering flashing their phone.
+   2.    3. 
+
+   2.    3.    4.    5. Additional service delivery process
+[Add any information about additional services – why are they provided, what value they generate, are they included in the service price or can be purchased separately, etc.]
+   4. Name of additional service 1
+[Brief process description]
+[Add smart art or bullets if necessary]
+   5. Name of additional service 2
+[Brief process description]
+[Add smart art or bullets if necessary]
+   6. Tools used in service delivery
+Define systems and templates used in the process
+Tool/Solution/
+System
+	Explanation
+	System Location
+	Processed Personal Data Types
+	Processing method
+	SO1
+	Explain what the tool, solution or system is used for
+	
+
+	Add numbers from the list below
+	Add numbers from the list below
+	T1
+	Explain what the tool, solution or system is used for
+	
+
+	Add numbers from the list below
+	Add numbers from the list below
+	SY
+	Explain what the tool, solution or system is used for
+	
+
+	Add numbers from the list below
+	Add numbers from the list below
+	*Personal Data types and methods are defined in table below:
+   6. Data processing type and method clarification
+
+
+	List of Personal Data types
+	1
+	Name Surname
+	2
+	Business contact information (address, phone, mobile, email, postal code)
+	3
+	Employment details (employer, job title, job, location, workstation ID, Mac address)
+	4
+	IP address
+	5
+	Location
+	6
+	Goods and services provided
+	7
+	Cookies
+	8
+	User ID number
+	9
+	Birthdate
+	10
+	Personal contact information (address, phone, mobile, email, postal code)
+	11
+	Education details (qualification)
+	12
+	Information about relatives (name, age, birthdate)
+	13
+	Marital status
+	14
+	Social security details
+	15
+	Finance details (salary, benefits)
+	16
+	Gender
+	17
+	Biometrical data
+	18
+	Audio, video, photo data
+	
+
+
+
+	List of processing methods
+	
+
+	
+
+	1
+	View 
+	6
+	Modify
+	2
+	Collect
+	7
+	Combine
+	3
+	Record
+	8
+	Disclose
+	4
+	Store
+	9
+	Erase
+	5
+	Structure
+	
+
+	
+
+	   7. Service availability
+Service delivery is provided as per the times indicated in the table below, excluding public holidays in said locations.
+Country
+	Service
+	Business days
+	Opening hours
+	Time zone
+	Kenya
+	Core business services
+	Mon – Fri
+Sat
+	08:00 – 17:00
+08:00 – 13:00
+	EAT (East Africa Time)
+	Kenya
+	Additional Service 1 business services
+	Mon-Sun
+	24/7
+	EAT (East Africa Time)
+	   8. Risks and risk mitigation
+Watu risk management is governed by the Risk Assessment and Mitigation process. The risks are reviewed every quarter.
+Latest updated Risk Assessment Matrix can be found xxx. 
+   9. Service Performance Measurement
+Service performance measurement is based on Key performance Indicators (KPIs). KPI Items are defined by the senior management and reviewed annually. Detailed information about KPI management during service delivery is described in Service Delivery Management and Service Governance process description.
+A detailed list of service KPIs can be found xxx.
+   10. Reporting
+[Describe reporting principles]
+   4. Responsibilities
+   1. Responsibility assignment matrix
+To clearly indicate responsibilities in regards to a task inside the service delivery, Watu is using what commonly is referred to as a RACI Matrix.
+   * R = Responsible. The party responsible for the work to achieve completion of the activity
+   * A = Accountable. The party accountable for correct and thorough completion of the activity
+   * C = Consulted. Resources whose opinions are sought
+   * I = Informed. Should always be kept informed on progress of the activity
+Activity
+	Watu
+	Customer
+	Comments
+	STEP 1
+	
+
+	
+
+	
+
+	Activity 1
+	
+
+	
+
+	
+
+	Activity 2
+	
+
+	
+
+	
+
+	Activity 3
+	
+
+	
+
+	
+
+	   2. Additional customer responsibilities
+[Description]
+   5. Related documents
+   * Policies
+   * Standards
+   * Procedures
+   * Guidelines
+   * Checklists
+   6. Terms and abbreviation
+Abbr.
+	Term
+	Explanation
+	
+
+	
+
+	
+
+	
+
+	Customer
+	The customer of a service provider is a person or a group who defines and agrees the service level targets
+	KPI 
+	Key performance indicator 
+	A metric that is used to help manage a service, process, plan, project or other activity.
+	RACI 
+	Responsibility assignment matrix
+	A model used to help define roles and responsibilities. RACI stands for responsible, accountable, consulted and informed.
+	
+
+	Service
+	A means of delivering value to customers by facilitating outcomes customers want to achieve without the ownership of specific costs and risks.
+	
+
+	Watu
+	The term used to describe Watu organisation as a whole, including all and any of Watu owned legal entities engaged in delivering services to Customers.
+	   7. Version History
+Service descriptions must be created, approved and reviewed according to Documents and Records Management procedure.
+Version
+	Date
+	Status: Main Changes
+	Changed by
+	1.0
+	
+
+	<Description>
+	<Name, Surname>
+	
+
+ () {"HashCode":403594638,"Height":841.0,"Width":595.0,"Placement":"Footer","Index":"Primary","Section":1,"Top":0.0,"Left":0.0} 
+Sensitivity: Internal
+[a]should we add DP here?
+[b]Added
+[c]Should we add a separate section explaining PAYG model locking/unlocking in details?
+[d]we also have instant - only in Kenya and only for Safaricom
+[e]I thought daily = instant. I changed to instant
+[f]should we define parameters which might impact on Price cap like:
+changing wholesaler price, exchange rate fluctuation etc?
+[g]Let's rephrase it. It should be maximum amount of value dealer can sell per week and financed by Watu, or something like that
+[h]done
+[i]Due day (or first repayment is schedule) is day 7. First overdue day 8. We usually calculate on day 9. To capture client who paid on day 8.
+[j]Amended
+[k]sign necessary documents
+[l]Added
+[m]Are the dealers willing to listen to Watu's take on phone price changes?
+[n]affordability
+product availability - territory  covers (or something like that)
+[o]added
+[p]Portfolio quality is evaluated monthly. Why not weekly?
+[q]what about Sales Executive and Sales Representative
+[r]added
+[s]let's discuss this, on the last real case we block flagships for specific dealer due to the low performance and waiting for improvement
+[t]Does this include Telco promotions?
+[u]I need education on this.
+[v]and market practice
+[w]Added
+[x]Add org chart and link to job descriptions.
+[y]Structures are specific to markets, so not sure we should specify. Job descriptions we will add
+[z]this is unique proposal only for very trustable dealers we personally know
+[aa]This refers to distributor/wholesalers credit line, not from Watu. We don't have any influence on credit terms between Dealer and WS/DS.
+[ab]do we want to specify how and what sales admin should check? As there are some cases when we are blocking DS due to unethical promo and they open new DS.
+[ac]do you mean repayment for the sold device to dealer from Watu?
+[ad]corrected
+[ae]Should we move it to separate document - onboarding instruction?
+[af]Lets make it universal for all countries
+[ag]Apart from Ke, verification call is done by separate in-country team. Ke BO will splited too
+[ah]Sales Executive and Sales Representative
+[ai]only in Kenya and Ug
+[aj]Im not sure about this
+[ak]also firmware updates and watu app installation

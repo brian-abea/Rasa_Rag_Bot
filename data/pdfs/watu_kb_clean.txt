@@ -1,0 +1,402 @@
+Intent: Most Sought Queries Sequence "Hello 👋 and welcome to the Watu WhatsApp Channel! To continue please select your preferred language: Jambo 👋 na karibu kwenye WhatsApp ya Watu
+Answer: Kuendelea, tafadhali chagua lugha ambayo ungependa kutumia:
+----------------------------------------
+Intent: 1️⃣ Kiswahili
+Answer: 
+----------------------------------------
+Intent: 2️⃣ English
+Answer: "
+----------------------------------------
+Intent: 1️⃣ Kiswahili
+Answer: 1️⃣ Kiswahili
+----------------------------------------
+Intent: 2️⃣ English "Our conversations will be saved as per our privacy policy here: https://watuafrica
+Answer: com/privacy-policy-2/
+----------------------------------------
+Intent: 1️⃣ I do not consent: End the session
+Answer: 
+----------------------------------------
+Intent: 2️⃣ I consent
+Answer: "
+----------------------------------------
+Intent: 1️⃣ I do not consent: End the session
+Answer: Thank you for reaching out. Unfortunately, we are unable to proceed without your consent to the data privacy policy. Should you wish to continue, please review and accept the policy. Have a great day! "
+----------------------------------------
+Intent: 2️⃣ I consent
+Answer: " "Please select an option (Menu layout) / Please respond with a number (List Option):
+----------------------------------------
+Intent: 1️⃣ Phone Unlocking Guide
+Answer: 
+----------------------------------------
+Intent: 2️⃣ Watu App Queries
+Answer: 
+----------------------------------------
+Intent: 3️⃣ Report a Stolen/Lost Asset
+Answer: 
+----------------------------------------
+Intent: 4️⃣ Check Your Loan Balance
+Answer: 
+----------------------------------------
+Intent: 5️⃣ How to Pay
+Answer: 
+----------------------------------------
+Intent: 6️⃣ Product Inquiry
+Answer: 
+----------------------------------------
+Intent: 7️⃣ Report an Issue with Your Asset
+Answer: 
+----------------------------------------
+Intent: 8️⃣ Cash Loans
+Answer: 
+----------------------------------------
+Intent: 9️⃣ Other Issue
+Answer: 🔟 Return to Main Menu." "
+----------------------------------------
+Intent: 1️⃣ Phone unlocking Guide
+Answer: " "Having trouble unlocking your phone? Don’t worry, we’re here to assist you! Have you made your daily payment in full?
+----------------------------------------
+Intent: 1️⃣Yes, I have
+Answer: 
+----------------------------------------
+Intent: 2️⃣No, I haven’t
+Answer: 
+----------------------------------------
+Intent: 3️⃣Partial Payments
+Answer: " "
+----------------------------------------
+Intent: 1️⃣Yes, I have (Icon) " "To successfully unlock your phone, please make sure: 1
+Answer: You are connected to the internet by clicking on the data icon or Wi-Fi on your locked phone screen. 2. Then, press the Support button followed by ""Refresh Account Status"" to download the latest policy. Not Successful? 1. Please ensure that you only have either Safaricom or Airtel line on your phone. 2. Check your network settings by temporarily unlocking your phone using Watu App> Go to settings> Select General Management> Tap Reset, and then> Tap Reset Mobile Network Settings. " "Please let us know if the issue was addressed by selecting an option below.
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ Return to main menu " "
+Answer: 3️⃣ Return to main menu " "
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful " Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu! "
+----------------------------------------
+Intent: 2️⃣ I need more help: " "To guide you on phone unlocking, please provide the information below: 1
+Answer: M-Pesa transaction Message. 2. Phone number used to make payment. 3. Full names registered on the account. 4. Registered phone number. 5. Account number (ID number registered with Watu). We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! "
+----------------------------------------
+Intent: 3️⃣ Return to main Menu
+Answer: 3️⃣ Return to main Menu
+----------------------------------------
+Intent: 2️⃣No, I haven’t made payment
+Answer: "To successfully unlock your phone, kindly make your full daily or weekly payment as shown on the Watu App or your locked phone screen and then follow the unlocking procedure provided: 1. Ensure you are connected to the internet by clicking on the data icon or Wi-Fi on your locked phone screen. 2. Then, press the Support button followed by ""Refresh Account Status"" to download the latest policy. Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu! " "
+----------------------------------------
+Intent: 3️⃣ Made partial payments - Close conversation
+Answer: " "To successfully unlock your phone, kindly top-up to complete your daily payment as shown on the Watu App or your locked phone screen and follow the unlocking procedure below: 1. Ensure you are connected to the internet by clicking on the data icon or Wi-Fi on your locked phone screen. 2. Then, press the Support button followed by ""Refresh Account Status"" to download the latest policy. Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu! " "
+----------------------------------------
+Intent: 2️⃣ Watu App Queries
+Answer: " "Please select the issue you need help with:
+----------------------------------------
+Intent: 1️⃣ Temporary Unlock Phone
+Answer: 1️⃣ Temporary Unlock Phone
+----------------------------------------
+Intent: 2️⃣ Trouble Making Payments
+Answer: 2️⃣ Trouble Making Payments
+----------------------------------------
+Intent: 3️⃣ Forgot Watu App PIN
+Answer: 3️⃣ Forgot Watu App PIN
+----------------------------------------
+Intent: 4️⃣ How to Sign Up
+Answer: 4️⃣ How to Sign Up
+----------------------------------------
+Intent: 5️⃣ Other Watu App Issues
+Answer: 5️⃣ Other Watu App Issues
+----------------------------------------
+Intent: 6️⃣ Other Issues ()"
+Answer: 6️⃣ Other Issues ()"
+----------------------------------------
+Intent: 1️⃣ Temporary Unlock my Phone
+Answer: "To temporarily unlock your phone, follow these steps: 1. Turn on mobile data by by clicking on the data icon or Wi-Fi on your locked phone screen. For mobile data, ensure you have an active data bundle. 2. Click Watu App, and log in using your registered phone number and enter PIN. 3. Click on Temporary Unlock button. This will unlock your phone for 5 minutes allowing you to make a payment. 4. Click ""Done"" then click on ""Pay"". Enter the amount you wish to pay then select ""Pay Via M-Pesa"". 5. Confirm Payment and follow the prompts. Here is a photo to guide you on how to temporarily unlock your phone. *photo here* " "Please let us know if the issue was addressed by selecting an option below:
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ I have another issue "
+Answer: 3️⃣ I have another issue "
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu!
+----------------------------------------
+Intent: 2️⃣ I need more help "To guide you on temporary unlocking your device, please provide the following information: 1
+Answer: Your Account number (ID Number registered with Watu). 2. The phone number used at the time of registration. 3. A brief description of the concern. We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! "
+----------------------------------------
+Intent: 3️⃣ I have another issue ()
+Answer: 3️⃣ I have another issue ()
+----------------------------------------
+Intent: 2️⃣Having trouble making payments
+Answer: "To make payments via Watu App please follow the below steps: 1. Make sure your mobile data is on and you have active data bundles or you are connected to WiFi. 2. Open the Watu App and login using your registered phone number and enter PIN. 3. Click on ""Pay"", then enter the amount you wish to pay (and the phone number) then select ""Pay Via M-Pesa"". 4. Confirm Payment and follow the prompts to input M-Pesa PIN. Here is a photo to guide you on how to make payment via the Watu App. *photo here*" "Please let us know if the issue was addressed by selecting an option below:
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ I have another issue "
+Answer: 3️⃣ I have another issue "
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu!
+----------------------------------------
+Intent: 2️⃣ I need more help "To guide you on how to make payments via Watu App, please provide the following information: 1
+Answer: Your Account number (ID Number registered with Watu). 2. The phone number used at the time of registration. 3. A brief description of the concern. We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! "
+----------------------------------------
+Intent: 3️⃣ I have another issue ()
+Answer: 3️⃣ I have another issue ()
+----------------------------------------
+Intent: 3️⃣Forgot Watu App PIN "To reset your Watu App PIN: 1
+Answer: Make sure your mobile data is on and you have active data bundles or you are connected to WiFi. 2. Click “Forgot PIN” on the App. 3. Enter your registered phone number, then click ""Reset"". 4. Use the OTP code sent via SMS or Secure Notification. 5. Set your desired 4 Number PIN that you will use to log in to the app. Here is a photo to guide you on how to reset your PIN. *photo here*" "Please let us know if the issue was addressed by selecting an option below:
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ I have another issue" Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu!
+----------------------------------------
+Intent: 2️⃣ I need more help "To assist you with resetting your PIN on the Watu App, please provide the following details: 1
+Answer: Your Account number (ID Number registered with Watu). 2. The phone number used at the time of registration. 3. A brief description of the concern. We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! "
+----------------------------------------
+Intent: 3️⃣ I have another issue () "
+Answer: 3️⃣ I have another issue () "
+----------------------------------------
+Intent: 4️⃣How to sign up
+Answer: " "To sign up to the Watu App: 1. Make sure your mobile data is on and you have active data bundles or you are connected to WiFi. 2. Enter your registered number and press ""Enter"". 3. Enter the OTP sent to your phone. 4. Set your desired 4 Number PIN that you will use to log in to the app. Here is a photo to guide you on how to sign up. *photo here*" "Please let us know if the issue was addressed by selecting an option below:
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ I have another issue"
+Answer: 3️⃣ I have another issue"
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu!
+----------------------------------------
+Intent: 2️⃣ I need more help "To assist you with signing up to the Watu App, please provide the following information: 1
+Answer: Your Account number (ID Number registered with Watu). 2. The phone number used at the time of registration. 3. A brief description of the concern. We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! "
+----------------------------------------
+Intent: 3️⃣ I have another issue () "
+Answer: 3️⃣ I have another issue () "
+----------------------------------------
+Intent: 5️⃣ Other Watu App Issue " "To guide you with any Watu App issue or challenge you might be facing, kindly provide the following details: 1
+Answer: Your Account number (ID Number registered with Watu). 2. The phone number used at the time of registration. 3. A brief description of the concern. We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! "
+----------------------------------------
+Intent: 6️⃣Other Issue
+Answer: ()
+----------------------------------------
+Intent: 3️⃣ Report a stolen/ lost asset
+Answer: "Please select which asset has been stolen/ lost:
+----------------------------------------
+Intent: 1️⃣Simu
+Answer: 1️⃣Simu
+----------------------------------------
+Intent: 2️⃣Mortobike/ Threewhelers (tuk tuks)/ Gari " "
+Answer: 2️⃣Mortobike/ Threewhelers (tuk tuks)/ Gari " "
+----------------------------------------
+Intent: 1️⃣Simu " "We are sorry for the loss of your phone
+Answer: Please select the below options:
+----------------------------------------
+Intent: 1️⃣I have an abstract
+Answer: 1️⃣I have an abstract
+----------------------------------------
+Intent: 2️⃣ I do not have an abstract " "
+Answer: 2️⃣ I do not have an abstract " "
+----------------------------------------
+Intent: 1️⃣I have an abstract " "To assist you with your stolen phone case, please provide the following information: 1
+Answer: Clear picture of the abstract. 2. Your Account number (ID Number registered with Watu). 3. The phone number used at the time of registration. 4. A brief description of the incident: How, when and where the phone was stolen. We will verify your details and an agent will assist you shortly. Thank you for choosing Watu! " "
+----------------------------------------
+Intent: 2️⃣ I do not have an abstract " "To assist you with your stolen phone case, please follow the below guidelines: 1
+Answer: Please report the incident to the nearest police station, acquire a detailed police abstract, and share it with us. Additionally also please share: 2. Your Account number (ID Number registered with Watu). 3. The phone number used at the time of registration. 4. A brief description of the incident: How, when and where the asset or phone was stolen. Thank you for choosing Watu! If you have further questions, feel free to reach out anytime. " "
+----------------------------------------
+Intent: 2️⃣ Mortobike/ Threewhelers (tuk tuks)/ Gari " "We are sorry for the loss of your bike/ tuktuk/ Gari
+Answer: Please urgently contact our emergency line for immediate assistance on: 0719 111 000. Kindly ensure the incident has been reported to the police, and you have obtained both an OB number and an abstract. Thank you for choosing Watu! If you have further questions, feel free to reach out anytime. " "
+----------------------------------------
+Intent: 4️⃣ Check your loan balance
+Answer: " "To check loan balance using the Watu App, please log in and follow below steps: 1. Make sure your mobile data is on and you have active data bundles or you are connected to WiFi. 2. Login to Watu App: https://t2m.io/B71JguE 3. Scroll down to view balance. A photo is attached to guide you on how to check balance. *photo here* USSD option, use the following steps: 1. Dial *876# using the phone number registered with Watu. 2. Enter PIN. 3. Follow the prompts to check balance. If you have forgotten your PIN 1. Dial *876# using the phone number registered with Watu. 2. Enter 0 as PIN. 3. Enter ID Number. 4. New PIN sent via SMS. 5. Check loan balance using new PIN. " "Please let us know if the issue was addressed by selecting an option below:
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ I have another issue "
+Answer: 3️⃣ I have another issue "
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu!
+----------------------------------------
+Intent: 2️⃣ I need more help "To guide you on how to check your loan balance via the Watu App, please provide the following details: 1
+Answer: Your full names as registered on the account. 2. Your Account number (ID Number registered with Watu). 3. The phone number used at the time of registration. We will verify your details, and an agent will assist you shortly."
+----------------------------------------
+Intent: 3️⃣ I have another issue () "
+Answer: 3️⃣ I have another issue () "
+----------------------------------------
+Intent: 5️⃣How to pay
+Answer: " "To make a payment using the Watu App, please follow the steps below: 1. Make sure your mobile data is on and you have active data bundles or you are connected to WiFi. 2. Login to Watu App: https://t2m.io/B71JguE 3. Go to “Payments”. 4. Enter Amount to pay. 5. Pay via M-Pesa. Here is a photo to guide you on how to make a payment. *photo here* For M-Pesa, use the following steps: 1. Go to M-Pesa. 2. Select ""Pay Bill."" 3. Enter Business Number: 650880. 4. Enter Account Number: [Your ID number registered with Watu]. 5. Enter the amount. 6. Confirm with your M-Pesa PIN. Reply ""Done"" after payment to confirm. " "Please let us know if the issue was addressed by selecting an option below:
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful
+Answer: 1️⃣ Yes, it was helpful
+----------------------------------------
+Intent: 2️⃣ I need more help
+Answer: 2️⃣ I need more help
+----------------------------------------
+Intent: 3️⃣ I have another issue "
+Answer: 3️⃣ I have another issue "
+----------------------------------------
+Intent: 1️⃣ Yes, it was helpful Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries
+Answer: Thank you for choosing Watu!
+----------------------------------------
+Intent: 2️⃣ I need more help "To guide you on how to pay via the Watu App, please provide the following details: 1
+Answer: Your full names as registered on the account. 2. Your Account number (ID Number registered with Watu). 3. The phone number used at the time of registration. We will verify your details, and an agent will assist you shortly."
+----------------------------------------
+Intent: 3️⃣ I have another issue "
+Answer: 3️⃣ I have another issue "
+----------------------------------------
+Intent: 6️⃣ Product Inquiry " "Hello, thank you for expressing interest in our products
+Answer: Kindly let us know the product you prefer:
+----------------------------------------
+Intent: 1️⃣ Samsung Smartphone Loan
+Answer: 
+----------------------------------------
+Intent: 2️⃣ Motorbikes Loan
+Answer: 
+----------------------------------------
+Intent: 3️⃣ Tuk tuk Loan
+Answer: 
+----------------------------------------
+Intent: 4️⃣ Gari Loan
+Answer: 
+----------------------------------------
+Intent: 5️⃣ Cash (Car) Logbook Loan
+Answer: "
+----------------------------------------
+Intent: 1️⃣ Samsung Smartphone Loan
+Answer: "Thank you for choosing Watu to finance your Samsung smartphone loan. Below are the requirements: 1. An original national ID. 2. No active loans with Watu. 3. Be at least 18 years old. 4. An active mobile money transaction line. 5. Next of kin contact details (the contact must be available or online for verification). 6. A minimum down payment amount for the selected device. Models available: Galaxy A04e (32GB) Galaxy A05 (64GB) Galaxy A05 (128GB/4GB) Galaxy A05s (64GB/4GB) Galaxy A05s (128GB/4GB) Galaxy A06 (64GB/4GB) Galaxy A06 (128GB/4GB) Galaxy A15 (128GB/4GB) Galaxy A15 (128GB/6GB) Galaxy A16 (128GB/4GB) Galaxy A16 (128GB/6GB) " "Please let us know if you are interested in smartphone financing by selecting an option below:
+----------------------------------------
+Intent: 1️⃣Yes, I am interested
+Answer: 
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: 
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: "
+----------------------------------------
+Intent: 1️⃣Yes, I am interested
+Answer: "To further guide you on how to get a Samsung smartphone loan, kindly provide the following details: 1. Your name. 2. Your phone number. 3. Your location (where you are contacting us from). 4. The Samsung smartphone model you prefer. An agent will assist you shortly. Thank you for choosing Watu!"
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu!
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: ()
+----------------------------------------
+Intent: 2️⃣ Motorbike Loan
+Answer: "Thank you for choosing Watu to finance your Motorbike loan. Below are the requirements: 1. Original National ID – For both you and your guarantor. 2. No active loans with Watu. 3. KRA PIN Certificate. 4. Minimum Down Payment – Varies depending on the motorbike model. 5. Guarantor and a Referee – The guarantor must be at least 20 years old and must be an existing or former client who has successfully cleared a loan with Watu. 6. Active Safaricom Line – The mobile number must have been in use for at least 6 months. For New Motorbikes: 1. Maximum Loan Repayment Period: Up to 18 months. 2. Weekly Repayments: Varies based on factors like motorbike make, model, loan repayment period, and down payment. For Second-hand Motorbikes: 1. Minimum Down Payment: Varies depending on the condition of the bike selected at the office. 2. Loan Repayment Period: Up to 12 months. " "Please let us know if you are interested in Motorbike financing by selecting an option below:
+----------------------------------------
+Intent: 1️⃣Yes, I am interested
+Answer: 
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: 
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: " "
+----------------------------------------
+Intent: 1️⃣ Yes, I am interested
+Answer: " "To further guide you on how to get a motorbike loan, kindly provide the following details: 1. Your name. 2. Your phone number. 3. Your location (where you are contacting us from). 4. The make and model of the motorbike you prefer. An agent will assist you shortly. Thank you for choosing Watu!" "
+----------------------------------------
+Intent: 2️⃣ No, the information was helpful
+Answer: " Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu!
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: () "
+----------------------------------------
+Intent: 3️⃣ Tuk tuk Loan
+Answer: " "Thank you for choosing Watu to finance your tuktuk loan. Below are the requirements: 1. Original National ID – For both you and your guarantor. 2. No active loans with Watu. 3. KRA PIN Certificate. 4. Minimum down Payment – Varies depending on the tuk tuk model. 5. Guarantor and a Referee – The guarantor must be at least 20 years old and must be an existing or former client who has successfully cleared a loan with Watu. 6. Active Safaricom Line – The mobile number must have been in use for at least 6 months. For New tuk-tuks: 1. Maximum Loan Repayment Period: Up to 24 months for new tuk-tuks. 2. Weekly Repayments: Varies depending on the asset make and model, loan repayment period, and down payment. For Second-hand tuk-tuks: 1. Minimum initial payment: Varies depending on the status of the tuk-tuk you choose at the office. 2. Maximum Loan Repayment Period: Up to 12 months for second hand tuk-tuks. " "Please let us know if you are interested in Tuk tuk financing by selecting an option below:
+----------------------------------------
+Intent: 1️⃣Yes, I am interested
+Answer: 
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: 
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: " "
+----------------------------------------
+Intent: 1️⃣ Yes, I am interested
+Answer: " "To further guide you on how to get a tuk tuk loan, kindly provide the following details: 1. Your name. 2. Your phone number. 3. Your location (where you are contacting us from). 4. The make and model of the tuk tuk you prefer. An agent will assist you shortly. Thank you for choosing Watu!" "
+----------------------------------------
+Intent: 2️⃣ No, the information was helpful
+Answer: " Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu!
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: () "
+----------------------------------------
+Intent: 4️⃣ Gari Loan " " This service is no longer available
+Answer: We currently provide financing for: 📱 Samsung smartphone loans 🛵 Motorbike loans 🚖 Tuk tuk loans If you’re interested in any of the above, we’d be happy to guide you through the process. Thank you for choosing Watu!" "Please let us know if you are interested in any of the above asset loans by selecting an option below:
+----------------------------------------
+Intent: 1️⃣Yes, I am interested
+Answer: 
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: 
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: " "
+----------------------------------------
+Intent: 1️⃣ Yes, I am interested
+Answer: " "To assist you further, please share the following details: 1. Your full name. 2. Your phone number. 3. Your location (where you are contacting us from). 4. The product you are interested in. An agent will assist you shortly. Thank you for choosing Watu!" "
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: " Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu!
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: ()
+----------------------------------------
+Intent: 5️⃣ Cash (Car) Logbook Loan
+Answer: " This service is no longer available. We currently provide financing for: 📱 Samsung smartphone loans 🛵 Motorbike loans 🚖 Tuk tuk loans If you’re interested in any of the above, we’d be happy to guide you through the process. Thank you for choosing Watu!" "Please let us know if you are interested in any of the above asset loans by selecting an option below:
+----------------------------------------
+Intent: 1️⃣Yes, I am interested
+Answer: 
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: 
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: " "
+----------------------------------------
+Intent: 1️⃣ Yes, I am interested
+Answer: " "To assist you further, please share the following details: 1. Your full name. 2. Your phone number. 3. Your location (where you are contacting us from). 4. The product you are interested in. An agent will assist you shortly. Thank you for choosing Watu!" "
+----------------------------------------
+Intent: 2️⃣No, the information was helpful
+Answer: " Thanks for chatting with us! Please feel free to reach out in case you have any further inquiries. Thank you for choosing Watu!
+----------------------------------------
+Intent: 3️⃣ I have another issue
+Answer: ()
+----------------------------------------
+Intent: 7️⃣ Report an issue with your asset
+Answer: "Thank you for reaching out to Watu! 1. Please describe the issue with your asset (e.g., (A) Phone: damaged screen, battery problem. (B) Motorcycle: engine fault, damaged rim). 2. Your location (where you are contacting us from). 3. Include your registered phone number and account number. An agent will assist you shortly. Thank you for choosing Watu!" "
+----------------------------------------
+Intent: 8️⃣ Cash Loans
+Answer: " "Unfortunately, we do not offer mobile cash loans. At the moment, we only provide: 📱 Samsung smartphone loans 🛵 Motorbike loans 🚖 Tuk tuk loans Thank you for choosing Watu! " "
+----------------------------------------
+Intent: 9️⃣ Other Issue
+Answer: " "Thank you for contacting Watu! We’re here to assist you. Kindly share the following: 1. A detailed description of the issue. 2. Your name. 3. Your phone number. 4. If you have a loan with Watu, please include your account number [ID number registered with Watu]. An agent will assist you shortly. Thank you for choosing Watu!"
+----------------------------------------

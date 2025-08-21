@@ -1,0 +1,163 @@
+version: "3.1"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+intents:
+  - check_asset_status
+  - about_javan
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - make_payment
+  - inquire_smartphone_financing
+  - ask_why_phone_locked
+  - phone_locked_but_paid
+  - provide_phone_number
+  - set_language
+  - verify_employee
+  - bot_challenge
+  - mood_great
+  - mood_unhappy
+  - rag_query
+  - fallback_rag
+  - help                # added
+  - ask_semantic_info   # added
+  - inform              # added
+  - nlu_fallback        # to handle fallback properly
+
+entities:
+  - mobile_no
+  - employee_id
+
+slots:
+  mobile_no:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: mobile_no
+
+  phone_verified:
+    type: bool
+    initial_value: false
+    mappings:
+      - type: custom
+
+  first_name:
+    type: text
+    mappings:
+      - type: custom
+
+  language:
+    type: text
+    initial_value: "en"
+    mappings:
+      - type: custom
+
+  employee_id:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: employee_id
+
+  employee_verified:
+    type: bool
+    initial_value: false
+    mappings:
+      - type: custom
+
+  employee_name:
+    type: text
+    mappings:
+      - type: custom
+
+responses:
+  utter_greet:
+    - text: "Hello! Welcome to Watu Live Chat. I'm here to help you with asset status, smartphone financing, payments, and more."
+
+  utter_affirm:
+    - text: "Great! Let me know how I can help."
+
+  utter_deny:
+    - text: "Alright, no problem. Let me know if you need anything else."
+
+  utter_about_javan:
+    - text: "I am Javan, your Watu Live Chat assistant."
+
+  utter_javan:                # added so stories don’t complain
+    - text: "Javan is your AI assistant helping you with Watu services."
+
+  utter_inquire_smartphone_financing:
+    - text: |
+        📱 Available phones through Watu Simu:
+        - Samsung Galaxy A04e / A05 / A05s / A06 / A15 / A16
+        - Galaxy A04e (32GB)
+        - Galaxy A05 (64GB or 128GB/4GB)
+        - Galaxy A05s (64GB/4GB or 128GB/4GB)
+        - Galaxy A06 (64GB/4GB or 128GB/4GB)
+        - Galaxy A15 (128GB/4GB or 128GB/6GB)
+        - Galaxy A16 (128GB/4GB or 128GB/6GB)
+
+  utter_why_phone_locked:
+    - text: |
+        🔒 Your weekly payment was not made on time per your loan agreement.
+        To unlock your phone, please make a payment to Pay Bill **650880**.
+
+  utter_phone_locked_but_paid:
+    - text: |
+        ✅ Make sure you're connected to the internet.
+        📞 For help, contact Watu Simu Care: **0800 722 245**
+
+  utter_make_payment:
+    - text: |
+        💳 **How to Make a Payment:**
+        1️⃣ Go to **M-Pesa**
+        2️⃣ Select **Lipa na M-Pesa**
+        3️⃣ Choose **Paybill**
+        4️⃣ Enter **650880** as the Paybill number
+        5️⃣ Use **Your ID Number** as the account number
+        6️⃣ Enter the amount and confirm payment
+      image: "static/how_to_make_payments.jpeg"
+
+  utter_ask_for_phone_number:
+    - text: "📲 Please enter your phone number for verification."
+
+  utter_invalid_phone_number:
+    - text: "❌ The phone number you entered is invalid. Please try again or contact support."
+
+  utter_goodbye:
+    - text: "👋 Goodbye! Have a great day."
+
+  utter_cheer_up:
+    - text: "Here is something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+    - text: "Did that help you?"
+
+  utter_happy:
+    - text: "Great, carry on!"
+
+  utter_iamabot:
+    - text: "I am a Watu Help AI Agent."
+
+  utter_fallback:
+    - text: "😕 Sorry, I didn't get that. Can you rephrase?"
+
+  utter_help:                  # added so “help” intent has a response
+    - text: "Here’s how I can assist you: check asset status, payments, financing, or general info."
+
+actions:
+  - action_check_asset_status
+  - action_verify_phone
+  - action_welcome
+  - action_set_language
+  - action_multilingual_fallback
+  - action_verify_employee
+  - action_session_start
+  - action_inquire_smartphone_financing
+  - action_semantic_retrieval
+  - action_rag_search
+  - action_help                 # added

@@ -1,0 +1,783 @@
+GPS Tracker Replacement
+Process
+
+Watu Process Description
+
+Publication date: Jul 18, 2024
+
+FA WW PAA AWWA
+Table of Contents
+
+VT OVOPVIOW. occ ecccccccceceecesctecceneeaecseseneeeeeseseceneeaecaeseeeeeeeaesaesaeseaceaesaeaeeeaesaesaeeeeeeaesecanssaecaeseeseeeeseeceeneeaeeaeeeeeeeeeaeeaeeateeeetaeees 3
+1.7 PUPPOSE AN GOAL. ccc ccecessces ses seesesesssasssessesssassisssssssassussstessassssusestisinsessississssassussissnsasasssisentissssenssessesesesesissesassseees 3
+V2 SCOPE. cece ccececcenesescsesesesescseeceeseenseecenscessusscnessacseecscececseenseecensseusnsasueacicseecicececseecseecenseensnsceueseaeieecieieecseeeseecenseesuseetsseneeseeieees 3
+1.3 Main INPUtS ANd OUTPUTS... ccc cece csnetessstesesssesescsussessssssessesssesessssesessesessssinssesssnssssssnsssessnsssssssisesssissssisssessteeseeene 4
+1.4 Roles and RESPONSIDINTICS occ cesses sstesessesssesssessesssassiesessssssssssssesssasssissessssssesssestecsssssssissesssissiseessaesnaseeess 4
+1.5 SYSteEMS ANd TEMPlAteS 0c ccc cccccsscesssestesesssesssssessesssesssessssssssassssssssssassunssesisassesssessssesassssisscsassissnssesassssansesseecsensseees 5
+2 Process LifeCycle.......ccccccscsssessssssesssessssssees ons)
+2.1 Phase 1: Identification ANd TrOUDIESNOOTING. cece css sstestesesssessessessestssssiesiessessasesssesssassussesssanssssesitecsstseeiseesses 6
+2.2 Phase 2: Location Assignment and Client EnGageMent.....cccccceccccccs ce seestes ssnsestesssssesiescsssaiesssessssnsseesesesses 7
+2.3 Phase 3: Check, Process and Release Vehicle... ccc cccccecscsssescensssecsessecsesesescsescsnsescenssensnsesasesecaessecececeuenseseanees 8
+3 RACI Matrix... ccc ccccccceceeeneceeneeceeeeneeeeeeeeeeaeeeeeeeeeseecceeeeeeeseeeeseeeseeeceeeeeeeseaeeeceeesesceseeeesceaeeceeeeseaceteeeseeeeiecieeeeeeeaeees 9
+4 Process Key Performance Indicators & MetriCS.......c.ccccccccscsssssssssssssssssesssssesssssesssssessssseessessssesassessesessesassesessesasensens 10
+5 Related DOCUMENIS.......c.ccccccceecseseseseeeeeecaceeaeaceseseseeeeeescaeseaesaeaeaeaeeeeeeeeseeeeecaeaeaeaeceeaeadeeeeeesieeeeeecaeaeaeeeseeeeaeeeeeeeceeeataes 10
+6 Terms and Abbreviations... cece cccceecseeeesceseeeteeeeeaeeaeeeeeeeeeaeeeeceeeesecaeceeseeceaeeeceeeeesceaeeeeseseeeeaeeeeseaaeeeeseeeaeaeceeeseeeaeas 10
+
+7 Version History
+
+GPS Tracker Replacement Process
+
+watu Version V.1.0
+
+Date: Jul 18, 2024
+
+1 Overview
+
+Watu (hereinafter Watu or Company) is committed to conducting business with the highest levels of integrity. Watu
+employees are therefore expected to conduct business exercising the utmost level of professionalism and
+compliance with the Company policies and national laws. To support this commitment, the Company has
+developed a set of processes to ensure employees know how to carry out their activities to ensure good
+communication and collaboration between different business units and entities, overall regulatory compliance, as
+well as compliance with Company's policies.
+
+This Document defines and regulates the GPS Tracker Replacement process within Watu.
+This process is intended for all Watu employees involved in the GPS Tracker Replacement process.
+
+The process uses “roles” to explain the involvement of various parties. Each role is described in the section Roles
+and Responsibilities. As the Country teams are different, the role can be assigned to different positions that will
+carry out the said responsibilities in the particular location.
+
+1.1 Purpose and Goal
+
+The purpose of the GPS Tracker Replacement Process is to ensure the continuous functionality of GPS trackers by
+systematically replacing offline units, maintaining operational integrity, professionalism, and regulatory compliance.
+It fosters communication, collaboration, and reliability across business units, enhancing customer satisfaction and
+optimising asset management.
+
+The goal of the GPS Tracker Replacement process is to;
+
+Ensure all GPS trackers are online and operational.
+
+Minimise downtime by promptly replacing offline trackers.
+
+Optimise asset management through effective tracking.
+
+Enhance customer satisfaction by maintaining reliable tracking services.
+
+Foster continuous improvement through regular review and refinement of procedures.
+
+1.2 Scope
+
+This document describes only high-level principles and the procedure of the GPS Tracker Replacement process.
+More detailed information about the process can be found in the work instructions or other documents specified in
+the Related Documents by Process Owner and Process Manager respectively.
+
+The GPS Tracker Replacement Process applies to all mobility assets financed by Watu, as well as Company assets
+fitted with GPS trackers, ensuring comprehensive coverage and effectiveness in maintaining the functionality of
+GPS trackers. It encompasses the identification, replacement, and confirmation stages.
+
+GPS Tracker Replacement process does not cover the following situations :
+
+e Customer Non-Cooperation: Instances where Customers refuse to engage in the replacement process, do
+not respond to communication, or deny access to their vehicles.
+
+e Supply Chain Issues: Delays or shortages in obtaining replacement trackers or necessary components,
+affecting the ability to perform timely replacements.
+
+e Escalation Required: Cases that need to be escalated to higher management, legal departments, or other
+internal stakeholders due to complexity or severity (Offline with legal status).
+
+e Systemic or Connectivity Failures: Broader issues affecting the tracking system as a whole, such as server
+outages or widespread software bugs that impact multiple trackers simultaneously.
+
+Page 3 of 11
+Sensitivity: Internal
+watu
+
+GPS Tracker Replacement Process
+Version V.1.0
+Date: Jul 18, 2024
+
+1.3. Main Inputs and Outputs
+
+The below table lists inputs and outputs of the GPS Tracker Replacement Process.
+
+INPUT
+
+PROCESS OUTPUT
+
+Customer Onboarding Process
+
+Monitoring, Evaluation, and
+Assessment of Current Trackers
+
+1.3.1 Input
+
+Procurement Process
+
+GPS Tracker Replacement
+
+e Customer Onboarding Process — during Customer onboarding for mobility assets, their asset tracker is
+activated and added to the system for asset tracking. The asset is tracked only during the loan servicing
+
+period.
+
+e Monitoring, Evaluation, and Assessment of Current Trackers - involves continuously tracking and analysing
+GPS tracker performance, leading to a replacement process when issues like signal loss or new
+technological advancements are identified.
+
+1.3.2 Output
+
+e Procurement Policy - sourcing of GPS trackers for replacement to enhance asset tracking efficiency.
+
+1.4 Roles and Responsibilities
+
+The following roles are involved in the process execution:
+
+Role
+
+Supervisor (GS)GPS Manager (GM)
+
+Role purpose
+
+Ensure departmental alignment through effective monitoring of offline trackers and overseeing
+task assignments and replacement processes
+
+Authorities (A)
+
+Assign a GPS officer to conduct troubleshooting tasks
+Assign a calling officer for Customer engagement.
+
+Responsibilities (R)
+
+Identify and download offline trackers report
+
+Upload new offline trackers from the Installation list to the Replacement list
+
+Assign location for the last recorded online signals of offline trackers
+
+Prepare weekly route plans for mobile technicians based on the offline trackers under
+Replacement list.
+
+Role Assignment
+
+Role
+
+Head of GPS Tracking, GPS Manager, GPS Supervisor
+
+GPS Administrative Officer (AO)
+
+Role purpose
+
+Maintenance and troubleshooting of offline trackers
+
+Authorities (A)
+
+Verify technician reports match system details
+
+Responsibilities (R)
+
+Troubleshoot all offline trackers
+
+Analyse the success of commands
+
+Retrieve technician reports for processing on the tracking module
+
+Confirm with technicians upon GPS tracker replacement for data processing
+
+Role Assignment
+
+Role
+
+GPS Back officer
+
+GPS Customer Care Officer (CC)
+
+Role purpose
+
+Customer engagement
+
+Authorities (A)
+
+Offer fuel waivers to resistant Customers
+
+Responsibilities (R)
+
+Make calls and send SMS notifications to Customers with offline trackers.
+
+Record communication with Customers in the Tracking module.
+
+Include contact information for the assigned mobile technician in the notifications.
+
+Post a list of successfully contacted Customers in a designated communication channel
+
+Role Assignment
+
+Sensitivity: Internal
+
+GPS Calling Officer, Customer Care
+
+Page 4 of 11
+Role
+
+watu
+
+GPS Technician
+
+GPS Tracker Replacement Process
+
+Version V.1.0
+Date: Jul 18, 2024
+
+Role purpose
+
+Ensure customer support, check-ups, replacements, escalation
+
+Authorities (A)
+
+Replace or repair tracker as needed
+
+Responsibilities (R)
+
+Make follow-up calls with Customers assigned for tracker replacement
+
+Conduct check-ups or replacements based on standard diagnostic procedures
+Submit reports on replacements or check-ups through the ticketing platform.
+
+Role Assignment
+
+Role
+
+GPS Technicians
+
+Process Owner
+
+Role purpose
+
+Ensures the GPS Tracker Replacement process is Fit for Purpose
+
+Authorities (A)
+
+To ensure proper change management process is followed for suggested GPS Tracker
+
+Replacement Process changes
+
+To approve or reject suggested GPS Tracker Replacement Process changes
+
+Responsibilities (R)
+
+To review all suggested GPS Tracker Replacement Process changes
+
+Design change management and continual service improvement (CSI) of the process and
+
+metrics
+
+Role Assignment
+
+Role
+
+Head of GPS Tracking
+
+Process Manager
+
+Role purpose
+
+To ensure proper follow-through and the operational management of the GPS Tracker
+
+Replacement process
+
+Authorities (A)
+
+Conduct GPS Tracker Replacement Process review
+To suggest changes for GPS Tracker Replacement Process improvement
+
+Responsibilities (R)
+
+Plan and coordinate all activities related to GPS Tracker Replacement Process implementation,
+execution, communication, monitoring, and reporting.
+Suggest process improvements and communicate changes with all involved stakeholders
+
+Role Assignment
+
+GPS Manager
+
+1.5 Systems and Templates
+
+The below table lists the systems and templates used in the GPS Tracker Replacement Process.
+
+ID Direct reference Details Location Personal Data
+Processing
+S1 Mifos Watu loan management system | Allin Velia data centre Customer and
+used for handling loans during (Frankfurt, Germany); Employee Name, Last
+the loan servicing period. except, NG, TZ, SL- in Telia name, personal ID,
+The |inks to the system are the data centre (Vilnius, personal contact
+same, only the County code is Lithuania) details, asset details
+adjusted.
+S2 DRC - GPS WOX Tracked vehicle location GPS Different data centres in Asset details - plate
+KE-GPS_WOX data Germany & Finland number and chassis
+NG - GPS WOxX number; Employee
+SL-GPS WOX e-mail address
+TZ - GPS WOX
+UG - GPS WOX
+S3 Google Cloud Data Warehouse Google Cloud - Dedicated
+Platform Belgium
+S4 Troubleshooting WATU offline GPS trackers Google Cloud Asset details - plate
+(Commands) troubleshooting worksheet number and chassis
+Worksheet number; Employee
+e-mail address
+S4 Tracking Module Available under the Watu loan Allin Velia data centre Customer and
+(Comments)Section | management system (Mifos) (Frankfurt, Germany); Employee Name, Last
+and used to update responses except, NG, TZ, SL- in Telia name, personal ID,
+after contacting customers data centre (Vilnius, personal contact
+Lithuania) details, asset details
+
+Sensitivity: Internal
+
+Page 5 of 11
+
+GPS Tracker Replacement Process
+
+watu Version V.1.0
+
+Date: Jul 18, 2024
+
+2 Process Lifecycle
+
+The GPS Tracker Replacement Process ensures the functionality of GPS units through systematic identification of
+offline trackers, troubleshooting, and replacements. It encompasses assigning roles, analysing command success,
+Customer engagement, replacements, and confirming reconnections.
+
+This process is structured into three key phases:
+
+e |dentification and Troubleshooting,
+e Location Assignment and Customer Engagement,
+e Check-up, Process and Release of vehicles.
+
+Given the diversity of country teams, roles may vary, such as customer care agents assuming calling officer
+responsibilities in some regions. Throughout the process, it is vital to ensure that any changes concerning offline
+tracker communication are promptly updated in the Tracking module comments section.
+
+2. Location
+Assignment and
+Client Engagement
+
+3. Check,Process and
+Release Vehicle
+
+1. Identification and
+
+Troubleshooting
+
+2.1 Phase 1: Identification and Troubleshooting
+
+In this phase, the GPS Supervisor (GS) identifies offline trackers from the installation list to ensure all non-functional
+units are pinpointed. The GS then downloads daily reports of these offline trackers and uploads them for
+troubleshooting on the troubleshooting (Commands) worksheet. Concurrently, a GPS Administrative Officer is
+assigned to troubleshoot these trackers by executing commands such as IMEI/APN Server/IP Address
+adjustments, recorded in the worksheet. Within 12 hours, the AO assesses the success of these commands by
+comparing the updated offline list with real-time online status reports generated from Kenya - GPSWOx, Uganda -
+GPSWOxX, Tanzania - GPSWOx, DRC - GPSWOx, Sierra Leone - GPSWOx, Nigeria - GPSWOx.
+
+Throughout this process, the officer logs any trackers that fail to respond, updating their status daily on the tracking
+module to monitor progress and ensure timely resolution.
+
+GPS Tracker Replacement Process
+
+1. Identification and Troubleshooting
+
+Super isor
+
+aPS Officer
+
+G
+
+2.1.1 Process description
+
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A), consulted
+(C) and informed (I) in regard to a task.
+
+The role abbreviations in the RACI matrix are used as follows: GPS Supervisor (GS), GPS Administrative Officer
+(AO}, GPS Customer Care Officer (CC), GPS Technician (GT).
+
+Page 6 of 11
+Sensitivity: Internal
+watu
+
+GPS Tracker Replacement Process
+Version V.1.0
+
+Date: Jul 18, 2024
+
+Step Description GS | AO | CC | GT
+1.1 Identify offline trackers The GPS Manager/Supervisor identifies offline trackers from the RA
+from installation list installation list in the tracking module.
+1.2 Upload daily offline The GS proceeds to download the offline trackers report on a daily RA
+trackers report for basis and uploads it to the e.g., for Kenya troubleshooting
+troubleshooting (Commands) worksheet.
+1.3 Assign a GPS officer Additionally,the GS assigns an AO to troubleshoot the offline trackers. RA | |
+1.4 Troubleshoot all new The AO troubleshoots all new offline trackers by sending commands RA
+offline trackers (IMEI/APN Server/IP Address) using e.g. for Kenya (troubleshooting
+1.5 Analyse success of The AO analyses the success of the commands within 12 hours. This RA
+commands within 12 hours | is completed by comparing the new offline list via online status of
+
+report generated from (Kenya - GPSWOX, Uganda - GPSWOx,
+
+Tanzania- GPSWOX, DRC - GPSWOxX, Sierra Leone- GPSWOX, Nigeria -
+
+GPSWOX) on real time.
+1.6 Daily check for trackers | The AO logs non-responsive offline trackers on the tracking module | | RA
+that fail to respond and repeats this daily to monitor their status.
+
+2.2 Phase 2: Location Assignment and Client Engagement
+
+In this phase, the focus is on assigning the last known location and locating the nearest accessible area of
+operation for offline trackers from the failed list, while engaging with Customers to ensure smooth operations. It
+begins with transferring these trackers to the replacement tab, ensuring careful exclusion of any with legal issues.
+
+The locations of these trackers are pinpointed using (Kenya - GPSWOX, Uganda - GPSWOX, Tanzania - GPSWOx,
+DRC - GPSWOX, Sierra Leone - GPSWOX, Nigeria - GPSWOX) coordinates, and GPS technicians receive weekly route
+plans to optimise replacement activities. Customer engagement strategies include initiatives like offering fuel
+waivers to incentivize asset review. Detailed records of all interactions are maintained in the tracking module, and
+updates regarding successful Customer contacts are promptly communicated via email or Google Chat.
+
+GPS Tracker Replacement Process
+
+2. Location Assignment and Client Engagement
+
+Po] Identificati
+' and H
+: Troubleshooting, }
+
+aPS Manager/ Supervisor
+
+G
+
+Y
+
+3.Check, Proces i
+
+and Release
+
+APS Calling Officer
+
+S
+
+2.2.1 Process description
+
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A), consulted
+(C) and informed (I) in regard to a task.
+
+Page 7 of 11
+Sensitivity: Internal
+watu
+
+GPS Tracker Replacement Process
+
+Version V.1.0
+
+Date: Jul 18, 2024
+
+The role abbreviations in the RACI matrix are used as follows: GPS Supervisor (GS), GPS Administrative Officer
+(AO}, GPS Customer Care Officer (CC), GPS Technician (GT).
+
+Step Description GS | AO | CC | GT
+2.1 Move failed list to The GPS Manager/Supervisor moves the failed list to the replacernent | RA
+replacement tab, excluding | tab on the tracking module excluding those with legal statuses.
+those with legal status
+2.2 Assign last location of | Once the failed list is moved to the replacement tab, the GS assigns | RA
+trackers the offline trackers to their last known locations by checking the last
+location where the tracker connected to the server using (Kenya -
+GPSWOX, Uganda - GPSWOX, Tanzania - GPSWOX, DRC - GPSWOX,
+Sierra Leone - GPSWOX, Nigeria - GPSWOX) coordinates.
+2.3 Pull the nearest Upon assigning the last location,the GS pulls the nearest location of | RA
+accessible area of the trackers.
+operation
+2.4 Prepare a weekly route | The GS then prepares a weekly route plan for the GPS technicians. RA
+plan for GPS technicians
+2.5 Assign the failed list Additionally, the GS assigns the failed list and the route plan to a calling | RA
+and route plan toa calling | officer
+officer.
+2.6 Share the list with GPS | The CC shares the list with the GPS technicians to schedule RA | |
+techs to schedule replacements.
+replacements
+2.7 Contact Client via The CC contacts the Customer via SMS/Call and may offer a fuel RA
+SMS/Call and offer a fuel waiver if the Customer is resistant to bring their asset for review.
+waiver if resistant
+2.8 Post and update a list The CC posts and updates a list of successfully contacted Customers | | RA ||
+of successfully contacted via email/Google chat.
+Clients All communication with the Customer has to be recorded in the
+Tracking module comments section for each country.
+
+2.3 Phase 3: Check, Process and Release Vehicle
+
+During this phase, GPS technicians adhere to assigned route plans to meet Customers, conducting vehicle
+inspections to determine if tracker replacements are required. Upon completing replacements, technicians report to
+HQ for system verification to ensure trackers are online. After confirming reconnection, vehicles are promptly
+
+released to customers.
+
+GPS Tracker Replacement Process
+3.Check,Pracess and Release Vehicle
+H 2.Location i
+
+De : Assignment and
+35 Hien i End
+ee) a
+
+Bic
+5
+fh
+
+L
+
+ou
+
+oI
+
+is)
+
+a
+
+fa)
+
+2.3.1 Process description
+
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A), consulted
+(C) and informed (I) in regard to a task.
+
+Sensitivity: Internal
+
+Page 8 of 11
+
+watu
+
+GPS Tracker Replacement Process
+Version V.1.0
+
+Date: Jul 18, 2024
+
+The role abbreviations in the RACI matrix are used as follows: GPS Supervisor (GS), GPS Administrative Officer
+(AO}, GPS Customer Care Officer (CC), GPS Technician (GT).
+
+Step Description GS | AO | CC | GT
+3.1 Follow route plan and The GPS technician receives and follows the assigned route plan to RA
+meet with Clients meet up with Customers
+3.2 Perform check up on The GT performs check-ups on the vehicle and if satisfied they RA
+vehicle and offer resolution proceed to do GPS tracker replacements on offline trackers based
+
+on standard procedures.
+3.3 Report status to HQ Upon replacement, GT submits reports to HQ detailing (Vehicle | | RA
+through Job Card details like Plate, Tr IMEI) replacements or check-ups through the
+
+ticketing platform (Job card ticket).
+3.4 Retrieve report and review | The AO retrieves the technician reports from the ticketing platform RA
+if details exist in the system (Job card ticket) and reviews if the details exist in the system.
+3.5 Details Exist? If the details do not exist, the process loops back to step 3.2. RA
+
+However, if the details exist in the system, the process proceeds
+
+with step 3.6.
+3.6 Confirm reconnection of The AO verifies the reconnection of offline trackers in the system, RA
+offline trackers and notify processes the received data, and informs the technicians about the
+technicians successful re-establishment of communication with the offline
+
+trackers.
+3.7 Reconfirm offline tracker The GPS technician confirms the offline tracker connection is active | | RA
+connection and release before releasing the vehicle to the Customer, concluding the
+vehicle process.
+
+3 RACI Matrix
+
+To clearly indicate who will be responsible (R}, accountable (A), consulted (C) and informed (I) in regards to a task
+inside the service delivery, Watu is using what commonly is referred to as a RACI Matrix.
+
+The role abbreviations in the RACI matrix are used as follows: GPS/Supervisor (GS), GPS Administrative Officer
+(AO}, GPS Customer Care Officer (CC), GPS Technician (GT).
+
+Phase 1: Identification and Troubleshooting
+
+Sensitivity: Internal
+
+Activity GS AO CC ] GT
+1.1 Identify offline trackers from installation list RA
+1.2 Upload daily offline trackers report for troubleshooting RA
+1.3 Assign a GPS officer RA | |
+1.4 Troubleshoot all new offline trackers RA
+1.5 Analyse success of commands within 12 hours RA
+1.6 Daily check for trackers that fail to respond RA
+Phase 2: Location Assignment and Client Engagement
+Activity GS AO CC ] GT
+2.1 Move failed list to replacement tab, excluding those with legal status RA
+2.2 Assign last location of trackers RA
+2.3 Pull the nearest accessible area of operation RA
+2.4 Prepare a weekly route plan for GPS technicians RA
+2.5 Assign the failed list and route plan to a calling officer. RA |
+2.6 Share the list with GPS techs to schedule replacements RA | |
+2.7 Contact Customer via SMS/Call and_offer a fuel waiver if resistant RA
+2.8 Post and update a list of successfully contacted Customers RA | |
+Phase 3: Check,Process and Release Vehicle
+Activity GS AO CC ] GT
+3.1 Follow route plan and meet with Customers RA
+3.2 Perform check up on vehicle/boda and offer resolution RA
+3.3 Report status to HQ through Job Card | RA
+Page 9 of 11
+
+watu
+
+GPS Tracker Replacement Process
+Version V.1.0
+
+Date: Jul 18, 2024
+
+Phase 1: Identification and Troubleshooting
+
+Activity GS AO CC ] GT
+3.4 Retrieve techs. report and review if details exist in the system RA
+
+3.5 Details Exist? RA
+
+3.6 Confirm reconnection of offline trackers and notify technicians RA |
+3.7 Reconfirm offline tracker connection and release vehicle/Boda ] ] RA
+
+4 Process Key Performance Indicators & Metrics
+
+The GPS Tracker Replacement Process KPIs are defined in the table below, measured based on set periods, and
+
+reported to Top Management.
+
+KPI/SLA Description
+
+KPI/SLA Measurement
+
+Offline tracker Replacement time
+
+Action on 100% of all new offline within a period of 3 weeks after the last connection.
+
+New offline conversion rate
+
+70% Replacement of all successful Customer engagement.
+
+5 Related Documents
+
+Commercial and Lending Policy
+
+Procurement Policy
+
+Troubleshooting (Commands) worksheet.
+
+GPS Ke: Command offline vehicles:
+
+GPS Wox
+
+6 Terms and Abbreviations
+
+Abbr. Term
+
+Explanation
+
+Customer
+
+The customer of a service provider is a person or a group who defines and agrees the
+service level targets
+
+Cellular Connection
+
+GPS trackers use cellular networks (GSM, LTE, etc.) to transmit the location data
+collected from the satellites to a central server or monitoring system. This requires the
+GPS tracker to have a SIM card and cellular connectivity similar to a mobile phone.
+
+Data Transmission
+
+Connectivity ensures that the data collected by the GPS tracker is transmitted in
+real-time or at scheduled intervals to a central monitoring system or server. This data
+includes not only location but also speed, direction, and other sensor data if available
+like exposure to sunlight.
+
+GPS Tr GPS trackers
+
+Electronic device that helps you know the exact location of something or someone. In
+essence, a GPS tracker helps you know the location of things and people in real-time,
+giving you peace of mind and helping you manage assets more effectively.
+
+KPI Key performance
+indicator
+
+A metric that is used to help manage a service, process, plan, project or other activity.
+
+Offline Tracker
+
+A GPS tracker installed on an asset that has not sent a consistent signal to the GPS
+Wox server for 14 consecutive days.
+
+RACI Responsibility
+assignment matrix
+
+A model used to help define roles and responsibilities. RACI stands for responsible,
+accountable, consulted and informed.
+
+Sensitivity: Internal
+
+Page 10 of 11
+
+watu
+
+Abbr. Term
+
+GPS Tracker Replacement Process
+Version V.1.0
+Date: Jul 18, 2024
+
+Explanation
+
+Redundancy and
+
+Advanced GPS trackers/ Connectivity providers may have multiple communication
+
+Failover options, such as switching between different cellular networks or using Wi-Fi where
+available to ensure continuous data transmission even if one network fails. E.g Service
+offered by OV in Uganda.
+
+Service A means of delivering value to customers by facilitating outcomes customers want to
+
+achieve without the ownership of specific costs and risks.
+
+Satellite Connection
+
+GPS trackers receive signals from a network of satellites orbiting the Earth. These
+signals provide the tracker with precise location information by triangulating the
+tracker’s position relative to multiple satellites.
+
+SLA Service Level An agreement between Watu and a Customer or between different Watu
+
+Agreement organisational units. A service level agreement describes the service, service level
+targets, and specifies the responsibilities of engaged parties.
+
+Stakeholder All people who have an interest in an organisation, project, service etc. Stakeholders
+may be interested in the activities, targets, resources, or deliverables. Stakeholders
+may include customers, partners, employees, shareholders, owners, etc.
+
+Watu The term used to describe Watu organisation as a whole, including all and any of Watu
+
+7 Version History
+
+owned legal entities engaged in delivering services to Customers.
+
+Process documentation must be created, approved and reviewed in accordance with the Documents and Records
+
+Management Process.
+
+Version Date
+
+Status: Main Changes Changed by
+
+1.0
+
+Document Created Lynn Nyaguthii Kamama
+
+1.0
+
+Sensitivity: Internal
+
+Document approved Lynn Nyaguthii Kamama
+
+Page 11 of 11

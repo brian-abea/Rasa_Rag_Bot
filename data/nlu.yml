@@ -1,0 +1,338 @@
+version: "3.1"
+
+nlu:
+# ==================================
+# Structured/Watu-specific intents
+# ==================================
+- intent: check_asset_status
+  examples: |
+    - What is the status of my phone?
+    - Check the phone status for my number
+    - Does my account have a loan?
+    - Give me the details for my account
+    - Check my account
+    - Find my asset details
+    - Look up the details for my phone
+    - Retrieve my status
+    - Can you check my status?
+    - Give me my phone details
+    - Can you check my phone status
+    - Check phone details for me
+    - check asset status
+    - what is my asset loan status
+    - I want to know the phone status
+    - I want to check my phone details
+    - What is my phone Imei?
+    - give me my phone details
+    - what are my asset details?
+    - what are my phone details?
+    - check my phone details
+
+- intent: provide_phone_number
+  examples: |
+    - My phone number is [0723456789](mobile_no)
+    - Here’s my number: [+254723456789](mobile_no)
+    - [0712345678](mobile_no)
+    - Phone: [254723456789](mobile_no)
+    - [0723-456-789](mobile_no)
+    - My number is [254740123768](mobile_no)
+    - Here is my phone number: [0712345678](mobile_no)
+    - [0723456789](mobile_no) is my phone number
+    - It's [0798765432](mobile_no)
+    - You can reach me at [0743124567](mobile_no)
+    - My contact number is [0712345678](mobile_no)
+    - This is my phone number: [0701234567](mobile_no)
+    - [0722123456](mobile_no)
+
+- intent: about_javan
+  examples: |
+    - Who is Javan?
+    - Tell me about Javan
+    - What does Javan do?
+    - Do you know Javan?
+    - Give me details about Javan
+    - I want to know about Javan
+
+- intent: make_payment
+  examples: |
+    - How do I pay for my phone?
+    - I want to make a payment
+    - Paybill for making payment
+    - What is the paybill number?
+    - How do I settle my phone bill?
+    - Guide me on how to pay for my phone
+    - I want to pay
+    - How should I pay?
+    - Give me Paybill for payment
+    - Prompt me to make payment
+    - how do I pay?
+    - make a payment now
+    - give my paybill to pay
+    - where do I pay for my phone
+    - what is the watu payment bill
+    - my loan is due, give me paybill to pay
+    - show me how to pay for my phone
+
+- intent: inquire_smartphone_financing
+  examples: |
+    - What smartphones are available for financing?
+    - Which phones can I finance?
+    - Do you have any phones available for financing?
+    - What phone models can I get on financing?
+    - List the smartphones available for financing.
+    - Tell me the available financing options for phones.
+    - Can I get a phone on credit?
+    - Show me the phone financing options.
+    - What phones can I buy on loan?
+    - how do I get smartphone financing?
+    - tell me about the phone financing
+    - I want to finance a smartphone
+    - What phones do you finance?
+    - Which phones are available?
+    - what type of phones do you finance?
+
+- intent: ask_why_phone_locked
+  examples: |
+    - Why is my phone locked?
+    - My phone is locked. Why?
+    - Why can't I access my phone?
+    - My phone screen says it's locked. What's the reason?
+    - What causes my phone to be locked?
+    - Explain why my phone is locked
+    - What is the reason for my phone being locked?
+    - why is my phone locked?
+    - phone locked
+    - I can’t access my phone
+    - My phone is still locked
+    - Open my phone
+    - unlock my phone
+    - hey unlock my phone
+
+- intent: phone_locked_but_paid
+  examples: |
+    - My phone is locked, but I have made my payments on time. What do I do?
+    - I paid on time, but my phone is still locked.
+    - My phone is locked even though I made my payment.
+    - I have cleared my payment, but my phone remains locked.
+    - I already paid, but my phone is not unlocking.
+    - I settled my bill, but my phone is still restricted.
+    - my phone is locked but I paid
+    - I have paid but phone is still locked
+    - paid my dues but device is locked
+    - why is my phone still locked?
+    - Paid but my phone is still locked
+
+- intent: inform
+  examples: |
+    - The phone details include..
+    - details are
+    - My number
+    - [25418781105](mobile_no)
+    - Number is [25698744656542](mobile_no)
+    - Mobile is [0712345678](mobile_no)
+
+- intent: set_language
+  examples: |
+    - I want to switch language
+    - Change to Swahili
+    - Can we talk in Swahili?
+    - Switch to English
+    - Use English
+    - Change language to Kiswahili
+    - Set language to English
+    - Talk in Swahili
+
+- intent: verify_employee
+  examples: |
+    - My employee ID is [EMP123](employee_id)
+    - Verify me as employee [E456](employee_id)
+    - I’m an employee, ID is [EMP789](employee_id)
+    - Check my employee status [E123](employee_id)
+
+# ==================================
+# Conversational/RAG-focused intents
+# ==================================
+- intent: greet
+  examples: |
+    - Hello
+    - Hi there!
+    - Hey!
+    - Good morning
+    - Good afternoon
+    - What's up?
+    - Hi bot!
+    - Greetings
+    - Hey, how's it going?
+    - Hello, how are you?
+    - hey
+    - hello
+    - hi
+    - hello there
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - Goodbye
+    - Bye!
+    - See you later
+    - Have a nice day!
+    - Catch you later
+    - Farewell
+    - Bye for now
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - Yes
+    - Sure
+    - Absolutely
+    - That's right
+    - Correct
+    - Yep
+    - Of course
+    - yes
+    - y
+    - indeed
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - No
+    - Nope
+    - Not really
+    - Nah
+    - I don't think so
+    - No way
+    - Not at all
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: help
+  examples: |
+    - I need help
+    - What can you do?
+    - How does this work?
+    - Assist me, please
+    - Can you help?
+    - Guide me through this
+    - I'm stuck, help me out
+
+- intent: fallback
+  examples: |
+    - I don't understand
+    - What are you saying?
+    - That doesn't make sense
+    - I have no idea what you mean
+    - Repeat that, please
+    - Can you clarify?
+    - ajfhgjhgjh
+    - ??
+    - say what?
+    - gibberish words
+    - please rephrase
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - Who are you?
+    - Are you human?
+    - What is your name?
+    - I am a Watu Help AI Agent.
+
+- intent: ask_semantic_info
+  examples: |
+    - What should I do if my tracker isn't working?
+    - Tell me the process for replacing a GPS tracker
+    - How does tracker replacement work?
+    - When is a tracker considered faulty?
+    - I want to know about tracker issues
+    - Give me details about tracker performance evaluation
+
+- intent: rag_query
+  examples: |
+    - How do I install the tracker?
+    - Tell me how onboarding works
+    - I need help understanding the GPS device
+    - What documents are required?
+    - Watu policies
+    - What is the GPS tracker replacement process?
+    - How do I check my loan balance?
+    - What is the watu paybill number?
+    - How do I pay for my phone through the Watu app?
+    - What products are offered with Watu Credit?
+    - What types of phones does Watu Simu finance?
+    - Tell me more about Watu's financing options.
+    - How does the tracker installation process work?
+    - What documents are required for a loan?
+    - Explain Watu's repayment policies.
+    - Where is the Watu office located?
+
+- intent: fallback_rag
+  examples: |
+    - [empty placeholder]
+
+# ==================================
+# Regular Expressions (Regex)
+# ==================================
+- regex: mobile_no
+  examples: |
+    - \+?\d{10,15}
+    - \d{10,15}
+    - \d{3}-\d{3}-\d{3,}

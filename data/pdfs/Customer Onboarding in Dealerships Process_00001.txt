@@ -1,0 +1,1387 @@
+New Customer Onboarding in
+Dealerships
+
+Watu Process Description
+Version V.1.0
+Publication date: 14/04/2023
+
+IAS GALEN IA
+
+Sensitivity: Internal wd tu
+1
+
+11
+
+1.2
+1.3
+1.4
+1.5
+
+2
+
+2.1
+
+2.2
+2.5
+2.4
+
+3
+
+4
+5
+6
+
+Table of Contents
+
+Overview
+
+Purpose and Gaal
+Scope
+Main inputs and outputs
+Roles and responsibilities
+Systems and Templates
+
+Process lifecycle
+
+Loan Eligibility Assessment
+CRB Check
+
+Loan Agreement Preparation
+Asset Release
+
+RACI matrix
+Process key performance indicators & metrics
+Related documents
+
+Terms and abbreviation
+
+Sensitivity: Internal
+
+OA fF ARF WAD
+
+a
+a
+Oo oa
+
+Nh fw NM
+raw SN
+
+watu
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+Wd c U Date: 4/14/2023
+
+1 Overview
+
+This Document defines and regulates New Customer Onboarding in Dealerships process within Watu.
+
+This process description is intended to be used for training Dealership employees who are onboarding
+Watu Customers on the new loans through Watu Onboarding System (OBS).
+
+1.1. Purpose and Goal
+
+The purpose of New Customer Onboarding in Dealerships process is to give a general process
+overview, describing responsibilities of different roles engaged in the process. The process is
+description aims introduce clarity and transparency within the organization and helo the Dealership
+staff better to understand the process.
+
+The goal of the New Customer Onboarding in Dealerships process is to provide sufficient guidance for
+new customer onboarding for all involved roles to ensure a smooth and transparent Customer
+onboarding process and provide good Customer experience.
+
+1.2 Scope
+This document describes high-level principles and the procedure of the New Customer Onboarding in
+Dealerships process. More detailed information about the process can be found in the work instructions
+
+or other documents specitied in the Section Related documents by Process Owner and Process
+Manager respectively.
+
+In the scope of New Customer Onboarding in Dealerships process is Customer onboarding by the
+Dealer's staff for Assets which include two wheelers (boda-bodas) and three-wheelers (tuk-tuks).
+
+Out of scope for New Customer Onboarding in Dealerships process is Customer onboarding for other
+Watu products, namely, electric vehicles (e-boda), cars (Watu Gari), or phones (Watu Simu).
+
+1.3. Main inputs and outputs
+
+New Customer Onboarding in Dealerships defines inputs and outputs that impact the process.
+
+INPUT PROCESS OUTPUT
+
+FIELD MARKETING WATU DRIVING SCHOOL
+NEW CUSTOMER
+WORD OF MOUTH ONBOARDING CUSTOMER CARE
+DEALERSHIP MARKETING
+ACTIVITIES
+
+3 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+Wd c U Date: 4/14/2023
+
+1.3.1 Input
+
+e =Field Marketing - The process can be initiated by Watu field marketing activities where new customers are
+attracted through targeted campaigns.
+
+e = Word of Mouth - Customers can hear of Watu services through their friends, relatives or acquaintances, thus
+visit the Dealership.
+
+e §=Dealershio Marketing Activities - Customers can be attracted to the Dealerships through marketing activities
+organized by the Dealerships.
+
+1.3.2 Output
+
+e Watu Driving School - in Nairobi region, the Customers may be offered to attend Watu Driving School to
+complete a theoretical study course to be eligible for taking a state organized test and obtaining a driver's
+license.
+
+e Customer Care - after the Customer has been onboarded, Watu Customer Care will initiate further contact to
+provide the necessary support to the Customer during the loan servicing period.
+
+1.4 Roles and responsibilities
+
+The following roles are involved in the process execution:
+
+Role Customer or Borrower
+Role purpose e To purchase an Asset (boda-boda or tuk-tuk)
+Authorities (A) ® To borrow the funds for Asset financing and sign loan documents
+Responsibilities (R) ® Toensure the necessary loan issuing requirements are met
+Role Assignment e Any physical person purchasing an Asset through the Dealership using Watu
+services
+Role Customer Onboarding Officer
+Role purpose e To prepare loan documents and onboard Customers using Watu Onboarding
+System
+Authorities (A) e To prepare and sign Customer loan agreements for Asset financing on Watu
+behalf
+Responsibilities (R) e To precisely and accurately follow Customer Onboarding instructions provided
+in this process description, work instructions and all other training materials
+e Toensure the Customers receive clear and accurate information about loan terms
+e Toconduct alldue-diligence checks and inform Dealership management or Watu
+Back Office employees about any suspicious cases
+Role Assignment e §=6Assigned Dealershio employee(s)
+
+4 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+Wd c U Date: 4/14/2023
+
+Role Back Office Officer
+Role purpose e To validate information and approve loan issuance requests
+Authorities (A) e® To review provided information and approve, reject or cancel the loan requests
+
+submitted by the Customer Onboarding Officer
+
+Responsibilities (R) ® To follow Watu internal processes for validating loan request information
+e Tonotify Back Office Management about any suspicious cases
+
+e To evaluate criteria for loan eligibility
+
+e Toapprove, reject or cancel a loan request
+
+e To provide guidance and clearinstructions to Customer Onboarding Officers for
+necessary corrections or when additional information is needed
+
+e To provide information about loan rejection or cancelation reasons
+
+Role Assignment e Watu Back Office department employee
+
+1.5 Systems and Templates
+
+Define systems and templates used in the process
+
+System or Direct reference Details Personal Data
+
+Template ID Processing
+
+$1 - OBR https://mx.watucredit.com/# OBR is Watu Customer Name, Last name,
+Onboarding System. The Address, email
+system is used during loan address, phone
+issuing process to collect all number
+
+necessary information.
+
+$2 - Google httos://drive.qoogle.com/driv This Google drive folder is N/A
+Drive e/u/2/folders/iR7dfbofXsLSWJA | used to store information
+bAStCOAMRXbnTaddkUo about GPS tracker receipts for
+
+pre-tracked Assets.
+
+5 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+Wd c U Date: 4/14/2023
+
+2 Process lifecycle
+
+The New Customer Onboarding Process is splitin four phases. Each phase is described separately in
+the following sections.
+
+Loan Eligibility
+Assessment
+
+Loan Agreement
+
+CRB Check Preparation
+
+Asset Release
+
+2.1 Loan Eligibility Assessment
+
+During the Loan Eligibility Assessment phase, the Customer Onboarding Officer performs initial due-
+diligence checks to ensure the Customer meets loan issuance requirements.
+
+New Customer Onboarding
+
+1. Loan Eligibility Assessment
+
+=
+=
+
+se
+
+Phase 2: CRB
+Check, 2.1, 2.5
+
+Field
+Marketing
+
+Customer
+
+—
+
+Customer Onboarding Officer
+
+Process description
+
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A),
+consulted (C) and informed (I) in regard to a task.
+
+6 (24)
+
+Sensitivity: Internal
+watu
+
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+The role abbreviations in the RACI matrix are used as follows: Customer (C), Customer Onboarding
+
+Officer (COO).
+
+Step
+
+Description
+
+COO
+
+1.1 Visit Dealership
+
+1.2 Pre-tracked Asset?
+
+1.3 Contact Watu
+technician to install a
+tracker
+
+1.4 Check min
+requirements and KYC
+Questions
+
+1.5 Requirements met?
+
+1.6 Reject the loan and
+explain the issues
+
+1.7 Advise how to
+address the issues
+
+1.8 Ensure fulfilment of
+requirements
+
+Sensitivity: Internal
+
+The Customer visits the dealership. The reasons for the visit may
+vary, including seeking the information about the possibility to buy
+an asses as well as coming in to make a purchase.
+
+If the Customer comes in seeking Information, the Customer
+
+Onboarding Officer (COC) should explain the requirements for
+obtaining the loan for Asset financing.
+
+The COO conducting the onboarding should check if the Asset that
+is selected by the Customer has a Watu GPS tracker installed at the
+point of assembly.
+
+If the tracker is installed, the process continues with step 1.4.
+
+If the tracker is not installed, the process continues with step 1.3
+
+If the Asset does not have a pre-installed Watu tracker but the
+Customer wished to purchase it using a loan from Watu, the COO
+must contact Watu technician and request tracker installation.
+
+The COO checks if the Customer meets the minimum requirements
+(available here) for obtaining the loan:
+
+e The Borrower is at least 18 years old.
+
+e The Borrower has come together with a Guarantor. For
+Borrowers who are 18 and 19 years old, the Guarantor needs to
+be the legal guardian. For Borrowers who are 20 years old or
+older, the Guarantor can be any friend or relative.
+
+e The Borrower can make the minimum down-payment
+
+e The Customer has Kenya Revenue Authority (NRA) issued PIN
+number. The PIN number must be issued to the Borrower. No
+other PIN numbers are accepted.
+
+Additionally, the Borrower should have three Referees that could
+vouch for the Borrower. The Referees should include a next of kin
+and a Stage Chairman.
+
+The COO also asks the Customer the basic KYC questions (the
+questions and detailed actions are available here).
+
+The COO makes a decision based on the minimum requirement
+check. If the requirements are not met, continue with step 1.4. If the
+check is successful, continue with step 1.7.
+
+If the Customer doesn't meet any one of the minimum requirements,
+the COO must reject the loan. The COO must explain the rejection
+reasons to the Customer.
+
+The COO must explain what the Customer should do in order to be
+eligiole for obtaining the loan.
+
+The Customer is responsible for addressing the issues, after which,
+the Customer can return to the Dealership and reapply for the loan.
+
+RA
+
+RA
+
+RA
+
+RA
+
+RA
+
+RA
+
+RA
+
+RA
+
+7 (24)
+watu
+
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+Step Description Cc COO
+1.9 Prepare Contact If the Customer meets the minimum requirements, the COO will ask Cc RA
+form and request the Customer to provide the MPesa statement for the previous 6
+MPesa statement months. When the Customer receives the statement, they must
+provide the OTP number to the COO. The instruction to complete
+this part if the step is available here.
+While the Customer is requesting the statement, the COO shall
+prepare a Contact and Authorization form. The form is used to
+collect the following information:
+e Borrower's name, ID number, phone number
+®  Guarantor’s name, ID number, phone number
+e Referees names, phone numbers, relationship with the Borrower
+The instruction for filling the form is available here.
+Ensure that there is a Data Privacy Agreement (DPA) added to the
+form when preparing the document package. The DPA is pre-
+prepared and no information should be added to it.
+1.10 Enter data in OBR | After the COO has filled out the Contact and Authorization form, the Cl RA
+and check eligibility COO enters the following data in the Watu Onboarding System
+(OBR):
+e Borrower's name, ID number, phone number
+®  Guarantor’s name, ID number, phone number
+Afterwards, the COO checks the Borrower's and the Guarantor's
+eligibility in the system. The following criteria apply:
+e Borrower doesn't have other open loans
+e if the Guarantor is an existing Watu customer, he must be a
+Customer for at least one month before becoming a Guarantor
+for another loan
+e The Guarantor can only guarantee up to 2 loans.
+The instruction for the step is available here.
+1.11 Eligible? If the Customer and the Guarantor meet the eligibility criteria RA
+mentioned in the step 1.8, continue on to step 1.10.
+If the Customer or the Guarantor doesn't meet any one of the
+eligibility criteria mentioned in step 1.8, reject the loan and revert
+back to step 1.4.
+1.12 Explain the form If the Customer and the Guarantor meets the eligibility criteria, RA
+to Customer and ask explain the Contact and Authorization form and the DPA to the
+to sign Customer and the Guarantor and ask the Customer to sign both
+documents. The instruction for signing is available here.
+1.13 Sign the form and | The COO and the Customer sign the Contact and Authorization R A
+Data Protection form and Data Protection Agreement.
+Agreement
+1.14 Scan IDs and The COO scans the Customer and the Guarantor IDs, the signed RA
+signed form, and add form and DPA and uploads them to the OBR. A video instruction
+to OBR explaining how to scan documents is available here.
+8 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+wd tu Date: 4/14/2023
+
+Step Description Cc COO
+1.15 Approve for CRB The COO approves the submitted data in the OBR system thus RA
+processing for BO sending it to the Watu Back Office for further processing.
+Phase 2: CRB Check, The process for COO continues to the Phase 2, CRB Check, step 2.1.
+2.1 The Back Office officer will in the mean time start CRB check, step
+
+2.5.
+
+2.2. CRB Check
+
+During the second stage of the process, the Back Office officers (BO) check specific requirements to
+issue a loan to the Customer. The loan can be approved for further processing, cancelled if specific
+requirements are not met, or rejected for corrections if there is incomplete or missing information.
+
+New Customer Onboarding
+
+2. CRB Check
+
+2,2 Has
+driver's
+
+Phase 1: Loan
+Eligibility
+Assessment, 1.15
+
+2.1 Nairobi
+location?
+
+Parallel flow
+
+Phase 3: Loan
+Agreement
+Preparation, 3.1
+
+2.13 Loan .16 Mistakes
+cancelled? identified?
+
+Customer Onboarding Officer
+
+2.7 Check
+passed?
+
+Back Office (BO) Officer
+
+9 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+watu
+
+Process description
+
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A),
+consulted (C) and informed (I) in regard to a task.
+
+The role abbreviations in the RACI matrix are used as follows: Customer Onboarding Officer (COO),
+Customer (C), Back Office Officer (BO).
+
+Step Description COO BO
+Phase 1: Loan The process continues after completing the step 1.3 of the
+Eligibility previous phase.
+Assessment, 1.15
+2.1 Nairobi location? Watu offers additional services (Watu driving school or Watu | RA
+
+Shule), currently only in Nairobi. If the Dealership is in Nairobi
+
+location, continue to step 2.2.
+
+If the Dealership is outside Nairobi, continue to step 2.4.
+2.2 Has driver's Inquire if the Customer has a valid driver's license. RA
+license? If the Customer does not have a valid driver's license,
+
+continue to step 2.3
+
+If the Customer has a valid driver's license, continue to step
+
+2A
+2.3 Offer Watu Shule | Ifthe Customer doesn't have a valid driver's license, explain RA
+services the possible repercussions and benefits of obtaining a
+
+driver's license. Offer the Customer the possibility to attend
+
+Watu Shule and prepare for the theoretical exam to obtain a
+
+driver's license.
+2.4 Check system for Check the system for notifications to see if the BO has RA Cc
+BO notifications completed the CRB check. The BO should be able to
+
+complete their check within 15 minutes. When you see that
+
+there is a response, go to step 2.12.
+
+If there is no answer within 15 minutes, contact the BO to the
+
+number: +254 799324249
+
+During the waiting time, answer any Customer inquiries.
+2.5 Conduct CRB This process starts running after completing the step 1.3 of RA
+check the previous phase. The Back Office (BO) officer conducts
+
+the Customer credit balance check.
+2.6 Check system The BO officer check the data entered in the system by COO RA
+information with the data in the scanned copies of the documents.
+2.7 Check passed? The BO officer evaluates data based on predefined criteria. RA
+
+Depending if the criteria is met or not, the loan might be
+
+Cancelled, Rejected or Approved.
+2.8 Cancel the loan The BO cancels the loan and sends a Cancelation notice. RA
+2.9 Missing of The BO Approves or Rejects the loan depending if the RA
+incorrect info? information is complete and accurate.
+
+10 (24)
+
+Sensitivity: Internal
+watu
+
+New Customer Onboarding in Dealerships process description
+
+Version V.1.0
+Date: 4/14/2023
+
+Step Description coo | Cc BO
+2.10 Reject the loan If there is missing information or the provided information in RA
+and ask to make the system doesn't match with the scanned copies, the BO
+corrections officer Rejects the loan and asks the COO to make
+corrections in the onboarding system.
+2.11 Approve for If the information is complete and accurate, the BO officer RA
+further processing Approves the loan for further processing.
+2.12 BO approval? Check the response from the BO. If itis a Cancelation or RA
+Rejection, continue to step 2.13. Ifitis an Approval, continue
+to step 2.16.
+2.13 Loan cancelled? If the loan is Cancelled, continue to step 2.14. If the loan is R Cc
+Rejected due to missing or incorrect information, continue to
+step 2.15.
+2.14 Explain rejection | The reason for cancelation will be provided in the details. RA Cc
+reason to Customer Typically, it will be done if specific criteria are not met, for
+example, the Borrower has defaulted ona previous loan.
+Explain the Cancellation reason to the Customer. If there is
+no reason provided, contact the BO for details to the
+number; +254 799324242
+2.15 Make necessary If the loan is rejected due to incomplete or inaccurate RA Cc
+corrections and information, the COO makes the necessary corrections and
+resubmit resubmit the loan application to BO for approval. The COO
+consults the BO, if necessary.
+2.16 Mistakes After receiving the BO approval, the COO double checks all RA
+identified? documents. If the COO notices any mistakes that were
+previously missed, they continue to step 2.17. If all is correct,
+they continue to Phase 3, step 3.1.
+2.17 Inform the BO If the COO notices a mistake after receiving the BO approval, | RA
+about the mistake they must inform the BO officer about the mistake.
+2.18 Advise on the The BO officer evaluates the nature of the mistake and Cl RA
+way forward based advised the COO as to the next steps. The loan may be
+on mistake type Cancelled with a request to restart the process or Approved
+for further processing.
+Phase 3: Loan The process continues with Phase 3, Loan Agreement
+Agreement Preparation, step 3.1.
+Preparation, 3.1
+
+2.4 Loan Agreement Preparation
+
+During the third phase of the process, the Customer Onboarding Officer enters the necessary
+information for loan agreement preparation in the onboarding system. The BO officer will check the
+information to ensure it is complete and accurate as well as conduct due diligence checks. At this stage
+the loan application can still be cancelled by the BO if the information is incomplete, the requirements
+for issuing a loan are not met or the case seems suspicious and might be a potential fraud case.
+
+Sensitivity: Internal
+
+11 (24)
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+wd tu Date: 4/14/2023
+
+New Customer Onboarding
+
+3. Loan Agreement Preparation
+
+Phase 2: CRB
+Check, 2.16
+
+Customer Onboarding Officer
+
+Parallel flow
+
+Phase 4: Asset
+Release, 4.1
+3.10 Initial
+eck passed
+.
+oO
+&
+a
+oO
+2 .12 Referees
+~~ confirmed?
+oO
+&
+ia
+oO
+A
+e)
+Q
+ao
+12 (24)
+
+Sensitivity: Internal
+watu
+
+Process description
+
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+Date: 4/14/2023
+
+Process flow and main RACI for parties to clearly indicate who will be resoonsible (R), accountable (A),
+consulted (C) and informed (I) in regard to a task.
+
+The role abbreviations in the RACI matrix are used as follows: Customer Onboarding Officer (COO),
+Customer (C), Back Office Officer (BO).
+
+Step Description coo | Cc BO
+Phase 2: CRB Check, The process continues after completing the step 2.16 of the
+2.16 previous phase.
+3.1 Advise the After receiving the approval from the BO, the COO advises A RI
+Customer to make a the Customer to make a down payment for the Asset. The
+down payment payment should be made to PayBill no. 682684. Provide
+support to the Customer if they are unsure how to make the
+payment.
+3.2 Enter info about The COO enters the information about the Borrower in the RA Cc
+Borrower. Upload onboarding system and uploads the soft copies, including:
+documents e Enter Borrowers address,
+e Enter Borrower's email (optional),
+e = Enter District of operations,
+e Upload Borrower's photo taken at the Dealership on the
+day of issuing the loan,
+e Enter KRA issued PIN number and upload a scanned
+copy of the document,
+e Enter Referee names, phone numbers and relationship
+type with the Borrower.
+e Upload a copy of the Borrower's driver's license
+(optional).
+The instruction for this step is available here.
+3.3 Enter info about The COO enters the information about the Guarantor in the RA Cc
+Guarantor. Upload onboarding system and uploads the soft copies, including:
+docs. e  Guarantor's name, phone number and address,
+e Relationship with the Borrower.
+e Upload Guarantor's photo taken at the Dealership on the
+day of issuing the loan.
+The instruction for this step is available here.
+3.4 Enter information The COO enters the information about the Asset in the RA Cc
+about the Asset onboarding system, including:
+e Dealership (assigned to branches)
+e Promotion and discount profile (based on the down
+payment amount)
+e Select the asste type, make and model.
+The instruction for this step is available here.
+13 (24)
+
+Sensitivity: Internal
+watu
+
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+Step Description coo | Cc BO
+3.5 Enter info about The COO enters the information about the loan terms in the RA Cc
+the loan terms. Upload | onboarcing system:
+documents e The orice, interest rate and loan processing fee. These
+are predetermined by the promotion.
+e Calculate the loanterm based onthe calculator availavle
+in Onboarding System. Enter the loan term in months.
+e Select a "Yes" or "No" for application for Driving school.
+If"Yes" is selected, the fee for the school willbe added
+to the loan agreement.
+e Enter the down payment method. If the down payment
+is made in cash - upload a copy of payment receipt. If
+the down paymentis made by Mpesafrom a number that
+does not belong to the Borrower - upload the
+transaction number. If the number from which the
+payment is made is the Borrower's number, the system
+will find it automatically.
+e Enter information about NTSA account — if the
+registration message is or isn't received or if the account
+exists.
+The instruction for this step is available here.
+3.6 Send to BO for Approve the information to be sent to the BO for check. RA
+check
+3.7 Take photos of the | Take photos of the Asset. The photos should be taken of: RA
+Asset e Chassis number
+e = Engine number
+e License plate number
+e = Picture of the whole bike from the side
+3.8 Prepare the Prepare the invoice for the Asset sale. The invoice should RA Cl
+invoice be issued to the Customer and include the following
+information:
+e = Asset price (with and without VAT),
+e Asset ownership transfer fee,
+e Asset manufacturer, model, engine,
+e Asset chassis and registration number.
+e Sales Electronic Transfer Receipt (ETR).
+The invoice must be issued to the Customer.
+After the invoice has been issued, continue to step 3.16.
+3.9 Check system This process starts in parallel after the COO approves the RA
+information information for checking during step 3.6. The BO officer
+checks the system data against the data in the uploaded
+documents.
+14 (24)
+
+Sensitivity: Internal
+watu
+
+New Customer Onboarding in Dealerships process description
+
+Version V.1.0
+Date: 4/14/2023
+
+Step Description coo | Cc BO
+3.10 Initial check If the system check is successful, the process continues RA
+passed? with the step 3.11. If the Initial check is not successful, the
+process continues with the step 3.13.
+3.11 Perform KYC Calls If the initial check is passed, the BO officer will conduct the RA
+know your customer (KYC) calls by calling the Borrower, the
+Guarantor and the Referees.
+3.12 Referees If the KYC is unsuccessful, for example, one or several RA
+confirmed? Referees can't be reached, the loan will be rejected and the
+process continues with the step 3.13. If the Referees are
+confirmed, process continues with the step 3.14.
+3.13 Reject of cancel If the provided information is incomplete, inaccurate, if the RA
+the loan BO officer can't reach one or several of the referees, or if
+the loan issuance criteria are not met, the BO will reject or
+cancel the loan.
+3.14 Check the down The BO officer checks if the down payment has been made RA
+payment and is received.
+3.15 Approve the loan The BO officer approves the loan in the system and RA
+and generate the generates the loan agreement.
+agreement
+3.16 BO Approval? The COO checks the system to see if the BO has Approved, | R
+Rejected or Cancelled the loan.
+If the BO has Approved the loan, the process continues with
+step 3.20. If the BO has Rejected or Cancelled the loan, the
+process continues with the step 3.17.
+3.17 Loan cancelled? The COO checks the BO comments. If the loan has been RA Cc
+Cancelled, the process continues with the step 3.18. If the
+Loan is has been Rejected, the process continues with the
+step 3.19.
+3.18 Explain The reason for cancelation will be provided in the details. RA
+cancelation reason Typically, it will be done if specific criteria are not met, for
+example, the Borrower has defaulted ona previous loan.
+Explain the Cancellation reason to the Customer. If there is
+no reason provided, contact the BO for details to the
+number; +254 799324242
+3.19 Correct the If the loan is rejected due to incomplete or inaccurate RA Cc Cc
+mistakes or provide information, the COO makes the necessary corrections and
+new information resubmit the loan application to BO for approval.
+Similarly, if the BO has been unsuccessful in conducting KYC
+calls, for example, one or several of the Referees have not
+been reached, the COO asks the Customer to provide
+different referees, updates the information in the system
+and resubmits the loan application to BO for approval.
+The COO consults the BO, if necessary.
+15 (24)
+
+Sensitivity: Internal
+watu
+
+New Customer Onboarding in Dealerships process description
+
+Version V.1.0
+Date: 4/14/2023
+
+Step Description coo | Cc BO
+3.20 Referees If the Referees have changed during the loan approval R
+changed? process, the process continues with the step 3.21. If the
+Referees have not changes, the process continues with
+Phase 4, Asset Release, step 4.1
+3.21 Prepare and sign If the Referees have changed during the loan approval RA
+
+a clean form. Upload
+in OBR
+
+Phase 4: Asset
+Release, 4.1
+
+2.4 Asset Release
+
+process, the COO needs to prepare a clean Contact and
+Authorization form, sign it together with the Customer and
+then upload the new copy to the system.
+
+To fill a form, follow the same instruction that was provided
+in the step 1.9 and is available bere.
+
+The process continues with Phase 4, Asset Release, step 4.1
+
+During the last phase of the process, after the loan has been approved for disbursal, the Asset is
+released to the Customer.
+
+Sensitivity: Internal
+
+16 (24)
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+
+wd tu Date: 4/14/2023
+
+New Customer Onboarding
+4. Asset Release
+iT -
+
+o
+
+& A
+
+Oo
+
+7)
+
+=)
+
+Oo
+
+Phase 3: Loan
+Agreement
+Preparation, 3.20,
+3.21
+
+8 “see
+
+©
+
+fe)
+
+{>}
+
+c=
+
+xe) 4.6 Fixed
+
+oO
+
+Q
+
+xe]
+
+Cc
+
+@)
+
+© v
+
+a
+
+re)
+
+17)
+
+=)
+
+O
+
+4.17 Data
+correct?
+
+o
+
+YL
+
+fe)
+
+fo)
+
+<=
+
+io)
+
+L
+
+ie)
+
+6
+
+Oo
+
+ca
+
+Process description
+17 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+watu
+
+Process flow and main RACI for parties to clearly indicate who will be responsible (R), accountable (A),
+consulted (C) and informed (I) in regard to a task.
+
+The role abbreviations in the RACI matrix are used as follows: Customer Onboarding Officer (COO),
+Customer (C), Back Office Officer (BO).
+
+Step Description COO BO
+Phase 3: Loan The process continues after completing the step 3.20 or 3.21
+Agreement of the previous phase.
+preparation, 3.20,
+3.21
+4.1 Print generated The COO prints the generated loan documents. The RA
+release documents document package includes:
+
+e Loan agreement
+
+e Schedule A
+4.2 Sign the The COO explains the content of the loan documents to the RA
+documents Borrower and the Guarantor. The COO explains the payment
+
+method. The weekly payment must be sent to the PayBill
+
+no.650880 citing the Client ID as the account number.
+
+The COO and the Borrower both sign the documents.
+4.3 Upload the The COO makes a soft copy of the documents, uploads them RA
+documents. Confirm | into the onboarding system, and confirms in the system that
+they are signed they are signed.
+4.4 Assign the case Upon the approval in the previous step, the case has to be RA
+to oneself assigned for further processing. The COO reassigns the case
+
+to himself/herself.
+4.5 Enter Asset The COO enters Asset details in the onboarding system. The RA
+details instruction is available here. The Asset details include:
+
+e §=©Asset make and model
+
+® Colour
+
+e Chassis number
+
+® = Engine number
+
+e ~=Registration number.
+
+The COO uploads the Asset photos taken in step 3.7 of:
+
+e Chassis number
+
+® Engine number
+
+e License plate number
+
+e Picture of the whole bike from the side
+4.6 Fixed number The COO checks if the Asset has a fixed (real) number plate RA
+plate? or does it have an allocated license plate number.
+4.7 Issue an In case the Asset has an allocated plate number but not a RA
+indemnity form and fixed license plate, the COO prints out an Indemnity form and
+ask the Customer to | asks the Customer to signit. The Indemnity form will be
+sign uploaded in the system and added to the Asset release
+
+18 (24)
+
+Sensitivity: Internal
+watu
+
+Step
+
+New Customer Onboarding in Dealerships process description
+
+Description
+
+COO
+
+Version V.1.0
+Date: 4/14/2023
+
+4.8 Allocate a
+tracker
+
+4.9 Enter insurance
+and invoice data.
+Upload doc.
+
+4.10 Send to BO for
+processing
+
+4.11 Check uploaded
+documents
+
+4.12 Correct?
+
+4.13 Reject and ask
+to correct mistakes
+
+4.14 Correct errors
+and resubmit
+
+4.15 Issue and
+upload insurance
+
+Sensitivity: Internal
+
+package. The instruction for the form preparation is available
+here.
+
+The COO finds the GPS tracker number and allocates it to the
+Asset in the onboarding system. The GPS tracker receipts can
+be found in the Google drive, here. The instruction for tracker
+allocation can be found here.
+
+The COO enters information that is necessary for issuing an
+insurance. Afterwards, the COO enters the information about
+the invoice in the system.
+
+The COO generates a delivery note, obtain signatures from
+the Borrower.
+
+The COO uploads the remaining loan documents in the
+onboarding system. Additional documents can be uploaded
+under the section "Others". The full list of documents that
+need to be uploaded include:
+
+e Contact and Authorization Form
+e §=Loan Agreement
+
+e Schedule A
+
+e Photos of the Asset
+
+e = Indemnity form (if applicable)
+
+e Tracker receipt
+
+e = Delivery note
+
+e = Invoice
+
+The COO approves the documents in the system for BO
+review and approval.
+
+The BO officers checks the information in the system and
+compares it with the copies of the documents.
+
+If the information is accurate and complete, the process
+continues with the step 4.15.
+
+If the information is inaccurate or incomplete, the process
+continues with the step 4.13.
+
+If the information is inaccurate or incomplete, the BO officer
+rejects the application and requests the COO to correct the
+errors.
+
+The COO corrects the errors and resubmits the documents
+for BO review and approval. If necessary, the COO can
+consult the BO about the necessary corrections. The process
+restarts from the step 4.11.
+
+The BO officer issues an insurance for the Asset and uploads
+the insurance information in the system. Afterwards, the
+application is approved and returned to the COO for Asset
+release.
+
+RA
+
+RA
+
+RA
+
+RA
+
+RA
+
+RA
+
+Cl
+
+RA
+
+19 (24)
+watu
+
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+Step Description coo | Cc BO
+4.16 Check that the The COO checks if the data on the insurance sticker matches RA
+data on insurance the data in the system. The COO should check:
+sticker is correct e start and expiry dates,
+
+e registration number
+
+e number of passengers.
+4.17 Data correct? If the data is correct, the process continues with step 4.19. RA
+
+If the data is incorrect, the process continues with step 4.18.
+4.18 Reject to Back If the data does not match between the insurance sticker and RA
+office for correction | the system, the COO rejects the application and asks the BO
+
+to make the necessary corrections.
+4.19 Print the If the data is correct, the COO prints out the insurance sticker RA
+insurance and add and adds it to the document package.
+to the documents
+4.20 Give release The COO gives the release documents to the Customer. The RA
+documents to the release document package includes the following
+Customer documents:
+
+e § Asigned Loan Agreement
+
+e Schedule A
+
+e Indemnity form (if applicable)
+
+e Insurance sticker
+
+e GPS tracker passport
+
+e  ©Delivery note
+4.21 Collect the The Customer collects the release documents and picks up RA
+Asset the Asset.
+4.22 Watu Shule In case the Customer has procured the additional Watu Shule | C RA
+included? services, they should continue on to contact the Watu Shule
+
+office to agree on the training start date. This is a separate
+
+process which is not a part of this process description.
+
+The COO consults the Customer about the next steps as
+
+necessary.
+
+20 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+
+watu
+
+3 RACI matrix
+
+Version V.1.0
+
+Date: 4/14/2023
+
+To clearly indicate who will be responsible (R), accountable (A), consulted (C) and informed (I) in
+regards to a task inside the service delivery, Watu is using what commonly is referred to as a RACI
+
+Matrix.
+
+The role abbreviations in the RACI matrix are used as follows: Customer Onboarding Officer (COO),
+
+Customer (C), Back Office Officer (BO).
+
+Activity Coo | C BO
+Phase 1: Loan Eligibility Assessment
+Check if the Asset is pre-tracked and contact the Watu technician in case it is | RA
+not and the tracker needs to be installed
+Check that the minimum requirements are met and ask KYC questions RA Cc
+If the requirements are not met, reject the loan, explain and advise on how to RA |
+address the issues
+Ensure the fulfilment of requirements for loan issuance RA
+Prepare the documents and request an MPesa statement RA Cc
+Enter data in the onboarding system and check eligibility RA Cl
+Explain the document content to the Customer and obtain the signatures RA |
+Scan the documents and IDs, and add then to the onboarding system RA |
+Approve the application for CRB processing RA |
+Phase 2: CRB Check
+Offer Watu Shule services for locations where these service is available RA
+Conduct the CRB check, validate system information for completeness and Cc RA
+accuracy, and evaluate loan based on loan issuance criteria
+Approve the loan application for further processing | RA
+Cancel the loan if the loan issuing criteria are not met | RA
+Request corrections for identified errors | RA
+Explain the loan cancellation reasons to Customer RA | Cc
+Correct the errors identified by the BO RA | Cc
+Inform the BO about any mistakes identified after phase approval RA |
+Evaluate and advise on the way forward based on mistake type Cl RA
+Phase 3: Loan Agreement Preparation
+Advise and assist the Customer to make a down payment AC RI
+Enter information in the onboarding system about the Borrower, Guarantor, RA Cc
+Asset and Loan terms. Upload the supporting documents.
+
+2] (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+
+watu
+
+Version V.1.0
+
+Date: 4/14/2023
+
+Activity Coo | C BO
+Take and upload photos of the Asset RA |
+Prepare the invoice and upload it in the onboarding system RA Cl
+Check system information against the scanned document copies | RA
+Perform know your customer (KYC) Calls | RA
+Reject or cancel the loan based on the criteria and information accuracy | RA
+Check that the down payment has been made and is received Cc RA
+Approve the loan and generate the agreement RA
+Explain the loan cancelation reasons RA | Cc
+Correct the mistakes or provide accurate/missing information RA Cc Cc
+If the Referees have changed during the KYC call process, prepare, sign and RA | |
+upload a clean form.
+Phase 4: Asset Release
+Print the generated loan documents and ensure they are properly signed RA |
+Sign the loan documents RA R
+Upload the signed documents in the onboarding system RA
+Enter Asset details in the onboarding system RA
+Issue and ask the Customer to sign an indemnity form in case the Asset doesn't | RA
+have a fixed license plate
+Signing the Indemnity form RA R
+Allocate a GPS tracker information in the onboarding system RA
+Upload the signed documents in the onboarding system RA
+Send the application to BO for processing RA |
+Check system information against the uploaded documents | RA
+Reject the application and ask to correct identified mistakes | RA
+Correct the errors and resubmit the application RA Cl
+Issue and upload the Asset insurance RA
+Check that the data on insurance sticker matches the system data RA
+Request the BO for correction, if any errors are identified RA
+Print the insurance and add the insurance sticker to the documents RA
+Give the Asset release documents to the Customer RA |
+Collect the Asset RA
+Visit Watu Shule office to start classes (if applicable) Cc RA
+
+22 (24)
+
+Sensitivity: Internal
+New Customer Onboarding in Dealerships process description
+
+watu
+
+Version V.1.0
+Date: 4/14/2023
+
+4 Process key performance indicators & metrics
+
+New Customer Onboarding in Dealerships process KPls and SLAs are defined in the table below. These
+metrics are measured based onset periods and reported to Watu's Management. The metrics shall be
+
+reviewed on quarterly basis.
+
+Description SLA KPI
+Turnaround time (TAT) for one onboarding case <2h
+
+Loan repayment rate during first 4 weeks 100%
+Loan repayment rate during the loan servicing period >85%
+
+% of Customers that can answer the questions asked
+during the First call process:
+
+e The Customer knows the names of Guarantor, Referees,
+NOK and Stage chairmen,
+
+e The Customer knows the weekly payment amount,
+
+e The Customer knows the repayment date,
+
+e The Customer knows the Paybill number,
+
+e The Customer confirms that they signed a contract,
+
+e The Customer received a copy of the contract.
+
+Customer Satisfaction rate
+
+5 Related documents
+
+95-100% of Customer can
+answer/have a positive
+answer to all questions
+
+4.95 out of S
+
+e Google drive - Google drive where tracker receipts are stored for pre-tracked assets
+e ©Workinstructions - for ease of access, the links to the specific work instructions are also added in each of the
+
+process steps.
+
+Sensitivity: Internal
+
+23 (24)
+watu
+
+New Customer Onboarding in Dealerships process description
+Version V.1.0
+Date: 4/14/2023
+
+6 Terms and abbreviation
+
+Abbr. Term Explanation
+
+Assets Assets as part of this Process Description are Mobility Assets,
+specifically, motorcycles (locally referred to as boda-boda or piki-piki)
+and three-wheelers (locally referred to as Tuk-tuks)
+
+BO Back-Office Watu department that validates Customer and loan information and
+approves, rejects or cancels the loans.
+
+Customer Also referenced to as "Borrower" in other documents. The Customer is
+the private person who has entered in a loan agreement with Watu,
+borrowing funds for an Asset purchase.
+
+Coo Customer Onboarding | An assigned Dealership employee who processes documents,
+
+Officer conducts due diligence checks, and enters Customer and loan
+information in the Watu onboarding system on Watu's behalf.
+
+Dealership Dealerships are Supplier entities where Watu Customers can purchase
+their assets. Watu will collaborate with specific dealerships, based on
+their asset sales.
+
+KPI Key performance A metric that is used to help manage a service, process, plan, project
+indicator or other activity.
+
+RACI Responsibility A model used to help define roles and responsibilities. RACI stands for
+assignment matrix responsible, accountable, consulted and informed.
+
+SLA Service Level An agreement between Watu and a Customer or between different
+
+Sensitivity: Internal
+
+Agreement
+
+Watu
+
+Watu organizational units. A service level agreement describes the
+service, service level targets, and specifies the responsibilities of
+engaged parties.
+
+The term used to describe Watu organization as a whole, including all
+and any of Watu owned legal entities engaged in delivering services to
+Customers.
+
+24 (24)

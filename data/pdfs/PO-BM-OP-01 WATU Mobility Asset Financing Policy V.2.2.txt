@@ -1,0 +1,514 @@
+﻿WATU Mobility Asset Financing Policy Logo, company name
+
+Description automatically generated 
+Policy No: PO-BM-OP-01
+Version V.3.0
+Year 2025
+________________
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WATU Mobility Asset Financing Policy
+
+
+
+
+
+
+
+
+
+
+Policy No: PO-BM-OP-01
+Version: V.3.0
+Year 2025
+________________
+
+
+1. Introduction
+Watu (hereinafter Watu or Company) is a dynamic and fast-growing non-bank finance Company that offers asset financing. The Company is built on five core values which are the guiding principles for Company policies, employee conduct, behaviour, and tone of voice:
+* Integrity: We act ethically and transparently, guided by facts and values, even in challenging situations.
+* Customer Focus: We create a positive and inclusive environment by valuing feedback, supporting growth, and communicating clearly for continuous improvement.
+* Ownership: We take accountability for our decisions and results, think globally, and drive growth and innovation in line with Watu's vision.
+* Respect: We promote inclusivity, listen to diverse perspectives, and communicate respectfully to build trust and collaboration.
+* Empowerment: We support growth by sharing knowledge, embracing innovation, and fostering a positive and mindful approach to change. 
+2. Purpose and Scope
+This document serves as a supplementary policy to the PO-BM-SM-01 WATU Commercial Strategy and Operations Policy which provides a comprehensive overview of Watu's overall business strategy, service governance, service offerings, funding sources, and operational principles.
+Readers seeking information on the broader business strategy, sources of funds, service governance, new market development approaches, and other general operational principles should refer to PO-BM-SM-01 WATU Commercial Strategy and Operations Policy.
+Watu is committed to ethical and sustainable business practices. The purpose of the WATU Mobility Asset Financing Policy (hereinafter, Policy) is to provide a comprehensive framework that guides all commercial and lending activities of Watu. This includes:
+* Ensuring Compliance: Adhering to all applicable national and international laws, regulations, and internal Company policies and procedures.
+* Promoting Ethical and Sustainable Practices: Fostering a business environment that is ethical, environmentally responsible, and socially conscious.
+* Standardizing Credit Policies: Establishing consistent credit policies across all asset finance units to guide employees and manage risk exposure.
+* Managing Lending Risk: Providing a structured approach to identifying, assessing, and mitigating risks associated with lending activities.
+* Proactive Loan Management: Implementing strategies for the early identification and effective management of problematic loans and Customers.
+* Maintaining Credit Risk: Establishing a framework for the ongoing monitoring and maintenance of the Company's overall credit risk profile.
+* Guiding Business Operations: Outlining principles and procedures for various aspects of the business, including Customer onboarding, loan issuance, collateral management, and Customer support.
+This Policy applies to all of Watu's current and future business activities and is binding for all permanent employees, third-party contractors, and self-employed individuals working on behalf of Watu. The Policy does not encompass the management of Company-owned assets, which is governed by the Asset Management Policy.
+3. Policy Communication and Review
+This Policy communication and implementation falls under the responsibility of the Watu Management Team. 
+The Policy development, review, and approval is done in accordance with the PR-AM-QM-01 Documents and Records Management process. The Policy local adoption is done in accordance with the GL-AM-QM-02 Policy Local Adoption and Implementation Guideline. As part of a continuous improvement process, this Policy shall be reviewed and updated annually or more often, as needed to meet the legislative requirements or best business practices.
+4. Policy Statements
+   1. General Terms and Definitions
+The below table outlines the general terms and definitions used throughout this Policy.
+Abbr.
+	Term
+	Definition
+	BoD
+	Board of Directors
+	The governing body of Watu, responsible for high-level decisions and oversight, including approving loan write-offs and changes to payment types.
+	
+
+	Borrower
+	A Customer who has entered into a loan agreement with Watu to finance the purchase of a mobility asset (two-wheeler, three-wheeler, four-wheeler, or electric vehicle) and/or a connectivity asset (mobile device, tablet, or TV).
+	
+
+	Collateral
+	The asset being financed (e.g., vehicle, connectivity asset), pledged as security for the loan.
+	DPO
+	Data Protection Officer
+	The individual responsible for overseeing data privacy and protection within Watu, particularly concerning Customer data and requests for data rectification.
+	ESG
+	Environmental, Social, Governance
+	A framework used to evaluate Watu's sustainability and ethical impact, encompassing environmental responsibility, social consciousness, and corporate governance practices.
+	GPS
+	Global Positioning System
+	A satellite-based navigation system used for tracking the location of financed mobility assets.
+	
+
+	Guarantor
+	A person who assumes responsibility for a borrower's loan repayment obligations if the borrower defaults.
+	IFRS
+	International Financial Reporting Standards
+	A set of accounting standards used by Watu for financial reporting, including the provisioning for bad debt.
+	KYC
+	Know Your Customer
+	The process of verifying the identity of Customers to prevent fraud, money laundering, and other illegal activities, conducted during Customer onboarding.
+	
+
+	Loan Transfer
+	The process of moving a loan agreement from the original borrower to a new borrower, typically when the original borrower returns the asset or in the event of their death. The new borrower must meet Watu’s loan eligibility requirements.
+	
+
+	Mobile Money
+	Services that allow users to store, send, and receive money using their mobile phones, a primary method for loan repayments.
+	
+
+	Rescheduling
+	Delaying a loan's next due payment under specific circumstances such as asset storage, Customer illness, asset repairs, or other agreed-upon reasons. No additional interest is charged during the rescheduled period.
+	
+
+	Restructuring
+	Modifying the terms of an existing loan agreement (e.g., adjusting the loan term or amount) to assist borrowers experiencing repayment difficulties.
+	
+
+	Senior Management Team
+	The senior leaders of Watu with decision-making authority, including approving specific exceptions like accepting international currency or cash payments during expansion phases.
+	
+
+	Write-Off
+	Removing a loan from Watu's accounting records as an asset because it is considered uncollectible typically due to theft, irreparable damage, or Customer death (under specific conditions and after considering insurance claims). Requires Board of Directors approval to effect.[a]
+	   2. General Business Strategy and Service Offering
+The Company shall offer both long-term (more than one year) and short-term (one year or less) asset financing services. This document serves as a supplementary policy to the PO-BM-SM-01 WATU Commercial Strategy and Operations Policy which provides a comprehensive overview of Watu's overall business strategy, service governance, service offerings, funding sources, and operational principles.
+This Policy, outlines the specifics of the services and loan types, tools and systems, contract management, and other operational details specifically related to Mobility Asset financing, which includes:
+* Two-wheelers,
+* Three-wheelers (including conversion from fuel to compressed natural gas),
+* Four-wheelers,
+* Electric vehicles.
+For information regarding Connectivity Asset Financing, please refer to the PO-BM-OP-04 Connectivity Asset Financing Policy.
+   3. Mobility Asset Financing Specifics
+Mobility asset financing loan includes a portion of the vehicle purchase price, along with the cost of insurance (where not purchased by the Customer separately), taxes and tariffs, and other costs associated with the loan issuance for mobility assets.
+The Company also issues mobility asset repair loans where Borrowers in good standing on their existing loan may receive additional financing for their vehicle repairs where necessary. The financed amount shall be added to the Borrower’s existing mobility asset loan balance, and repayments distributed against the remaining term of the loan.
+Watu shall only finance mobility assets sold by verified distributors based on an invoice issued by the distributor to the Borrower. The payment shall be made directly to the seller of the mobility asset on behalf of the Borrower.
+   4. Dealership Engagement in Mobility Asset Financing
+Watu recognizes the value of strategic partnerships and may engage authorized dealerships and individual dealers to enhance its sales and Customer onboarding processes. These partnerships aim to improve Customer experience, optimize resource allocation, and support business scalability. 
+Management of these partnerships and third-party relationships must comply with all applicable national laws, statutory regulations, and Watu's internal policies, including the PO-AM-CM-01 Anti-Money Laundering and Counter-Terrorism Financing Policy and PO-AM-RM-01 Anti-Bribery and Anti-Corruption Policy. 
+The onboarding of dealers into the Watu network is governed by a comprehensive process that includes:
+* Due Diligence: This involves verifying the dealer's legal and financial standing, as well as assessing their alignment with Watu's values and business objectives.
+* Partnership Agreement: A formal agreement is established to define the terms and conditions of the partnership, including roles, responsibilities, and performance expectations.
+* Technical Needs Assessment: This assessment ensures that the dealer has the necessary infrastructure and capabilities to integrate with Watu's systems and processes.
+* System Setup and Access Management: Dealers are provided with access to relevant Watu systems and tools, with user accounts and permissions configured according to their roles and responsibilities.
+* Training and Support: Watu provides training and ongoing support to dealers to ensure they can effectively utilize Watu's systems and adhere to Company policies and procedures.
+Watu actively manages the risks associated with third-party relationships. This includes:
+* Ongoing Monitoring: Regular monitoring of dealer activities to ensure compliance with contractual obligations, Company policies, and applicable laws and regulations.
+* Performance Evaluation: Periodic evaluation of dealer performance based on agreed-upon metrics and key performance indicators.
+* Risk Mitigation: Implementation of risk mitigation strategies to address potential issues such as fraud, data breaches, and reputational damage.
+The detailed guidelines and procedures for onboarding and managing dealers are outlined in the GL-SM-SM-01 SIMU Dealer Onboarding Guideline and GL-BT-SM-01 Dealer Onboarding Guideline.
+   5. Loan Issuance
+The Company shall establish various service locations to provide easy access to potential Customers. The Company shall respond promptly and professionally to any inquiries related to its products and services.
+      1. Contract
+Company staff are prohibited from issuing independent Watu asset loans to Customers and/or conducting insider trading under the guise and/or representation of Watu by way of contract and/or otherwise.
+All loans shall be issued in accordance with the onboarding requirements, terms and conditions of the loan, and governing procedures of the country. A loan agreement that sets out the terms and conditions of the loan must be signed between Watu and the Customer before the loan is disbursed.
+The Legal Department shall develop and maintain a standard Loan Agreement, and where applicable, a Security Agreement and Authorization form that contain loan terms and conditions, and other supporting documents. All loans shall be issued only using the approved standard forms.
+Any modifications to the approved standard agreement forms shall be developed and approved by the Company’s Legal Department.
+Mobility asset loan documents shall be stored in both paper and digital format. The Company shall aim to transition to keeping only digital copies of the documents when possible.
+      2. Payment Methods
+The Company has a strict “No Cash” policy and does not accept cash from Customers for any services. Repayment of loans shall be done strictly via electronic transfers using local mobile money providers, Watu payment app (where applicable) and/or bank transfers.
+As an exception, during the initial expansion phase into new markets, cash payments may be temporarily accepted in cases where there are no reliable systems to collect money electronically. This exception must be approved by the Senior Management Team and documented accordingly.
+Watu employees and service providers (excluding mobile money agents) stationed at Watu premises are prohibited from transacting for and on behalf of Watu Customers who do not have access to either mobile money or bank transfer systems.
+      3. Customer Onboarding
+The Company shall develop and maintain Customer Onboarding Process based on the principles provided in this Policy as well as the KYC procedures determined by the PO-AM-CM-01 Anti Money Laundering and Counter Terrorism Financing Policy and its PO-AM-CM-01 Attachments.
+Prior to Customer onboarding, the Company’s employee or agent shall conduct necessary KYC checks. These checks may include but are not limited to a brief face-to-face interview with a potential Customer to obtain information about the Customer’s, Next of Kin, Referees’ and Guarantors’ (if any) background, the intended use of the asset, ability to repay the loan, and experience, and to detect any suspicious circumstances.
+Additionally, for mobility assets, the Company shall request the Customer to fill an initial authorisation form for data processing and credit reference bureau check. The collected information shall include Borrower’s and Guarantor’s full name, a photocopy of national IDs, ID number and contact details. The Company employees shall check the information against the data in Company’s system to detect possible fraudulent activities or identify previous bad debtors. 
+Upon initial data approval, the Company’s employee or agent shall collect and enter the remaining necessary data for the loan application into the Company’s system. This data includes but is not limited to:
+* Personal details
+* Contact details (address, telephone)
+* Preferred repayment frequency and amount
+* Information about Referees and their contact details
+* Information about the Customer’s income and, where applicable, expenses
+* Valid signatures of the Borrower
+For mobility assets, additional collected information shall include:
+* Details (including valid signatures) about the Guarantor, including their relation to the Borrower
+* Area of operation
+* Selected vehicle data
+* Information about Customer’s assets
+The loan application form shall be reviewed and signed by the Borrower and the Company’s employee or agent. The employee or agent processing the loan agreement must ensure that all signatures and thumbprints (where applicable) are clear and identifiable. Where necessary, the Company shall issue a power of attorney to authorize the employees to identify themselves and sign the loan agreements on behalf of the Company.
+The Company’s employee shall verify the data to determine if the Borrower qualifies for loan issuance and that there are no suspicious circumstances (including no negative information from the credit reference bureau). The Company reserves the right to request additional information from the Borrower and/or the Guarantor prior to issuing the loan.
+The decision to issue the loan shall be taken by the Company at its sole discretion. The Company reserves the right to reject the loan application if the Customer doesn’t meet the loan eligibility criteria, is not able to provide the necessary information, has previous defaults, or the Company has suspicion of potential fraudulent activities.
+The local Senior Management Team may decide that in certain high-risk areas (e.g. near the borders or high crime incidence areas), a pre-onboarding visit is required to the Borrower’s residence.
+The approved loan amount for the purchase of the asset is transferred directly by the Company to the asset distributor on behalf of the Customer.
+      4. Loan Terms and Conditions
+The Company shall develop a loan financing approach that specifies loan financing periods, interest rates, and other applicable fees. When developing these fees, the Company shall consider the Customer’s ability to repay the loan, as outlined in each Country’s  Policy Attachment I, section A, sub-section 1.
+Interest rates and all other fees associated with Watu loans must be competitive in the market and commercially viable.
+Loan financing periods, interest rates, and all other fees shall be reviewed annually or as needed to ensure continued compliance with laws, regulations, market conditions, and risk management.
+         1. Down Payment
+To ensure that potential Borrowers are serious about their future loan commitments, the Borrower shall be required to make a minimum down payment at the point of signing the loan documents. The down payment amount may vary from time to time depending on asset prices and economic changes.
+The down payment amounts are specified in each Country’s Policy Attachment I, section A, sub-section 2.
+         2. Loan Period and Interest Rate
+All loan interest rates shall be aligned to the governing national Consumer Protection regulations.
+The loan interest rate shall be determined based on the asset type. Different markets may have different interest rates as other rate-determining factors include local legislation, market conditions, Customer profile, Customer earning potential, costs of financing, and risk.
+The loan financing period shall be determined based on the asset type and the Customer’s ability to cover the weekly payment.
+The loan periods and interest rates are specified in each Country’s Policy Attachment I, section A., sub-section 3.
+         3. Other Payments
+In addition to the interest charges, the Borrower may be asked to make other payments. The payments and their amount may vary for each asset type and country of operations and are determined by the  Country’s Senior Management and approved by the Board of Directors.
+Other payments are specified in each Country’s Policy Attachment I, section A., sub-section 4.
+Watu may charge late payment interest or fees in compliance with contractual obligations and local Consumer Protection regulations. Late payment interest or fees shall be calculated for mature loans on the outstanding principal amount. Interest is not compounded, meaning late interest payments are accumulated and added to the total Customer debt but are not added to the principal amount that is used in interest calculation.
+Watu shall reschedule the loan and shall not charge additional interest for the time period while the asset is in Watu storage, undergoing repairs, or in other circumstances where the Customer has agreed a loan repayment grace period.
+The loan processing fee shall be added to the total loan amount and repaid via the periodic payment schedule.
+Depending on the amount, any statutory fees, repair costs, fines, bailouts, and other recovery costs shall be passed on to the Customer by adding them to the loan principal amount or as a separate fee.
+      5. Loan Eligibility Requirements
+The Company shall develop and maintain loan eligibility requirements. The eligibility requirements may change depending on the country of operations and type of asset financed.
+The eligibility requirements shall be reviewed during the annual Policy review but can also be reviewed separately as needed to ensure continued compliance with laws, regulations, market conditions, and risk management.
+The detailed eligibility requirement list is provided in each Country’s Policy Attachment I, section B.
+      6. Loan Documents
+The loan document package may differ based on the asset type and the country or operations. The specific documents are described in each Country’s Policy Attachment, Section C.
+In cases where the Company identifies an error in a document or a record entry, the Company may request the Customer to come to one of the Company’s offices to correct the error.
+In cases where the Customer data has changed or the Customer notices an error in their data provided to the Company, they may reach out to the Company’s DPO and request to rectify their data as per the Company’s PO-AM-CM-03 Data Privacy and Protection Policy.
+      7. Loan Collateral
+All issued loans shall be secured by the financed asset as collateral. No other forms of collateral shall be required from approved Customers. Land, properties, IDs, bank cards, and any other forms of original personal identification documents are not required nor accepted as collateral for Company’s loans.
+A Guarantor assumes the same responsibilities and liabilities for loan repayment obligations as the Borrower. A Guarantor is not required to place any additional collateral.
+Loan collateral registration approach details are provided in each Country’s Policy Attachment I, section D.
+      8. Loan Processing, Approval or Rejection
+The Company aims to process loan applications within the following timelines:
+Asset Type
+	Loan application processing time
+	Two-Wheelers
+	2 hours
+	Three-Wheelers
+	2 hours
+	Four-Wheelers
+	3 hours
+	Electric Vehicles
+	2 hours
+	Mobile Devices
+	30 min - 1 hour
+	Customers will be informed of the decision on their loan application on the same day it is made, either in person, via SMS, or through the online portal (if applicable). If the application is rejected, the Company will provide clear reasons for the rejection.
+The Company reserves the right to permanently deny products and services to applicants or agents that have provided false or fraudulent information in prior and current applications. Such individuals' information shall be recorded and stored in the Company’s blacklist.
+      9. Loan Repayment Calculation and Scheduling
+The total loan amount and interest shall be calculated using the approved Watu systems in compliance with rules and regulations defined in respective national guidelines. Any changes to loan calculation principles shall only affect new loans.
+The Company shall use the reducing balance method for loan repayment, which means that the monthly payment amount paid by the Customer shall remain the same, while the interest paid on the loan will decrease over time and the principal amount repaid will increase.
+The Customer loan repayment schedule shall be calculated for weekly or monthly installments, based on the asset type. The Customer may decide to make daily, weekly, or monthly payments regardless of the schedule. The total repayment amount shall be fixed and shall not change except in the case of loan restructuring and/or where additional fees are added to the loan.
+      10. Early Loan Repayment
+Customers may repay their loan in full at any time before the scheduled maturity date. Early repayment terms depend on the loan's current status:
+* Loans with No Arrears: Customers shall pay the outstanding principal balance only. No prepayment penalties or additional interest will be charged.
+* Loans with Arrears: Customers shall pay the outstanding principal balance plus all accrued and overdue interest.
+* Loans with Arrears and Applicable Fees: Customers shall pay the outstanding principal balance, all accrued and overdue interest, and any applicable late payment fees or other fees as outlined in the loan agreement.
+Clarifications and Important Considerations:
+* Contact for Prepayment Calculation: To ensure accurate calculation of the final repayment amount, Customers must contact the Company's Customer Support prior to making an early repayment. The Company shall calculate the precise amount due, taking into account any accrued interest or fees up to the intended payment date.
+* Prepayment Calculation: Interest is calculated up to the date of prepayment. This means that if a Customer makes a prepayment partway through a payment period, the interest will be calculated only for the portion of the period that has elapsed.
+* No Prepayment Penalties: Watu does not charge any prepayment penalties for early loan repayment on loans with no arrears.
+      1. Loan Limits
+Borrowers can finance up to the total cost of the asset, which includes the asset's purchase price plus all applicable Company fees. For example, if an asset costs 100 USD and the associated company fees are 10 USD, the maximum loan amount would be 110 USD.
+Watu shall only finance one loan at a time for the Customer with the exception where the Customer has a loan for a connectivity asset. In this case, a mobility asset loan can be issued. In this instance, the issuance of the new loan shall be determined against the current loan repayment history and remaining balance.
+Well paying Customers shall be eligible to borrow additional sums from the loan account to finance mobility asset repairs. The additional borrowed amount shall be added to the original loan and the loan shall be restructured. Payments for these loans shall be paid by the Company directly to a verified and designated repair shop.
+      2.    6. Collateral Management
+This section outlines the approach for managing collateral, which consists of the financed assets (mobility and connectivity assets), ensuring their protection and proper handling throughout the loan lifecycle, including repossession and disposal.
+      3. Asset/Collateral Protection
+To protect mobility assets (collateral), each vehicle is equipped with one or more GPS tracking devices monitored 24/7. In electric vehicles (EVs), tracking functionality may be integrated into the battery and managed by external partners. Any tampering or malfunction of GPS devices triggers an alert, prompting the Company to engage as soon as possible to ensure the asset/collateral can be recovered.
+If GPS tampering is confirmed, the Company reserves the right to terminate the loan agreement, demanding full repayment or repossessing the asset for sale on the secondary market.
+Customers purchasing high-value, long-term mobility assets (small and large mobility assets) are required to obtain third-party liability insurance from accredited providers in their country of operation. Customers manage claims directly with their insurers.
+In the event of a legitimate insurance claim for a high-value, long-term mobility asset, approved by both Watu and the insurer, Watu may, at its discretion and based on the customer's repayment history, offer a replacement asset. This is subject to asset availability and internal policy guidelines
+Connectivity assets are equipped with remote locking technology, allowing service disconnection for non-payment. Service shall be restored upon receiving payment.
+      4. Voluntary Asset Return and Down Payment Refund
+Customers may voluntarily return assets. Watu will explore rescheduling or restructuring options before accepting the return.
+         4. Mobility Asset Return
+Upon mobility asset return, the Customer may introduce a potential loan transfer candidate. Otherwise, Watu shall dispose of the asset on the secondary market in its current condition or after reasonable preparation/repairs.
+Customers returning mobility assets are not entitled to down payment refunds but may receive a refund after the asset's resale, covering any surplus after deducting costs (asset cost, refurbishment, interest, and other accrued costs).
+         5. Connectivity Asset Return
+Customers may return connectivity assets and request a down payment refund if the device meets the following criteria:
+* The front screen is in working order.
+* The back of the device is not damaged.
+* The device's corners do not have any drop marks or dents.
+* The device can be charged (Battery test).
+* The SIM tray is available and not damaged.
+* The device is able to switch on.
+* The device is responsive (the user can open apps and use the software available on the device).
+* WiFi networks are visible and able to connect.
+* Bluetooth scanning and detection is visible on the device.
+* It is confirmed that the device belongs to the borrower.
+The specific refund amount is calculated by each country based on the principles provided in each Country’s Policy Attachment I, Section E.
+No refunds are issued for devices with screen damage, drop marks, or that don't power on.
+      5. Asset Repossession
+If a Customer defaults, Watu may repossess the asset after exhausting alternative arrangements (e.g. rescheduling, restructuring). Repossession follows established procedures and local laws.
+Post-repossession, a legally mandated grace period allows Customers to reclaim the asset by meeting specific conditions outlined in Customer Support procedures.
+         6. Post-Repossession Customer Support
+Customers have the right to receive transparent and accurate information regarding their repossessed asset and the process for reclaiming it. All employees interacting with Customers in these situations must:
+* Be Knowledgeable: Possess a thorough understanding of the Company's post-repossession services, asset return terms, and applicable laws and regulations.
+* Seek Guidance: Consult with colleagues or management when faced with questions they cannot confidently or accurately answer, or that fall outside their area of responsibility.
+* Provide Accurate Information: Share complete and truthful information with Customers to enable them to make informed decisions about asset reclamation and repayment options.
+Misrepresentation of information is a breach of Company policy and may result in disciplinary action.
+         7. Asset Verification
+In cases where there is suspicion that a repossessed asset has been tampered with or does not match the original financed asset (e.g., license plate swapping), the Company will engage relevant authorities and conduct an investigation to recover the correct asset.
+      6. Mobility Asset Storage
+Watu may temporarily store Customer mobility assets if they cannot be used, suspending loan payments (rescheduling) during storage.
+Second-hand assets resulting from disposals can only be stored within the warehouse premises for up to 24 hours. Any extension beyond this period requires written approval from the Head of Department.
+      7. Mobility Asset Theft
+The Company shall maintain an emergency service line to assist Customers in case of asset theft.
+Customers must report all asset theft cases to the Police. Cases where the Customer has not or refuses to report the theft to the Police shall be considered potential fraud and investigated accordingly. The Company may pursue legal action against the Customer, engaging the necessary authorities, if deemed appropriate.
+All asset theft cases shall be registered in the Company’s internal systems. The Company's Asset Recovery Team shall attempt to retrieve the asset within 72 hours of the incident being reported. If the asset is not recovered within this timeframe, the case shall be submitted to the Insurance Department for processing where the insurance policy is still valid.
+      8. Mobility Asset Accidents and Vandalism[b][c]
+All cases where the Customer notifies the Company that the asset has been involved in an accident or has been vandalized shall be registered by the Company.
+The Customer shall be mandated to report the case to the Police to be eligible for insurance coverage.  If the Customer fails to report the case to the Police, the Company may initiate an investigation to determine if the case is suspected fraud. The Company may pursue legal action against the Customer, engaging the necessary authorities, in cases where the Company suspects the Customer has been involved in vandalism.[d][e][f][g][h]
+The Company may cover a part or all of the asset repair cost that is not covered by the insurance[i][j][k][l][m][n]. Each case shall be evaluated separately based on the Customer’s past payment performance. Customers who have arrears or have missed payments in the past, shall be required to contribute to the repair cost.
+Where any portion of the asset repairs are covered by the Insurance Provider and/or the Company, the asset repairs shall be conducted only at Watu pre-qualified garages or repair shops.
+In cases where the Company will finance part or all of the asset repair cost, the Company representative shall reach out to the Customer to discuss co-financing of the repairs. The loan shall be restructured to include the repair value not covered by the Insurance Provider and the Customer.
+      9.       10. Mobility Asset Treatment in Case of Customer Death
+In the event of a Customer's death during the loan servicing period, Watu will handle the situation as follows.
+         8. Death Due to Natural Causes or Unrelated Accidents
+In case the Customer dies during the loan servicing period, due to natural circumstances such as sickness or old age, or the death is caused by an accident where the financed asset is not involved, upon receiving a valid death certificate, Watu shall:[o][p][q][r][s][t][u]
+* Discuss with the Customer’s appointed successor the possibility of transferring the loan to them.
+* If the appointed successor is unwilling to assume the loan, offer to transfer the loan to a family member or next of kin who is willing to accept the transfer.
+* If no family member or next of kin is willing to assume the loan, sell the asset in the second-hand market and close the existing loan.
+         1. Death Due to Accident Involving Financed Asset
+If the Customer's death results from an accident while operating the financed asset, Watu shall:
+* Discuss with the Customer’s appointed successor the possibility of assuming the loan repayment.
+* If the appointed successor declines, offer to transfer the loan to a family member or next of kin willing to accept the transfer.
+* If the next of kin is an immediate family member (parent, sibling, spouse, or child) and the asset is still serviceable, Watu may, at its discretion, write off the remaining loan balance and transfer ownership of the asset to the next of kin.
+If the financed asset is severely damaged and no longer serviceable, the outstanding loan balance will be written off, regardless of the cause of the damage.
+      11. Collateral Disposal in Second-Hand Marketplace
+Second-hand assets include:
+* Watu-owned assets
+* Assets voluntarily returned by the Customer
+* Repossessed assets from defaulted loans that were not reclaimed by the original Customer
+* Repossessed assets from deceased Customers whose loans were not transferred to the next of kin
+The Company shall inspect these assets and price them according to their fair market value.
+The Company may choose to refurbish an asset if the refurbishment cost is less than the anticipated increase in the asset's resale value.
+   7. Loan Management
+      1. Monitoring and Evaluation of Credit quality
+The Company shall manage its loan portfolio by assigning approved loans to specific employees who will be responsible for loan portfolio management.
+To ensure effective monitoring and evaluation of the Mobility Asset loan portfolio quality:
+* The Company shall implement a system that automatically sends payment reminders to Borrowers the day before their due date.
+* If a payment becomes overdue, a Company representative will contact the Borrower to remind them of their payment obligations and to determine a new commitment date for payment.
+* Borrowers who fail to meet their new payment commitment date shall receive a follow-up call from the Company.
+If these collection efforts are unsuccessful, the Company may initiate the recovery process and repossess the collateral based on several factors, including but not limited to:
+* Number of days the payment is overdue
+* Number of missed installments
+* Total amount overdue
+* Days since the last payment
+* Ratio of payments received to payments due within the last 14 and/or 28 days (14 and 28 days score),
+* Any extenuating circumstances, such as illness, accidents, or vehicle repairs.
+The final decision to repossess the collateral rests with the Head of the Recovery Department.
+For Connectivity Assets, the Company shall utilize a device locking system that permits remote deactivation of the device until the overdue payment is made.
+      2. Provisioning for Bad Debt
+The Company shall calculate and make provisions for bad debt in compliance with the International Financial Reporting Standards (IFRS) and local laws and regulations.
+Details on bad debt provisions are provided in PO-AM-FA-01 WATU Finance Policy. are provided in each Country’s Policy Attachment I, section F.
+      3. Loan Rescheduling
+Watu may, at its discretion, reschedule a Customer's loan by delaying the next due payment under the following circumstances:
+* The asset is in Watu's storage.
+* The Customer requests rescheduling due to injury or sickness and provides supporting documentation.
+* The asset is in police or other statutory custody.
+* The asset is undergoing repairs.
+* Other circumstances agreed upon between the Customer and Watu.
+      1. Loan Restructuring
+Watu shall offer loan restructuring to Customers to:
+* Adjust the loan term,
+* Adjust the loan amount.
+Each case shall be evaluated individually, following established procedures and guidelines. Any changes to the loan resulting from restructuring shall be documented in an "Amendment to Loan Agreement and Schedules" form, which must be signed by both the Customer and a Watu employee.
+      2. Loan Transfer
+The Company may transfer an existing loan to another borrower in the following cases:
+* Customer Request: The Customer voluntarily returns the asset and introduces a potential borrower to Watu. The loan will only be transferred if the new borrower meets all of Watu's requirements for issuing a new loan.
+* Customer's Death: In the event of a Customer's death, Watu may offer to transfer the loan to the next of kin. If the next of kin declines the transfer, they will be required to sign a form authorizing the Company to dispose of the asset in the second-hand market.
+      1. Loan Write-off
+All asset theft, accident, and vandalism cases must be reported to both the Police and Watu by the Customer. Watu may write off the remaining unpaid loan balance if the Customer provides a Police Abstract for the reported case in the following situations:
+* The asset has been stolen and not recovered, for the difference between the remaining asset value and the insurance claim, if any.
+* The asset is damaged beyond repair in an accident or vandalism case, for the difference between the remaining asset value and the insurance claim, if any.
+* The Customer's death was caused by an accident while operating the asset, for the difference between the remaining asset value and the insurance claim, if any.
+* Assets that cannot be recovered or where the recovery cost exceeds the remaining asset value.
+In cases of theft, vandalism, or accidents where the asset is damaged beyond repair and there are suspicious circumstances suggesting Customer involvement, or in any cases where the asset has disappeared from or been damaged on Watu premises, the Company shall conduct an investigation, potentially involving law enforcement authorities, and consult with Senior Management before writing off the loan. The damaged asset shall be returned to the insurance Company if Watu receives compensation, or to the Customer or their next of kin.
+All loan write-offs are approved and ratified by the Board of Directors.
+   8. Customer Support
+      1. Customer Service
+Watu recognizes the importance of Customer Service and Protection. The Company aims to provide excellent Customer service and support in alignment with the PO-BM-CS-02 Customer Service Policy and PO-BM-CS-01 Customer Protection Policy. This includes offering accessible communication channels, resolving complaints fairly and efficiently, and ensuring professional and respectful interactions with all Customers.
+      2. Customer Refund After Asset Resale
+Watu will return to the Customer any surplus funds from the disposal of the asset in the secondary vehicle marketplace or from an insurance claim, after covering the asset's cost, refurbishment costs, interest, and other accrued costs as per relevant procedures and guidelines.
+In cases where the Company cannot refund the Customer immediately, the surplus amount will be credited against the Customer’s account which can be reclaimed by the Customer at a later time.
+Customers are not entitled to refunds after the resale of Connectivity Assets but may receive a down payment refund upon Voluntary Asset Return.
+      3. Complaints and Grievance Handling
+The Company is committed to providing excellent Customer service and values feedback from its Customers. In the event of a complaint, the Company shall aim to resolve it fairly, efficiently, and in accordance with the principles outlined in the PO-BM-CS-02 Customer Service Policy and PO-BM-CS-01 Customer Protection Policy.
+   9. Roles And Responsibilities
+The Roles and Responsibilities are described in each country’s Policy Attachment I, Section G.
+   10. Policy Compliance
+      1. Loan Financing for Company Employees
+Company employees are prohibited from purchasing new or second-hand mobility assets from the Company, either directly or through intermediaries. However, employees may obtain loans to purchase connectivity assets, provided they inform the Company about the loan. This restriction does not apply to Company-owned assets that the Company decides to sell to employees (e.g., Company-owned equipment or vehicles), which can be sold through direct sales without a loan. Company-owned asset sales are governed by the PO-AM-AD-01 Asset Management Policy and PR-AM-AD-01 Asset Management Process.
+Where appropriate, the Company shall maintain a separate portfolio for employee loans to ensure better monitoring and risk management.
+      2. Avoiding Conflict of Interest
+Company employees are prohibited from processing or managing their own loans or those of their close relatives or any other relationship where a potential conflict of interest exists. Additionally, Company employees are not allowed to open their own legal entity (e.g., a dealership) and engage in business with Watu while employed, unless explicitly agreed upon in writing between the Company and the employee.
+Employees must report all potential conflicts of interest, including those arising from historical loan agreements or relationships with individuals who have loans with Watu, in accordance with the PO-AM-CM-02 Conflict of Interest Policy
+      3. Fraud Management
+Fraud, whether internal or external, constitutes a criminal offense and is addressed comprehensively in the PO-AM-RM-03 Theft and Fraud Prevention Policy. Watu will investigate all suspected fraud cases and, where warranted, engage law enforcement authorities.
+Employees suspected of involvement in vandalism or fraudulent activities shall be subject to an internal investigation in accordance with relevant internal policies, procedures, and national law.
+In cases of financial fraud, where evidence supports a case against current or former employees, the Company reserves the right to pursue criminal proceedings and financial recovery of losses.
+      4. Environment, Social, Governance (ESG) Considerations
+Watu upholds human rights, promotes diversity and inclusion, and does not discriminate based on race, color, religion, gender, gender expression, age, national origin, disability, marital status, social association, or military status. The Company fosters a workplace culture that values respect and promotes equal opportunities, as outlined in the PO-AM-HR-05 Equality, Diversity and Inclusion Policy and PO-AM-HR-06 Non-Discrimination and Anti-Harassment Policy.
+Watu is committed to integrating environmental, social, and governance (ESG) considerations into all aspects of its operations, as captured in the Company’s ESG mission statement: "Empowering millions of entrepreneurs, we commit to global sustainable practices while fostering financial and digital inclusion in every aspect of our work."
+To align with the environmental and social interests of the communities it operates in, Watu strives to:
+* Promote Financial Inclusion: Watu is committed to promoting financial inclusion by providing access to asset financing for individuals and businesses who may not qualify for traditional banking services. This includes individuals with limited credit history, those in underserved areas, and small businesses with limited collateral.
+* Practice Responsible Lending: Watu ensures responsible lending practices by conducting thorough assessments of borrowers' ability to repay loans, offering clear and transparent loan terms, and avoiding predatory lending practices.
+* Support Entrepreneurship and Income Generation: The Company prioritizes issuing long-term, high-value asset loans to Customers who intend to use these assets for business purposes, fostering entrepreneurship and income generation.
+* Ensure Loan Affordability: Watu's mobility asset finance program is designed to ensure that borrowers can generate sufficient income to comfortably repay their loans while maintaining or improving their standard of living.
+* Protect Vulnerable Customers: Watu only issues loans to Customers who are of legal age and meet the loan issuance requirements, protecting vulnerable individuals from taking on unmanageable debt.
+* Uphold Strong Governance: Watu maintains strong governance structures that ensure transparency, accountability, and ethical conduct, aligning the interests of its owners, management, and employees, and fostering a culture of responsible and sustainable growth.
+* Comply with Environmental Regulations: Watu complies with all applicable environmental regulations and strives to minimize its environmental impact through responsible business practices, supporting the transition to a greener economy.
+* Ethical Labour Practices: Watu is committed to upholding ethical labor practices and strictly prohibits the use of child labor in all its operations and supply chains. The Company adheres to all applicable national and international laws regarding minimum employment age, ensuring that all workers are above the statutory minimum age for employment in their respective countries. Watu also prohibits all forms of forced or compulsory labor, ensuring that no individual works under duress, threat of penalty, punishment, or retaliation. The Company recognizes and respects the rights of workers to organize, engage in trade union activities, and participate in collective bargaining, in accordance with applicable laws and regulations. Watu expects its suppliers and partners to uphold these same standards and to ensure that their operations are free from child labor and forced or compulsory labor. Watu reserves the right to terminate any partnership or agreement with any supplier or partner found to be in violation of these ethical labor practices.
+These practices are further detailed in the Company’s PO-AM-ESG-01 Environmental, Social and Governance Policy, PO-AM-HR-01 Employment Policy, PO-BS-CS-02 Customer Service Policy, and PO-BS-CS-01 Customer Protection Policy.
+      5. Data Security
+The Company prioritizes the security and privacy of Customer data. Electronic records are stored securely on Watu's computer systems, which are protected by robust cybersecurity measures.
+All physical and electronic documents and records shall be managed (collected, maintained, stored and disposed of) in accordance with the Company's PO-AM-CM-03 Data Privacy and Protection Policy, PO-AM-IT-02 Information and Cyber Security Management Policy and PR-AM-QM-01 Documents and Records management Process.
+      6. Policy Violation Management
+Violation of this policy or any other related policies referenced herein constitutes a disciplinary offense. Any employee found in breach of these policies shall be subject to disciplinary action in accordance with the PO-AM-HR-11 Disciplinary Policy, up to and including termination of employment. 
+ 
+________________
+
+
+Policy Approval
+The WATU Mobility Asset Financing Policy has been reviewed and approved by
+
+
+
+
+
+
+Position / Name and Surname / Signature / Date
+
+
+
+
+Position / Name and Surname / Signature / Date
+
+
+
+
+Position / Name and Surname / Signature / Date
+
+
+
+
+Position / Name and Surname / Signature / Date
+
+
+
+
+Position / Name and Surname / Signature / Date
+
+
+
+
+Position / Name and Surname / Signature / Date
+
+
+
+
+
+
+________________
+
+
+Sensitivity: Internal                Page  of 
+[a]@avarpins@watu.com is this correct?
+_Assigned to avarpins@watu.com_
+[b]@legal@watuafrica.co.tz @legal@watuafrica.co.ke @legal@watuafrica.co.tz @ckamukama@watuafrica.co.ug @avolokha@watuafrica.com @sbialyk@watuafrica.com @avarpins@watuafrica.com @aermins@watuafrica.com @vobi@watuafrica.sl 
+Can you all please review the changes in this and the following sections (4.5.6 - 4.5.9) regarding mobility assets? They have been added based on the suggestions from IA and Compliance.
+[c]From my end both sections are ok.
+[d]If the outcome of the legal action against a client involved in vandalism is agreement to compensate Watu- This section should also provide guidance on the value the client will have to pay; either of the following 
+i) Outstanding loan principle amount (at the time of incidence)
+ii) Outstanding loan principle PLUS Interest (at the time of incidence)
+iii)....
+Also Provide for no of installments, the mode of repayment (since they will no longer be our clients),- 
+
+
+Legal department- can also draft a standard agreement to handle such cases.
+
+
+I think Vandalism should be a separate sub-section 4.5.7 (instead of combining it with accidents sub-section)
+[e]@vmusiimire@watuafrica.co.ug  kindly take note of Fedencio's suggestion
+[f]Duly noted
+[g]Please check if the changes are ok
+[h]Ok
+[i]I think we should also provide for cases where the Bike is not insured, and the client is unable to make any further re-payments. 
+i.e., special time period provision and a consent form that requires clients/ next of kin/ guarantor to willfully give-up their rights so that watu can re-sale
+[j]@ckamukama@watuafrica.co.ug what is your take on this- how would it affect business / protect the company and @vmusiimire@watuafrica.co.ug can this be legally enforced?
+[k]Added a new section for this. Can you both please review and share your thoughts? This would need to be actually implemented as it is not happening but the point is to agree on the principles before we start actually implementing this :)
+[l]on my end it looks okay. Fedensio needs to confirm if it aligns with his idea.
+[m]There is no longer any insurance cover for repairs of any kind so i think mentioning it in general isn't useful. All we have is 3rd party on assets. May be for legacy loans. 
+
+
+Watu in principle prefers to stay away from 100% repairs of that side unless they are really small as costs are added onto the loan hence making it more difficult for client to continue paying the loan. 
+
+
+Principle should be that the client/ next of kin is given said 30 days for example to come up with some repair cost contribution. The 70/30% split is what we have always used depending on the customers payment behavior off course. very rare case without insurance now can we take on 100% repairs. even in disposal as a repo bike the accident bike would likely go for cash sale and not repaired.  
+if the client or next of kin fail then that asset moves into processes of PRC.
+[n]@ihertela@watuafrica.com am also ok with the inclusion
+[o]Per my knowledge if repayment rate is higher than XX % (85?) we are also transferring ownership to next of kin
+[p]@lvitola@watuafrica.com 
+Can you please try to find out?
+[q]Currently there is no such practice. All cases of natural death are treated as loan transfer cases or asset is sold.
+[r]_Marked as resolved_
+[s]_Re-opened_
+[t]Im sure we are practicing this in Ke, please double check. If we are not doing it in other countries we I think we should
+[u]I have asked KE BO team again and they say there is no such practice for cases of natural death. The loan is transferred to NOK, but it is not written off.

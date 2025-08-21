@@ -1,0 +1,102 @@
+version: "3.1"
+
+stories:
+  # ==================================
+  # Happy/Sad Path (General Conversation)
+  # ==================================
+  - story: happy path
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_great
+      - action: utter_happy
+
+  - story: sad path - user cheers up
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - intent: affirm
+      - action: utter_affirm
+
+  - story: sad path - user not helped
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - intent: deny
+      - action: utter_deny
+      - action: utter_goodbye   # now consistent with rule
+
+  # ==================================
+  # Specific Business Flow Stories
+  # ==================================
+  - story: User requests asset details (phone verification required)
+    steps:
+      - intent: check_asset_status
+      - action: utter_ask_for_phone_number
+      - intent: provide_phone_number
+      - action: action_verify_phone
+      - slot_was_set:
+          - phone_verified: true
+      - action: action_check_asset_status
+
+  - story: User enters an invalid phone number (phone verification fails)
+    steps:
+      - intent: check_asset_status
+      - action: utter_ask_for_phone_number
+      - intent: provide_phone_number
+      - action: action_verify_phone
+      - slot_was_set:
+          - phone_verified: false
+      - action: utter_invalid_phone_number
+
+  - story: User asks for smartphone financing
+    steps:
+      - intent: inquire_smartphone_financing
+      - action: action_inquire_smartphone_financing
+
+  - story: User asks why phone is locked
+    steps:
+      - intent: ask_why_phone_locked
+      - action: utter_why_phone_locked
+
+  - story: User's phone is locked despite payments
+    steps:
+      - intent: phone_locked_but_paid
+      - action: utter_phone_locked_but_paid
+
+  - story: User makes a payment
+    steps:
+      - intent: make_payment
+      - action: utter_make_payment
+
+  - story: User asks about Javan
+    steps:
+      - intent: about_javan
+      - action: utter_about_javan
+
+  - story: User switches language
+    steps:
+      - intent: set_language
+      - action: action_set_language
+
+  # ==================================
+  # Fallback Handling
+  # ==================================
+  - story: NLU fallback response
+    steps:
+      - intent: nlu_fallback
+      - action: action_multilingual_fallback
+
+  # ==================================
+  # RAG-Related Stories
+  # ==================================
+  - story: user asks a general RAG query
+    steps:
+      - intent: rag_query
+      - action: action_rag_search
