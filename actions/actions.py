@@ -7,16 +7,11 @@ import requests
 import psycopg2
 from typing import Any, Text, Dict, List, Optional, Tuple
 from dotenv import load_dotenv
-
-# RAG specific imports
 import chromadb
 from chromadb.utils import embedding_functions
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
-from langdetect import detect # New library for language detection
-
-# Rasa SDK imports
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import SlotSet, SessionStarted, ActionExecuted
@@ -24,22 +19,17 @@ from rasa_sdk.events import SlotSet, SessionStarted, ActionExecuted
 # Load environment variables
 load_dotenv()
 
-# ====================================================================================
-# Configuration
-# ====================================================================================
-
-# === General Setup ===
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# === Database Credentials ===
+#  Database Credentials
 DB_HOST = os.getenv("DB_HOST", "localhost")
 DB_NAME = os.getenv("DB_NAME", "postgres")
 DB_USER = os.getenv("DB_USER", "postgres")
 DB_PASSWORD = os.getenv("DB_PASSWORD", None)
 DB_PORT = os.getenv("DB_PORT", "5432")
 
-# === RAG & LLM Configuration ===
+# RAG & LLM Configuration 
 SIMILARITY_THRESHOLD = 0.2
 TOP_K = 10
 MAX_CONTEXT_CHARS = 2000
@@ -52,7 +42,7 @@ SYNONYM_MAPPING = {
     "location": ["address", "office"],
 }
 
-# === RAG Model Setup ===
+# RAG Model Setup
 device = "cuda" if torch.cuda.is_available() else "cpu"
 logger.info(f"Using device: {device}")
 
@@ -61,9 +51,6 @@ reranker_model_name = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 reranker_tokenizer = AutoTokenizer.from_pretrained(reranker_model_name)
 reranker_model = AutoModelForSequenceClassification.from_pretrained(reranker_model_name).to(device)
 
-# ====================================================================================
-# Helper Functions
-# ====================================================================================
 
 def get_db_connection(max_retries: int = 3) -> Tuple[Optional[psycopg2.extensions.connection], Optional[psycopg2.extensions.cursor]]:
     """Establishes a connection to the PostgreSQL database with retries."""
@@ -91,14 +78,6 @@ def get_db_connection(max_retries: int = 3) -> Tuple[Optional[psycopg2.extension
                 return None, None
     return None, None
 
-def get_user_language(text: str) -> str:
-    """Detects the language of the user's input using the langdetect library."""
-    try:
-        return detect(text)
-    except Exception as e:
-        logger.error(f"Language detection failed: {e}")
-        return "en"
-
 def log_missed_query(query: str):
     """Logs a query to a CSV file if no results are found."""
     try:
@@ -107,18 +86,13 @@ def log_missed_query(query: str):
             writer = csv.writer(f)
             if not file_exists:
                 writer.writerow(["timestamp", "query"])
-            writer.writerow([datetime.now().isoformat(), query])
+            writer.writerow([datetime.datetime.now().isoformat(), query])
         logger.info(f"Logged missed query: '{query}' to {MISSED_QUERIES_LOG}")
     except Exception as e:
         logger.error(f"Failed to log missed query: {e}")
 
-def get_llm_prompt(question: str, context: str, user_lang: str) -> str:
-    """Creates a dynamic prompt for the LLM based on user's language and tone."""
-    if user_lang == "sw":
-        tone_instruction = "Jibu kwa Kiswahili. Kuwa mfupi na mchangamfu."
-    else:
-        tone_instruction = "Answer in a friendly, concise, and direct manner."
-    
+def get_llm_prompt(question: str, context: str) -> str:
+    """Creates a dynamic prompt for the LLM."""
     prompt = f"""
     You are a helpful assistant who provides brief but informative answers.
     Your goal is to answer the user's question accurately and concisely,
@@ -126,7 +100,7 @@ def get_llm_prompt(question: str, context: str, user_lang: str) -> str:
     state that you don't have the information.
 
     Instructions:
-    1. {tone_instruction}
+    1. Answer in a friendly, concise, and direct manner.
     2. Start the response with the main point.
     3. Keep the answer to a maximum of 2-3 sentences.
     4. If there's relevant related information in the context,
@@ -140,9 +114,9 @@ def get_llm_prompt(question: str, context: str, user_lang: str) -> str:
     """
     return prompt
 
-def rephrase_with_local_llm(question: str, context: str, user_lang: str) -> str:
+def rephrase_with_local_llm(question: str, context: str) -> str:
     """Send question + retrieved chunks to local LLM for rephrasing."""
-    prompt = get_llm_prompt(question, context, user_lang)
+    prompt = get_llm_prompt(question, context)
 
     try:
         resp = requests.post(
@@ -198,15 +172,8 @@ def _normalize_phone_number(phone: str) -> str:
         cleaned_phone = "254" + cleaned_phone
     return cleaned_phone
 
-# ====================================================================================
-# Custom Rasa Actions
-# ====================================================================================
-
 class ActionRAGSearch(Action):
     def name(self) -> Text:
-        # NOTE: You used two different names, "action_semantic_retrieval" and
-        # "action_rag_search". I am keeping "action_rag_search" as it is more descriptive
-        # and you should update your rules.yml and stories.yml to use this name.
         return "action_rag_search"
 
     def run(
@@ -217,7 +184,6 @@ class ActionRAGSearch(Action):
     ) -> List[Dict[Text, Any]]:
 
         user_query = tracker.latest_message.get("text")
-        user_lang = get_user_language(user_query)
 
         try:
             # === Connect to ChromaDB ===
@@ -276,7 +242,7 @@ class ActionRAGSearch(Action):
             raw_context = "\n\n".join(context_chunks)
 
             # === Rephrase with Local LLM ===
-            final_answer = rephrase_with_local_llm(user_query, raw_context, user_lang)
+            final_answer = rephrase_with_local_llm(user_query, raw_context)
 
             # === Respond to user ===
             dispatcher.utter_message(text=final_answer)
@@ -309,13 +275,9 @@ class ActionWelcome(Action):
         return "action_welcome"
 
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        """Sends a welcome message with current time and language context."""
-        language = tracker.get_slot("language") or "en"
-        current_time = datetime.now().strftime("%H:%M %p")
-        if language == "sw":
-            dispatcher.utter_message(text=f"Karibu! Ni {current_time}. Jinsi gani ninaweza kukusaidia leo?")
-        else:
-            dispatcher.utter_message(text=f"Hello! It's {current_time}. These are your phone details?")
+        """Sends a welcome message with current time."""
+        current_time = datetime.datetime.now().strftime("%H:%M %p")
+        dispatcher.utter_message(text=f"Hello! It's {current_time}. How can I help you today?")
         return []
 
 class ActionHelp(Action):
@@ -324,11 +286,7 @@ class ActionHelp(Action):
 
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         """Provides a help message with available actions."""
-        language = tracker.get_slot("language") or "en"
-        if language == "sw":
-            dispatcher.utter_message(text="Ninaweza kukusaidia na: \n- Kuangalia hali ya mali \n- Kulipa malipo \n- Maswali kuhusu simu iliyofungwa \n- Maelezo ya Javan")
-        else:
-            dispatcher.utter_message(response="utter_help")
+        dispatcher.utter_message(response="utter_help")
         return []
 
 class ActionFallback(Action):
@@ -337,80 +295,8 @@ class ActionFallback(Action):
 
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         """Handles generic fallback for unrecognized inputs."""
-        language = tracker.get_slot("language") or "en"
-        if language == "sw":
-            dispatcher.utter_message(text="Samahani, sijasikia hiyo. Tafadhali jaribu tena.")
-        else:
-            dispatcher.utter_message(text="Sorry, I didn't understand that. Can you please rephrase?")
+        dispatcher.utter_message(text="Sorry, I didn't understand that. Can you please rephrase?")
         return []
-
-class ActionMultilingualFallback(Action):
-    def name(self) -> Text:
-        return "action_multilingual_fallback"
-
-    def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        """Handles fallback with language detection attempt."""
-        latest_message = tracker.latest_message.get("text", "").lower()
-        language = tracker.get_slot("language") or "en"
-        swahili_keywords = ["karibu", "samahani", "tafadhali", "sawa"]
-        if any(keyword in latest_message for keyword in swahili_keywords) and language != "sw":
-            dispatcher.utter_message(text="Tafadhali jaribu tena kwa Kiswahili au Kiingereza.")
-            return [SlotSet("language", "sw")]
-        else:
-            dispatcher.utter_message(text="Sorry, I didn't understand. Please try again in a supported language (English or Swahili).")
-        return []
-
-class ActionSetLanguage(Action):
-    def name(self) -> Text:
-        return "action_set_language"
-
-    def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        """Sets the user's preferred language."""
-        latest_message = tracker.latest_message.get("text", "").lower()
-        if "swahili" in latest_message or "kiswahili" in latest_message:
-            dispatcher.utter_message(text="Sawa, nimebadilisha lugha kuwa Kiswahili.")
-            return [SlotSet("language", "sw")]
-        elif "english" in latest_message:
-            dispatcher.utter_message(text="Okay, I have switched the language to English.")
-            return [SlotSet("language", "en")]
-        else:
-            dispatcher.utter_message(text="Please specify a language (e.g., English or Swahili).")
-        return []
-
-class ActionVerifyEmployee(Action):
-    def name(self) -> Text:
-        return "action_verify_employee"
-
-    def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        """Verifies if the user is a Watu employee."""
-        employee_id = tracker.get_slot("employee_id") or tracker.latest_message.get("text")
-        if not employee_id:
-            dispatcher.utter_message(text="Please provide your employee ID for verification.")
-            return [SlotSet("employee_id", None)]
-        conn, cursor = get_db_connection()
-        if not conn or not cursor:
-            dispatcher.utter_message(text="Sorry, there was an error verifying your employee status. Database connection failed.")
-            return []
-        try:
-            query = "SELECT employee_name FROM watu_employees WHERE employee_id = %s"
-            cursor.execute(query, (employee_id,))
-            employee = cursor.fetchone()
-            if employee:
-                employee_name = employee[0]
-                dispatcher.utter_message(text=f"Welcome, {employee_name}! You're verified as a Watu employee.")
-                return [SlotSet("employee_verified", True), SlotSet("employee_name", employee_name)]
-            else:
-                dispatcher.utter_message(response="utter_not_employee")
-                return [SlotSet("employee_verified", False)]
-        except Exception as e:
-            logger.error(f"Employee verification error: {e}")
-            dispatcher.utter_message(text="Sorry, there was an error verifying your employee status.")
-            return []
-        finally:
-            if cursor:
-                cursor.close()
-            if conn:
-                conn.close()
 
 class ActionVerifyPhone(Action):
     def name(self) -> Text:
@@ -420,9 +306,11 @@ class ActionVerifyPhone(Action):
         """Verifies the phone number from the 'mobile_no' slot."""
         phone_number = tracker.get_slot("mobile_no")
         logger.debug(f"Debug: phone_number from 'mobile_no' slot = {phone_number}")
+        
         entities = tracker.latest_message.get("entities", [])
         mobile_no_entity = next((e["value"] for e in entities if e["entity"] == "mobile_no"), None)
         logger.debug(f"Debug: mobile_no entity extracted = {mobile_no_entity}")
+        
         if not phone_number:
             if mobile_no_entity:
                 phone_number = mobile_no_entity
@@ -431,12 +319,15 @@ class ActionVerifyPhone(Action):
                 logger.debug("Debug: No phone number provided in slot or entity")
                 dispatcher.utter_message(response="utter_invalid_phone_number")
                 return [SlotSet("phone_verified", False)]
+        
         normalized_phone = _normalize_phone_number(phone_number)
         logger.debug(f"Debug: Normalized phone number = {normalized_phone}")
+        
         conn, cursor = get_db_connection()
         if not conn or not cursor:
             dispatcher.utter_message(text="Sorry, there was an error verifying your phone number. Database connection failed.")
             return []
+        
         try:
             query = "SELECT first_name FROM simu_active_loans WHERE mobile_no = %s"
             logger.debug(f"Debug: Running query with phone number: {normalized_phone}")
@@ -470,15 +361,19 @@ class ActionCheckAssetStatus(Action):
         if not tracker.get_slot("phone_verified"):
             dispatcher.utter_message(text="You need to verify your phone number first.")
             return []
+        
         mobile_no = tracker.get_slot("mobile_no")
         logger.debug(f"Debug: Checking asset details for phone number: {mobile_no}")
+        
         if not mobile_no:
             dispatcher.utter_message(response="utter_invalid_phone_number")
             return []
+        
         conn, cursor = get_db_connection()
         if not conn or not cursor:
             dispatcher.utter_message(text="Sorry, there was an error fetching asset details. Database connection failed.")
             return []
+        
         try:
             query = """
                 SELECT mobile_no, gender, country, imei
@@ -487,66 +382,19 @@ class ActionCheckAssetStatus(Action):
             cursor.execute(query, (mobile_no,))
             asset = cursor.fetchone()
             if asset:
-                language = tracker.get_slot("language") or "en"
-                if language == "sw":
-                    response = (
-                        "📱 **Maelezo ya Mali:**\n"
-                        f"- Namba ya Simu: {asset[0] or 'Hakuna'}\n"
-                        f"- Jinsia: {asset[1] or 'Hakuna'}\n"
-                        f"- Nchi: {asset[2] or 'Hakuna'}\n"
-                        f"- IMEI: {asset[3] or 'Hakuna'}"
-                    )
-                else:
-                    response = (
-                        "📱 **Asset Details:**\n"
-                        f"- Mobile Number: {asset[0] or 'N/A'}\n"
-                        f"- Gender: {asset[1] or 'N/A'}\n"
-                        f"- Country: {asset[2] or 'N/A'}\n"
-                        f"- IMEI: {asset[3] or 'N/A'}"
-                    )
+                response = (
+                    "📱 **Asset Details:**\n"
+                    f"- Mobile Number: {asset[0] or 'N/A'}\n"
+                    f"- Gender: {asset[1] or 'N/A'}\n"
+                    f"- Country: {asset[2] or 'N/A'}\n"
+                    f"- IMEI: {asset[3] or 'N/A'}"
+                )
                 dispatcher.utter_message(text=response)
             else:
                 dispatcher.utter_message(text="No asset details found for the provided phone number.")
         except Exception as e:
             logger.error(f"Query execution error: {e}")
             dispatcher.utter_message(text="Sorry, there was an error fetching asset details.")
-        finally:
-            if cursor:
-                cursor.close()
-            if conn:
-                conn.close()
-        return []
-
-class ActionInquireSmartphoneFinancing(Action):
-    def name(self) -> Text:
-        return "action_inquire_smartphone_financing"
-
-    def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        """Fetches available smartphones from the database."""
-        conn, cursor = get_db_connection()
-        if not conn or not cursor:
-            dispatcher.utter_message(text="Sorry, there was an error fetching smartphone financing details. Database connection failed.")
-            return []
-        try:
-            query = "SELECT model, storage, ram FROM available_smartphones"
-            cursor.execute(query)
-            phones = cursor.fetchall()
-            if phones:
-                language = tracker.get_slot("language") or "en"
-                if language == "sw":
-                    response = "📱 **Simu Zinazopatikana Kupitia Watu Simu:**\n"
-                    for phone in phones:
-                        response += f"- {phone[0]} ({phone[1]}/RAM {phone[2]})\n"
-                else:
-                    response = "📱 **Available Phones Through Watu Simu:**\n"
-                    for phone in phones:
-                        response += f"- {phone[0]} ({phone[1]}/RAM {phone[2]})\n"
-                dispatcher.utter_message(text=response)
-            else:
-                dispatcher.utter_message(response="utter_inquire_smartphone_financing")
-        except Exception as e:
-            logger.error(f"Query execution error: {e}")
-            dispatcher.utter_message(response="utter_inquire_smartphone_financing")
         finally:
             if cursor:
                 cursor.close()
