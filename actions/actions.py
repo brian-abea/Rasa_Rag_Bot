@@ -336,11 +336,11 @@ class ActionVerifyPhone(Action):
             if user:
                 first_name = user[0]
                 logger.debug(f"Debug: Account found: {first_name}")
-                dispatcher.utter_message(text=f"You are verified, {first_name}! How can I assist you?")
+                dispatcher.utter_message(text=f"You are verified, {first_name}! Here are your phone details")
                 return [SlotSet("phone_verified", True), SlotSet("first_name", first_name), SlotSet("mobile_no", normalized_phone)]
             else:
                 logger.debug(f"Debug: No user found for phone number {normalized_phone}")
-                dispatcher.utter_message(text="The phone number is not registered. Please contact Admin.")
+                dispatcher.utter_message(text="The phone number is not registered. Please confirm your loan details.")
                 return [SlotSet("phone_verified", False)]
         except Exception as e:
             logger.error(f"Query execution error: {e}")
@@ -371,7 +371,7 @@ class ActionCheckAssetStatus(Action):
         
         conn, cursor = get_db_connection()
         if not conn or not cursor:
-            dispatcher.utter_message(text="Sorry, there was an error fetching asset details. Database connection failed.")
+            dispatcher.utter_message(text="Sorry, there was an error fetching your loand details. Database connection failed.")
             return []
         
         try:
@@ -383,7 +383,7 @@ class ActionCheckAssetStatus(Action):
             asset = cursor.fetchone()
             if asset:
                 response = (
-                    "📱 **Asset Details:**\n"
+                    " **Asset Details:**\n"
                     f"- Mobile Number: {asset[0] or 'N/A'}\n"
                     f"- Gender: {asset[1] or 'N/A'}\n"
                     f"- Country: {asset[2] or 'N/A'}\n"
@@ -394,7 +394,7 @@ class ActionCheckAssetStatus(Action):
                 dispatcher.utter_message(text="No asset details found for the provided phone number.")
         except Exception as e:
             logger.error(f"Query execution error: {e}")
-            dispatcher.utter_message(text="Sorry, there was an error fetching asset details.")
+            dispatcher.utter_message(text="Sorry, there was an error fetching your loan details.")
         finally:
             if cursor:
                 cursor.close()

@@ -1,9 +1,7 @@
 version: "3.1"
 
 nlu:
-# ==================================
-# Structured/Watu-specific intents
-# ==================================
+
 - intent: check_asset_status
   examples: |
     - What is the status of my phone?
@@ -43,15 +41,6 @@ nlu:
     - My contact number is [0712345678](mobile_no)
     - This is my phone number: [0701234567](mobile_no)
     - [0722123456](mobile_no)
-
-- intent: about_javan
-  examples: |
-    - Who is Javan?
-    - Tell me about Javan
-    - What does Javan do?
-    - Do you know Javan?
-    - Give me details about Javan
-    - I want to know about Javan
 
 - intent: make_payment
   examples: |
@@ -122,36 +111,6 @@ nlu:
     - why is my phone still locked?
     - Paid but my phone is still locked
 
-- intent: inform
-  examples: |
-    - The phone details include..
-    - details are
-    - My number
-    - [25418781105](mobile_no)
-    - Number is [25698744656542](mobile_no)
-    - Mobile is [0712345678](mobile_no)
-
-- intent: set_language
-  examples: |
-    - I want to switch language
-    - Change to Swahili
-    - Can we talk in Swahili?
-    - Switch to English
-    - Use English
-    - Change language to Kiswahili
-    - Set language to English
-    - Talk in Swahili
-
-- intent: verify_employee
-  examples: |
-    - My employee ID is [EMP123](employee_id)
-    - Verify me as employee [E456](employee_id)
-    - I’m an employee, ID is [EMP789](employee_id)
-    - Check my employee status [E123](employee_id)
-
-# ==================================
-# Conversational/RAG-focused intents
-# ==================================
 - intent: greet
   examples: |
     - Hello
@@ -296,15 +255,6 @@ nlu:
     - What is your name?
     - I am a Watu Help AI Agent.
 
-- intent: ask_semantic_info
-  examples: |
-    - What should I do if my tracker isn't working?
-    - Tell me the process for replacing a GPS tracker
-    - How does tracker replacement work?
-    - When is a tracker considered faulty?
-    - I want to know about tracker issues
-    - Give me details about tracker performance evaluation
-
 - intent: rag_query
   examples: |
     - How do I install the tracker?
@@ -323,14 +273,25 @@ nlu:
     - What documents are required for a loan?
     - Explain Watu's repayment policies.
     - Where is the Watu office located?
+    - Where can I take my phone to be repaired?
+    - Where can my spoilt phone be repaired?
+    - My phone needs to be fixed.
+    - My phone is broken, how can I repair it?
+    - What do I do when my phone is lost?
+    - My phone was stolen.
+    - How do I report a lost phone?
+    - What happens if my device is stolen?
+    - I cannot afford to pay for the repairs of my phone.
+    - I want to return my phone to watu.
+    - How can I return my phone?
+    - What is the process for returning a phone?
+    - How do I report that my phone is stolen?
+    - I want to report that my phone is stolen?
+    - What is the replacement process for a phone?
+    - What happens if the phone is recovered?
+    - I want to return my device
+    - Where can I go for serevices nad repairs?
 
-- intent: fallback_rag
-  examples: |
-    - [empty placeholder]
-
-# ==================================
-# Regular Expressions (Regex)
-# ==================================
 - regex: mobile_no
   examples: |
     - \+?\d{10,15}

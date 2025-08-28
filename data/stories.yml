@@ -1,9 +1,7 @@
 version: "3.1"
 
 stories:
-  # ==================================
-  # Happy/Sad Path (General Conversation)
-  # ==================================
+
   - story: happy path
     steps:
       - intent: greet
@@ -17,7 +15,7 @@ stories:
       - action: utter_greet
       - intent: mood_unhappy
       - action: utter_cheer_up
-      - action: utter_did_that_help
+      - action: utter_help
       - intent: affirm
       - action: utter_affirm
 
@@ -27,14 +25,11 @@ stories:
       - action: utter_greet
       - intent: mood_unhappy
       - action: utter_cheer_up
-      - action: utter_did_that_help
+      - action: utter_help
       - intent: deny
       - action: utter_deny
-      - action: utter_goodbye   # now consistent with rule
+      - action: utter_goodbye
 
-  # ==================================
-  # Specific Business Flow Stories
-  # ==================================
   - story: User requests asset details (phone verification required)
     steps:
       - intent: check_asset_status
@@ -58,7 +53,7 @@ stories:
   - story: User asks for smartphone financing
     steps:
       - intent: inquire_smartphone_financing
-      - action: action_inquire_smartphone_financing
+      - action: utter_inquire_smartphone_financing
 
   - story: User asks why phone is locked
     steps:
@@ -75,28 +70,17 @@ stories:
       - intent: make_payment
       - action: utter_make_payment
 
-  - story: User asks about Javan
-    steps:
-      - intent: about_javan
-      - action: utter_about_javan
-
-  - story: User switches language
-    steps:
-      - intent: set_language
-      - action: action_set_language
-
-  # ==================================
-  # Fallback Handling
-  # ==================================
   - story: NLU fallback response
     steps:
       - intent: nlu_fallback
-      - action: action_multilingual_fallback
+      - action: action_fallback
 
-  # ==================================
-  # RAG-Related Stories
-  # ==================================
   - story: user asks a general RAG query
     steps:
       - intent: rag_query
       - action: action_rag_search
+
+  - story: User asks for help
+    steps:
+      - intent: help
+      - action: action_help

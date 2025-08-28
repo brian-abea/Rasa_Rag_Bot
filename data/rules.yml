@@ -1,9 +1,6 @@
 version: "3.1"
 
 rules:
-  # ==================================
-  # High-Priority Rules (Direct Responses)
-  # ==================================
   - rule: Respond to greeting
     steps:
       - intent: greet
@@ -19,32 +16,20 @@ rules:
       - intent: affirm
       - action: utter_affirm
 
-  - rule: Handle denial
-    steps:
-      - intent: deny
-      - action: utter_deny
-      - action: utter_goodbye   # aligned with story
-
   - rule: Respond to bot challenge
     steps:
       - intent: bot_challenge
       - action: utter_iamabot
 
-  # ==================================
-  # RAG-Specific Rules
-  # ==================================
   - rule: Respond to explicit RAG queries
     steps:
       - intent: rag_query
       - action: action_rag_search
 
-  # ==================================
-  # Structured Business Process Rules
-  # ==================================
   - rule: Respond to smartphone financing inquiry
     steps:
       - intent: inquire_smartphone_financing
-      - action: action_inquire_smartphone_financing
+      - action: utter_inquire_smartphone_financing
 
   - rule: Explain why phone is locked
     steps:
@@ -61,19 +46,6 @@ rules:
       - intent: make_payment
       - action: utter_make_payment
 
-  - rule: Switch language
-    steps:
-      - intent: set_language
-      - action: action_set_language
-
-  - rule: Verify employee
-    steps:
-      - intent: verify_employee
-      - action: action_verify_employee
-
-  # ==================================
-  # Rules with Conditions (Asset Status Flow)
-  # ==================================
   - rule: Request phone number for verification before checking asset status
     condition:
       - slot_was_set:
@@ -90,32 +62,16 @@ rules:
       - intent: check_asset_status
       - action: action_check_asset_status
 
-  - rule: Handle invalid or unregistered phone number
-    condition:
-      - slot_was_set:
-          - phone_verified: false
-    steps:
-      - intent: provide_phone_number
-      - action: action_verify_phone
-      - action: utter_invalid_phone_number
-
-  # ==================================
-  # Fallback Rules
-  # ==================================
-  - rule: Primary fallback (multilingual response)
+  - rule: Catch all for Fallback
     steps:
       - intent: nlu_fallback
-      - action: action_multilingual_fallback
+      - action: action_fallback
 
-  - rule: Secondary fallback (RAG search)
-    steps:
-      - intent: fallback_rag
-      - action: action_rag_search
-
-  # ==================================
-  # Session Management
-  # ==================================
   - rule: Welcome user on session start
     steps:
       - action: action_session_start
-      - action: action_welcome
+
+  - rule: User asks for help
+    steps:
+      - intent: help
+      - action: action_help
